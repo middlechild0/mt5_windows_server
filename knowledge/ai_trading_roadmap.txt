@@ -1,0 +1,210 @@
+AI-TRADING-ROADMAP FOR COPILOT
+================================
+Project: ICT AI Trading System (Initial pair: XAUUSD)
+Purpose: Single, Copilot-friendly spec file with roadmap, folder layout, DB rules, and code stubs to bootstrap Phase 1..N.
+Note: This file is intentionally prescriptive and includes small code stubs and TODO markers so Copilot can generate real code.
+
+--- OVERVIEW ---
+One shared rulebook: /knowledge/ict_rulebook.json
+Per-pair data & models: /data/backtest/{pair}/{pair}.csv and /models/{pair}_model.pkl
+Persistent store: SQLite DB at /sqlite_db/trading_data.db
+
+Initial active pair: XAUUSD
+Primary flow:
+1) Load & clean XAUUSD CSV -> produce xau.data
+2) Run rule engine using ict_rulebook.json -> produce signals
+3) Train pair-specific model using signals + backtest labels -> produce xau_model.pkl
+4) In demo mode, confirm signals with AI -> send trades via MT5 API (demo account)
+5) Log trades and retrain periodically
+
+--- FOLDER ARCHITECTURE (create these folders) ---
+project_root/
+├── knowledge/ict_rulebook.json
+├── data/
+│   └── backtest/
+│       └── xau/                # XAUUSD data folder
+│           ├── xau.csv         # raw CSV you will upload
+│           └── xau.data        # cleaned / normalized data
+├── signals/
+│   └── xau_signals.json
+├── models/
+│   └── xau_model.pkl
+├── logs/
+│   └── xau_trades.json
+├── sqlite_db/
+│   └── trading_data.db
+├── src/
+│   ├── data_handler.py
+│   ├── rule_engine.py
+│   ├── ai_trainer.py
+│   ├── trade_executor.py
+│   ├── ai_optimizer.py
+│   ├── pair_manager.py
+│   └── monitor.py
+└── README.md
+
+--- SQLITE SCHEMA (simple) ---
+Tables:
+1) pairs (pair TEXT PRIMARY KEY, last_update TIMESTAMP, path TEXT)
+2) signals (id TEXT PRIMARY KEY, pair TEXT, timestamp_utc TEXT, signal_type TEXT, direction TEXT, stored_path TEXT)
+3) models (pair TEXT PRIMARY KEY, model_path TEXT, last_trained TIMESTAMP, accuracy REAL)
+4) trades (trade_id TEXT PRIMARY KEY, pair TEXT, timestamp_utc TEXT, side TEXT, entry_price REAL, sl REAL, tp REAL, lots REAL, result REAL, raw_log TEXT)
+5) meta (key TEXT PRIMARY KEY, value TEXT)
+
+--- PHASE-BY-PHASE SPEC (Copilot actionable) ---
+
+PHASE 1 — Data Infrastructure (XAUUSD)
+======================================
+Goal: Load XAUCSV, clean it, save standardized .data file & register in SQLite.
+
+Tasks (data_handler.py):
+- Function: load_raw_csv(path: str) -> pd.DataFrame
+  - Reads CSV with columns: time, open, high, low, close, volume (ensure timezone UTC)
+  - Validate continuous timestamps; fill or flag gaps
+- Function: normalize_dataframe(df: pd.DataFrame) -> pd.DataFrame
+  - Ensure dtypes, set index as UTC datetime, compute ATR(14) column for later filters
+- Function: save_clean_data(df: pd.DataFrame, pair: str) -> str
+  - Saves to /data/backtest/{pair}/{pair}.data (parquet or CSV)
+  - Insert or update pairs table in SQLite with last_update and path
+
+TODOs for Copilot generation:
+- Add robust timestamp parser
+- Add simple missing-data policy (log and drop or forward-fill depending on gap length)
+- Unit tests: assert round-trip load/save equality for head rows
+
+PHASE 2 — Rule Engine (Using knowledge/ict_rulebook.json)
+========================================================
+Goal: Evaluate every candle for rule matches and produce signals file.
+
+Tasks (rule_engine.py):
+- Function: load_rulebook(path: str) -> dict
+- Function: detect_swings(df, min_separation=3) -> list of swing points
+- Function: detect_BOS(df, swings, params) -> list of BOS events
+- Function: detect_FVG(df, params) -> list of FVG objects (zone_high, zone_low, origin_index)
+- Function: evaluate_rules(df, rulebook) -> list of signal objects (match schema in rulebook LABEL_001)
+- Save signals to /signals/xau_signals.json and register in SQLite signals table
+
+Constraints for Copilot:
+- All features computed must use only historical candles up to the timestamp (no lookahead)
+- Use strict deterministic logic from ict_rulebook.json
+- Each signal must include rule_ids_matched list
+
+PHASE 3 — AI Trainer (Pair-specific model)
+==========================================
+Goal: Create a model that classifies signals as 'likely_win' or 'likely_loss' given features.
+
+Tasks (ai_trainer.py):
+- Function: build_feature_vector(signal, df) -> dict (use ML_001 feature list)
+- Function: label_signal(signal, df, params) -> label ('win'/'loss'/'no_result') using MODEL_001 rules
+- Function: train_model(X, y) -> model (start with LightGBM or sklearn RandomForest)
+- Save model to /models/xau_model.pkl and register in models table
+
+Notes for Copilot:
+- Use out-of-time split for validation (do not use random shuffle CV)
+- Store vectorized feature rows as /data/backtest/xau/xau_training.csv for reproducibility
+
+PHASE 4 — Trade Executor (Demo via MT5)
+=======================================
+Goal: Execute AI-approved signals to Exness demo via MT5 Python API.
+
+Tasks (trade_executor.py):
+- Function: confirm_with_ai(signal, model) -> (probability, decision_bool)
+- Function: compute_position_size(equity, risk_percent, sl_pips) -> lots
+- Function: place_order_mt5(pair, side, lots, sl, tp) -> order_confirmation
+- Log every order attempt in trades table and logs/xau_trades.json
+
+Safety:
+- Idempotency: use unique signal_id + dedupe window (10s)
+- Pre-checks: available_margin, max_concurrent_trades, max_daily_loss
+
+PHASE 5 — Continuous Learning & Retraining
+==========================================
+Goal: Retrain the pair model weekly or after N trades, store versions.
+
+Tasks (ai_optimizer.py):
+- Function: fetch_trade_outcomes(pair) -> list of outcomes
+- Function: incremental_retrain(model, new_X, new_y) -> updated_model
+- Versioning: Save model copies with timestamped filename and update models table
+
+PHASE 6 — Pair Manager & Switcher
+=================================
+Goal: Seamless switching between pairs (initially XAUUSD).
+
+Tasks (pair_manager.py):
+- Function: list_available_pairs() -> queries pairs table
+- Function: switch_to(pair) -> loads data, model, signals into memory cache
+- Ensure models & data for each pair are isolated on disk and in SQLite
+
+PHASE 7 — Monitoring & Safety
+=============================
+Goal: Track system health, halt trading on breaches.
+
+Tasks (monitor.py):
+- Function: compute_live_metrics() -> returns drawdown, daily PnL, open_trades_count
+- Function: halt_trading_on_thresholds(metrics, config) -> bool
+- Alerts: write to logs/monitor.json and (optional) send to Telegram webhook
+
+--- CODE STUBS (pseudocode) ---
+# The following stubs are included for Copilot to expand into real code.
+# Keep them minimal; Copilot should produce full functions based on TODO comments.
+
+# data_handler.py
+def load_raw_csv(path: str):
+    """Read CSV and return DataFrame with UTC datetime index."""
+    pass  # TODO: implement with pandas
+
+def normalize_dataframe(df):
+    """Normalize dtypes, compute ATR(14), ensure UTC index."""
+    pass
+
+def save_clean_data(df, pair):
+    """Save cleaned data and update SQLite pairs table."""
+    pass
+
+# rule_engine.py
+def load_rulebook(path: str = 'knowledge/ict_rulebook.json'):
+    """Load rule definitions JSON."""
+    pass
+
+def detect_swings(df, min_separation=3):
+    """Return swing points list (index, price, type 'high'/'low')."""
+    pass
+
+def detect_FVG(df):
+    """Return list of FVG zones with origin index and boundaries."""
+    pass
+
+def evaluate_rules(df, rulebook):
+    """Return list of signal dicts following LABEL_001 schema."""
+    pass
+
+# ai_trainer.py
+def build_feature_vector(signal, df):
+    """Compute ML_001 feature list for the given signal timestamp."""
+    pass
+
+def label_signal(signal, df, params):
+    """Label as 'win' or 'loss' using MODEL_001 rules."""
+    pass
+
+def train_model(X, y):
+    """Train and return model; save to /models/"""
+    pass
+
+# trade_executor.py
+def confirm_with_ai(signal, model):
+    """Return probability and boolean to execute (prob > threshold)."""
+    pass
+
+def place_order_mt5(pair, side, lots, sl, tp):
+    """Place order with MT5 Python API and return confirmation."""
+    pass
+
+--- DEVELOPMENT NOTES FOR COPILOT ---
+- Always keep functions deterministic and time-safe (no lookahead). Compute features only from data <= signal timestamp.
+- Use config.json to store all hyperparameters (ATR periods, displacement thresholds, risk% etc.).
+- For initial models prefer simple, explainable algorithms (RandomForest/LightGBM) before deep learning.
+- Keep all logs and artifacts in the structured folders above; this ensures reproducibility and retraining.
+- Implement basic unit tests for data loading, rule detection, and labeling to avoid silent logic errors.
+
+--- END ---

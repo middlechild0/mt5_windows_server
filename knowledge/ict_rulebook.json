@@ -1,0 +1,309 @@
+[
+  {
+    "id": "MS_001",
+    "concept": "Market Structure Shift (BOS)",
+    "description": "Detects a validated break of the most recent swing high (bullish) or swing low (bearish) that indicates a directional bias change.",
+    "signal_logic": "Identify consecutive swing points. If a candle close occurs beyond the previous confirmed swing high (bullish) or below previous confirmed swing low (bearish) and displacement magnitude >= displacement_threshold, mark BOS.",
+    "confirmations": [
+      "displacement_check",
+      "session_filter",
+      "volatility_filter"
+    ],
+    "entry_rules": [
+      "Wait for pullback to a nearby valid FVG, Order Block, or liquidity area on the same side as BOS",
+      "Prefer entries at candle-close rejection within the retracement zone"
+    ],
+    "exit_rules": [
+      "Primary: predefined RR ratio (configurable)",
+      "Secondary: close at next institutional liquidity cluster or opposite Order Block"
+    ],
+    "params": {
+      "displacement_threshold": "atr_multiplier*ATR(14) or absolute pip value (configurable)",
+      "min_swing_separation": 3
+    },
+    "notes": "Use BOS only when market context (higher timeframe bias) aligns; ignore minor BOS in consolidation ranges."
+  },
+  {
+    "id": "MS_002",
+    "concept": "Change Of Character (CHOCH)",
+    "description": "A subtle shift in structure indicating potential reversal when a higher low becomes a lower low or vice-versa.",
+    "signal_logic": "Detect when a previously established sequence of HH/HL or LL/LH is broken by a new swing that flips the sequence. Mark CHOCH when confirmed by close beyond the flipping swing.",
+    "confirmations": [
+      "volume_spike_optional",
+      "session_filter"
+    ],
+    "entry_rules": [
+      "Use CHOCH as early warning; require additional confirmation (FVG or SMT) before entry"
+    ],
+    "exit_rules": [
+      "Tighter stops; conservative TP due to higher uncertainty"
+    ],
+    "params": {
+      "confirmation_bars": 1
+    },
+    "notes": "Treat CHOCH as less-robust than BOS; pair with other concepts for trade entry."
+  },
+  {
+    "id": "IMB_001",
+    "concept": "Fair Value Gap (FVG)",
+    "description": "A three-candle imbalance where a buying or selling vacuum exists and may be revisited by price.",
+    "signal_logic": "For bullish FVG: candle1.low > candle3.high. For bearish FVG: candle1.high < candle3.low. Record gap high/low boundaries as the FVG zone.",
+    "confirmations": [
+      "price_return_to_zone",
+      "rejection_candle_in_zone",
+      "BOS_alignment"
+    ],
+    "entry_rules": [
+      "Prefer entry when price partially fills FVG and produces a rejection candle (pin/bar) at or within the zone",
+      "If full fill occurs without rejection, treat as invalid unless other confirmations exist"
+    ],
+    "exit_rules": [
+      "TP at nearest liquidity target or fixed RR",
+      "Stop below/above FVG opposite boundary"
+    ],
+    "params": {
+      "max_lookback_candles": 10,
+      "min_gap_size": "configurable in pips/points"
+    },
+    "notes": "Label FVGs with origin timestamp and ensure FVG is not within extreme noise candles (filter by ATR)."
+  },
+  {
+    "id": "IMB_002",
+    "concept": "Invalidate Fair Value Gap (IFVG)",
+    "description": "Criteria to mark an FVG as invalid for future entries.",
+    "signal_logic": "If price fully fills the FVG without showing a structural rejection or if subsequent BOS contradicts the expected direction, mark IFVG.",
+    "confirmations": [
+      "full_fill_without_rejection",
+      "contradictory_BOS"
+    ],
+    "entry_rules": [
+      "Do not use IFVG for entries; treat as historical imbalance only"
+    ],
+    "exit_rules": [],
+    "params": {
+      "full_fill_margin": "0 pips default or small tolerance"
+    },
+    "notes": "IFVG prevents reusing already consumed imbalances."
+  },
+  {
+    "id": "OB_001",
+    "concept": "Order Block (OB) / Institutional Block",
+    "description": "A last bullish/bearish candle block before a significant directional move, marking institutional interest.",
+    "signal_logic": "Detect the most recent imbalanced candle or cluster preceding a strong directional move (BOS). Mark OB boundaries as entry/stop guidance.",
+    "confirmations": [
+      "BOS_origin",
+      "volume_cluster_optional"
+    ],
+    "entry_rules": [
+      "Prefer limit entries near the edge of OB with rejection confirmation",
+      "Combine OB with FVG where overlapping for higher conviction"
+    ],
+    "exit_rules": [
+      "TP at next OB or liquidity cluster"
+    ],
+    "params": {
+      "max_ob_age_bars": 50
+    },
+    "notes": "Order Blocks require higher timeframe alignment to be reliable."
+  },
+  {
+    "id": "LIQ_001",
+    "concept": "Liquidity Pools / Stop-Hunt Zones",
+    "description": "Areas where clustered stop orders (above recent highs or below recent lows) may be targeted by institutions.",
+    "signal_logic": "Identify clusters of recent highs/lows, round-number proximity, and visible horizontal levels where price previously reversed. Label as buy-side or sell-side liquidity.",
+    "confirmations": [
+      "price_sweep_pattern",
+      "wick_cluster_presence"
+    ],
+    "entry_rules": [
+      "Entries can be taken after a clear sweep and rejection of liquidity pool; prefer confirmation candle"
+    ],
+    "exit_rules": [
+      "Partial profit at pre-sweep level, remainder to larger liquidity target"
+    ],
+    "params": {
+      "liquidity_cluster_threshold": 3
+    },
+    "notes": "Do not assume every wick is a sweep; require volume/tick confirmation where available."
+  },
+  {
+    "id": "SMT_001",
+    "concept": "SMT (Smart Money Technique) Divergence",
+    "description": "A divergence between correlated instruments (e.g., XAUUSD vs USD pairs) suggesting institutional activity or rotation.",
+    "signal_logic": "Compare directional movement on primary and correlated instrument. If primary makes new high while correlated does not (or vice versa), mark SMT divergence.",
+    "confirmations": [
+      "time-aligned movement",
+      "session_filter"
+    ],
+    "entry_rules": [
+      "Use SMT as secondary confirmation alongside BOS/FVG; prefer only moderate weighting in decision"
+    ],
+    "exit_rules": [
+      "Standard TP/SL rules"
+    ],
+    "params": {
+      "correlation_window_bars": 20
+    },
+    "notes": "SMT is a filter, not a standalone entry signal."
+  },
+  {
+    "id": "VOL_001",
+    "concept": "Session & Volatility Filter",
+    "description": "Session tagging and volatility regime detection to control when strategies are active.",
+    "signal_logic": "Map UTC timestamp to market sessions (Asia, London, NewYork). Compute ATR(14) and compare to volatility thresholds to classify low/normal/high volatility.",
+    "confirmations": [
+      "session_allowed_list",
+      "volatility_within_bounds"
+    ],
+    "entry_rules": [
+      "Only accept signals during allowed session list and acceptable volatility band unless override flag present"
+    ],
+    "exit_rules": [
+      "If volatility spikes after entry, consider trailing stops"
+    ],
+    "params": {
+      "sessions": [
+        "Asia",
+        "London",
+        "NewYork",
+        "Overlap"
+      ],
+      "atr_multiplier_low": 0.5,
+      "atr_multiplier_high": 2.5
+    },
+    "notes": "Default allowed sessions should be London and NY for XAUUSD; configurable per instrument."
+  },
+  {
+    "id": "DISP_001",
+    "concept": "Displacement / Momentum Validation",
+    "description": "Verify that structure breaks (BOS) or imbalances occur with sufficient momentum.",
+    "signal_logic": "Measure candle range relative to ATR; require displacement_range >= displacement_threshold (ATR multiplier) and optionally volume/tick rate increase.",
+    "confirmations": [
+      "atr_relative_check",
+      "optional_volume_spike"
+    ],
+    "entry_rules": [
+      "Reject BOS signals that do not meet displacement threshold"
+    ],
+    "exit_rules": [
+      "If displacement fades quickly, tighten stop or exit"
+    ],
+    "params": {
+      "displacement_threshold": 1.0
+    },
+    "notes": "Prevents weak false-break entries."
+  },
+  {
+    "id": "LABEL_001",
+    "concept": "Signal Object Schema (for logging & AI training)",
+    "description": "Deterministic schema for storing detected signals and their context for backtesting and AI training.",
+    "signal_logic": "On each detected event, create a signal object with fields below.",
+    "fields": [
+      "signal_id",
+      "timestamp_utc",
+      "symbol",
+      "timeframe",
+      "signal_type",
+      "direction",
+      "triggering_candles_reference",
+      "feature_vector_reference",
+      "entry_price_candidate",
+      "stop_loss_candidate",
+      "take_profit_candidate",
+      "confidence_score (if AI applied)",
+      "rule_ids_matched",
+      "session_tag",
+      "volatility_bucket",
+      "related_liquidity_levels",
+      "correlated_instruments_snapshot"
+    ],
+    "entry_rules": [
+      "Log each signal as JSON/row in model_data for training"
+    ],
+    "exit_rules": [],
+    "params": {},
+    "notes": "This schema must be strictly adhered to for AI reproducibility."
+  },
+  {
+    "id": "RM_001",
+    "concept": "Risk & Position Sizing",
+    "description": "Configurable risk rules to convert trade candidates into position sizes.",
+    "signal_logic": "Compute risk per trade as percent of equity; position_size = (equity * risk_percent) / risk_in_pips_converted_to_value.",
+    "confirmations": [
+      "max_daily_loss_check",
+      "max_drawdown_check",
+      "concurrent_exposure_limit"
+    ],
+    "entry_rules": [
+      "Enforce hard SL at broker level and code-level checks before sending order"
+    ],
+    "exit_rules": [
+      "Daily stop-out if losses exceed daily_limit"
+    ],
+    "params": {
+      "risk_percent": 0.5,
+      "max_daily_loss_percent": 2.0,
+      "max_concurrent_trades": 3
+    },
+    "notes": "Risk defaults must be configurable per account and instrument."
+  },
+  {
+    "id": "ML_001",
+    "concept": "AI Feature Set (initial)",
+    "description": "Concrete list of features to compute for each signal as input to the initial AI validator.",
+    "features": [
+      "session_tag",
+      "time_of_day_sin_cos",
+      "ATR(14) normalized",
+      "displacement_ratio (cand_range/ATR)",
+      "distance_to_nearest_FVG_in_pips",
+      "distance_to_nearest_OB_in_pips",
+      "is_BOS (binary)",
+      "is_CHOCH (binary)",
+      "recent_winrate_of_same_setup (rolling)",
+      "SMT_divergence_flag (binary)",
+      "spread_at_signal",
+      "volume_relative (if available)"
+    ],
+    "notes": "Features must be computed deterministically using only information available at the signal timestamp."
+  },
+  {
+    "id": "MODEL_001",
+    "concept": "AI Training & Labeling Rules (initial)",
+    "description": "Deterministic labeling rules for supervised learning of signal quality.",
+    "signal_logic": "Label a signal as 'win' if TP hit before SL within label_horizon_bars; 'loss' if SL hit first; 'no_result' if neither within horizon and optional exclusion.",
+    "confirmations": [
+      "use_realized_spread_and_commission_in_test",
+      "simulate_latency"
+    ],
+    "entry_rules": [
+      "Create training rows only for signals that would have been actionable given spread/latency"
+    ],
+    "exit_rules": [],
+    "params": {
+      "label_horizon_bars": 48,
+      "min_rr_for_labeling": 0.5
+    },
+    "notes": "Keep labeling rules identical between backtest and live logging."
+  },
+  {
+    "id": "OPS_001",
+    "concept": "Operational Safety & Idempotency",
+    "description": "Operational rules to ensure safe execution and no duplicate orders.",
+    "signal_logic": "Each external trigger must include unique invocation ID; deduplicate by ID and recent timestamp range.",
+    "confirmations": [
+      "order_ack_check",
+      "idempotency_key_check"
+    ],
+    "entry_rules": [
+      "Do not place order without confirmation of connectivity and account margins"
+    ],
+    "exit_rules": [
+      "On execution failure, log and escalate; do not retry indefinitely"
+    ],
+    "params": {
+      "idempotency_window_seconds": 10
+    },
+    "notes": "Critical for robustness and debugging."
+  }
+]

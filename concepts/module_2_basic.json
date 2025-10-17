@@ -1,0 +1,83 @@
+{
+  "name": "Basic Concepts - Core ICT Elements",
+  "description": "Introduction to order blocks, fair value gaps, and liquidity concepts",
+  "difficulty_level": 2,
+  "max_session_time": 45,
+  "completion_criteria": {
+    "understanding_score": 0.85,
+    "validation_score": 0.8,
+    "practical_application": 0.75
+  },
+  "rules": [
+    {
+      "id": "OB001",
+      "title": "Order Block Definition",
+      "when_condition": "Identifying institutional order flow",
+      "rule_text": "An order block is the last opposing candle before a strong directional move. Bullish order blocks are the last down-closing candle before upward displacement.",
+      "risk_level": "MEDIUM",
+      "category": "order_blocks",
+      "difficulty_level": 2,
+      "prerequisites": [
+        "MS001",
+        "MS002"
+      ],
+      "validation_questions": [
+        "What is an order block?",
+        "How do you identify a bullish order block?",
+        "What creates an order block?"
+      ],
+      "examples": [
+        "Bullish OB: Last red candle before 50+ pip upward move",
+        "Bearish OB: Last green candle before 50+ pip downward move"
+      ]
+    },
+    {
+      "id": "FVG001",
+      "title": "Fair Value Gap Identification",
+      "when_condition": "Analyzing price inefficiencies",
+      "rule_text": "A fair value gap is a three-candle pattern where the first candle's high/low doesn't overlap with the third candle's low/high, creating an imbalance.",
+      "risk_level": "MEDIUM",
+      "category": "fair_value_gaps",
+      "difficulty_level": 2,
+      "prerequisites": [
+        "MS001"
+      ],
+      "validation_questions": [
+        "How many candles form a fair value gap?",
+        "What creates the price imbalance?",
+        "How do you measure a valid FVG?"
+      ],
+      "examples": [
+        "Bullish FVG: Gap between candle 1 high and candle 3 low",
+        "Bearish FVG: Gap between candle 1 low and candle 3 high"
+      ]
+    },
+    {
+      "id": "LIQ001",
+      "title": "Liquidity Identification",
+      "when_condition": "Analyzing potential price targets",
+      "rule_text": "Liquidity rests above old highs (buy stops) and below old lows (sell stops). Equal highs and lows create strong liquidity pools.",
+      "risk_level": "LOW",
+      "category": "liquidity",
+      "difficulty_level": 2,
+      "prerequisites": [
+        "MS001"
+      ],
+      "validation_questions": [
+        "Where does buy-stop liquidity rest?",
+        "Where does sell-stop liquidity rest?",
+        "What creates strong liquidity pools?"
+      ],
+      "examples": [
+        "Double top = buy stops above equal highs",
+        "Double bottom = sell stops below equal lows"
+      ]
+    }
+  ],
+  "learning_objectives": [
+    "Identify order blocks correctly",
+    "Recognize fair value gaps and imbalances",
+    "Locate liquidity pools and stop levels",
+    "Understand institutional order flow"
+  ]
+}

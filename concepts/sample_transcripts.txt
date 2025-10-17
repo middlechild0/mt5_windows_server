@@ -1,0 +1,41 @@
+ICT Trading Concepts and Strategies
+
+Market Structure and Order Blocks
+When we look at market structure, we need to understand that institutions leave their footprints in the form of order blocks. These are areas where large orders were filled, creating imbalances in the market. A bullish order block is formed when we see a strong bullish candle that creates displacement to the upside. This area becomes a demand zone where we can expect price to react if it returns.
+
+Similarly, a bearish order block is created when we see aggressive selling that creates displacement to the downside. These supply zones are areas where we can expect selling pressure if price returns to these levels.
+
+Fair Value Gaps and Imbalances
+Fair value gaps are areas where price moved so quickly that it left an imbalance or inefficiency in the market. These gaps often act as magnets for price, as the market seeks to fill these inefficiencies. When we see a fair value gap, we should mark it and watch for price to return and fill that gap.
+
+Liquidity Concepts
+Institutional traders are always seeking liquidity. They need to accumulate or distribute large positions without moving the market against them. This is why they often engineer moves to grab liquidity from retail traders. Stop hunts and liquidity grabs are common before significant moves in the opposite direction.
+
+When we see equal highs or equal lows, these represent areas where retail traders place their stops. Institutions will often target these levels to grab liquidity before making their intended move.
+
+Session Analysis and Kill Zones
+The London session is typically the most volatile, especially during the London open kill zone from 2:00-5:00 AM EST. This is when European traders and institutions are most active. The New York session overlap with London creates additional volatility and opportunity.
+
+During the Asian session, we often see consolidation and range-bound price action. This is a good time to identify key levels and prepare for the more volatile European and American sessions.
+
+Risk Management and Position Sizing
+Proper risk management is crucial for long-term success. Never risk more than 1-2% of your account on a single trade. Position sizing should be calculated based on your stop loss distance and account size.
+
+The 1% rule means that if your stop loss is hit, you only lose 1% of your account balance. This allows you to survive drawdown periods and compound your gains over time.
+
+Entry and Exit Strategies
+Look for confluences of multiple factors before entering a trade. This might include order block rejection, fair value gap fill, break of structure, and liquidity grab followed by reversal.
+
+For exits, always have a plan before entering the trade. Take partial profits at key resistance support levels and let runners go to major targets. Trail your stop loss to breakeven once you're in profit by 1R.
+
+Change of Character and Break of Structure
+A change of character occurs when the market shifts from making higher highs and higher lows to making lower highs and lower lows, or vice versa. This is an early signal of a potential trend change.
+
+A break of structure is a more definitive signal that occurs when price breaks a significant swing high or low with conviction. This confirms the change in market structure and often leads to continuation in the new direction.
+
+Displacement and Strong Moves
+When we see displacement strong impulsive moves with little to no retracement this indicates institutional involvement. These moves often leave behind order blocks and fair value gaps that we can use for future trading opportunities.
+
+Strong bullish displacement suggests institutional buying and often leads to higher prices after a brief retracement to fill any gaps or test order blocks.
+
+Strong bearish displacement suggests institutional selling and distribution, often leading to lower prices after any brief counter-trend moves.

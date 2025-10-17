@@ -1,0 +1,4992 @@
+ICT Trading AI - Final Training Dataset
+=============================================
+
+Dataset: ICT 2024 Mentorship Series - Final Optimized Dataset
+Created: 2025-10-02T13:28:44.925895
+Videos: 48
+Content Lines: 23,512
+Characters: 889,649
+
+CONCEPT ANALYSIS:
+--------------------
+Order Blocks: 859 mentions (high)
+Fair Value Gaps: 2471 mentions (high)
+Liquidity: 2994 mentions (high)
+Smart Money: 2027 mentions (high)
+Market Structure: 135 mentions (high)
+Price Action: 783 mentions (high)
+Sessions: 228 mentions (high)
+Instruments: 5459 mentions (high)
+Risk Management: 935 mentions (high)
+Advanced Concepts: 143 mentions (high)
+
+============================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #7 August 13, 2024
+Lines: 912 | Method: enhanced
+--------------------------------------------------------------------------------
+sells side and balance buy side and
+sells side and balance buy side and
+sells side and balance buy side and
+chart really wonky type of price action
+chart really wonky type of price action
+chart really wonky type of price action
+we're looking at naked price action
+we're looking at naked price action
+we're looking at naked price action
+the new day opening Gap high that formed
+the new day opening Gap high that formed
+the new day opening Gap high that formed
+Entry idea I want to see how if it can
+Entry idea I want to see how if it can
+Entry idea I want to see how if it can
+trade to that daily level or the weekly
+trade to that daily level or the weekly
+trade to that daily level or the weekly
+up a lot I'm not interested in buying
+up a lot I'm not interested in buying
+up a lot I'm not interested in buying
+long I'm not interested in going short
+long I'm not interested in going short
+long I'm not interested in going short
+initial High initial low for liquidity
+initial High initial low for liquidity
+initial High initial low for liquidity
+direction pick a Target pick a liquidity
+direction pick a Target pick a liquidity
+direction pick a Target pick a liquidity
+go so that's my initial sell side
+go so that's my initial sell side
+go so that's my initial sell side
+liquidity so I think this is a factor
+liquidity so I think this is a factor
+liquidity so I think this is a factor
+type of price action because I'm trying
+type of price action because I'm trying
+type of price action because I'm trying
+price action and say okay from where it
+price action and say okay from where it
+price action and say okay from where it
+breaker trades there with a consequent
+breaker trades there with a consequent
+breaker trades there with a consequent
+trades into the rejection block which is
+trades into the rejection block which is
+trades into the rejection block which is
+Weekly fair value Gap or Cy that's this
+Weekly fair value Gap or Cy that's this
+Weekly fair value Gap or Cy that's this
+Friday's new day opening Gap so there's
+Friday's new day opening Gap so there's
+Friday's new day opening Gap so there's
+Friday's new day opening Gap and also
+Friday's new day opening Gap and also
+Friday's new day opening Gap and also
+that uh new day opening gap which is why
+that uh new day opening gap which is why
+that uh new day opening gap which is why
+this right here is our initial buy side
+this right here is our initial buy side
+this right here is our initial buy side
+buy side or sell side on PPI and CPI
+buy side or sell side on PPI and CPI
+buy side or sell side on PPI and CPI
+uh price action which kind of makes it a
+uh price action which kind of makes it a
+uh price action which kind of makes it a
+daily range will be formed doesn't mean
+daily range will be formed doesn't mean
+daily range will be formed doesn't mean
+all right so we have had the buy side
+all right so we have had the buy side
+all right so we have had the buy side
+bell and we have no run on sell side yet
+bell and we have no run on sell side yet
+bell and we have no run on sell side yet
+the best stop loss location or where to
+the best stop loss location or where to
+the best stop loss location or where to
+move your stop loss you're trying to get
+move your stop loss you're trying to get
+move your stop loss you're trying to get
+back and forth type price action where
+back and forth type price action where
+back and forth type price action where
+the draw on liquidity and that's the
+the draw on liquidity and that's the
+the draw on liquidity and that's the
+watching price action enjoyable it's
+watching price action enjoyable it's
+watching price action enjoyable it's
+lower again I'm not trying to buy it I'm
+lower again I'm not trying to buy it I'm
+lower again I'm not trying to buy it I'm
+people how to be a buyer in discounts
+people how to be a buyer in discounts
+people how to be a buyer in discounts
+how to identify discount anyone that's
+... and 812 more lines
+
+================================================================================
+
+VIDEO: New Week Commentary For Nq Futures December 01, 2024
+Lines: 246 | Method: light_filtering
+--------------------------------------------------------------------------------
+Sunday about 10 minutes after 4 Eastern
+Sunday about 10 minutes after 4 Eastern
+Sunday about 10 minutes after 4 Eastern
+weekly chart I have the high and the low
+weekly chart I have the high and the low
+weekly chart I have the high and the low
+NQ and we have this inbalance in here
+NQ and we have this inbalance in here
+NQ and we have this inbalance in here
+and with have a volume IM balance right
+and with have a volume IM balance right
+and with have a volume IM balance right
+have that on your chart as well so we
+have that on your chart as well so we
+have that on your chart as well so we
+have buy side sitting
+have buy side sitting
+have buy side sitting
+here sell side sitting
+here sell side sitting
+here sell side sitting
+avoid picking a top in the in the market
+avoid picking a top in the in the market
+avoid picking a top in the in the market
+High using this retracement to this High
+High using this retracement to this High
+High using this retracement to this High
+chart see that we
+have this Gap and then this buy side
+have this Gap and then this buy side
+have this Gap and then this buy side
+have this volume of balance with this C
+have this volume of balance with this C
+have this volume of balance with this C
+that you can see the bodies are
+respecting here and consequent
+respecting here and consequent
+respecting here and consequent
+encroachment of this range see it trade
+encroachment of this range see it trade
+encroachment of this range see it trade
+X I said that uh this promotes very
+X I said that uh this promotes very
+X I said that uh this promotes very
+difficult trading for sustained price
+difficult trading for sustained price
+difficult trading for sustained price
+runs doesn't mean you can't take trades
+runs doesn't mean you can't take trades
+runs doesn't mean you can't take trades
+just means that to have sustained price
+just means that to have sustained price
+just means that to have sustained price
+runs from the daily
+runs from the daily
+runs from the daily
+perspective this Cy in here price has
+long and it's normal because of the
+long and it's normal because of the
+long and it's normal because of the
+US makes a little bit less
+US makes a little bit less
+US makes a little bit less
+into the marketplace and you saw that
+into the marketplace and you saw that
+into the marketplace and you saw that
+range bound activity and then we have
+range bound activity and then we have
+range bound activity and then we have
+could be treated as an inversion fair
+could be treated as an inversion fair
+could be treated as an inversion fair
+Catalyst to send price up above
+Catalyst to send price up above
+Catalyst to send price up above
+extension level that I just showed on
+extension level that I just showed on
+extension level that I just showed on
+the daily chart drop down into an hourly
+the daily chart drop down into an hourly
+the daily chart drop down into an hourly
+chart now so we have these relative
+chart now so we have these relative
+chart now so we have these relative
+Wick with these relative equal highs my
+Wick with these relative equal highs my
+Wick with these relative equal highs my
+these two relative equal highs and does
+these two relative equal highs and does
+these two relative equal highs and does
+it show strength and willingness
+it show strength and willingness
+it show strength and willingness
+to protract from these highs and then
+to protract from these highs and then
+to protract from these highs and then
+top of that potential inversion fair
+top of that potential inversion fair
+top of that potential inversion fair
+value Gap this Drew on the daily chart
+... and 146 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship High Resistance & Low Resistance Conditions October 28, 2024
+Lines: 602 | Method: enhanced
+--------------------------------------------------------------------------------
+liquidity it's also it's important for
+liquidity it's also it's important for
+liquidity it's also it's important for
+algorithmic and that means when we do
+algorithmic and that means when we do
+algorithmic and that means when we do
+our buying and selling we're pretty
+our buying and selling we're pretty
+our buying and selling we're pretty
+people are coming in to short sell it it
+people are coming in to short sell it it
+people are coming in to short sell it it
+buyers it's just in a buy program just
+buyers it's just in a buy program just
+buyers it's just in a buy program just
+say Okay I want to be a buyer because
+say Okay I want to be a buyer because
+say Okay I want to be a buyer because
+this or I want to be a short seller
+this or I want to be a short seller
+this or I want to be a short seller
+realized in price action and therefore
+realized in price action and therefore
+realized in price action and therefore
+between a low resistance liquidity
+between a low resistance liquidity
+between a low resistance liquidity
+instance so low resistance liquidity
+instance so low resistance liquidity
+instance so low resistance liquidity
+using the highest form of Leverage that
+using the highest form of Leverage that
+using the highest form of Leverage that
+little segment of price action in that
+little segment of price action in that
+little segment of price action in that
+at the premarket session because many
+at the premarket session because many
+at the premarket session because many
+my target that was my premarket session
+my target that was my premarket session
+my target that was my premarket session
+forth price action and I'll show you
+forth price action and I'll show you
+forth price action and I'll show you
+as well be a new day opening Gap
+as well be a new day opening Gap
+as well be a new day opening Gap
+that means the first profitable exit
+that means the first profitable exit
+that means the first profitable exit
+out he doesn't hold for the best exit he
+out he doesn't hold for the best exit he
+out he doesn't hold for the best exit he
+exits when I was struggling in the brand
+exits when I was struggling in the brand
+exits when I was struggling in the brand
+afraid to enter I was afraid that I'd be
+afraid to enter I was afraid that I'd be
+afraid to enter I was afraid that I'd be
+wrong I was afraid I was going to M
+wrong I was afraid I was going to M
+wrong I was afraid I was going to M
+profitable exits so you all have seen me
+profitable exits so you all have seen me
+profitable exits so you all have seen me
+see how I Trail my stop loss you see all
+see how I Trail my stop loss you see all
+see how I Trail my stop loss you see all
+my exits that's still my weak point I
+my exits that's still my weak point I
+my exits that's still my weak point I
+was not satisfied with that trade exit
+was not satisfied with that trade exit
+was not satisfied with that trade exit
+exits that are profitable and I found
+exits that are profitable and I found
+exits that are profitable and I found
+that I was usually exiting admittedly at
+that I was usually exiting admittedly at
+that I was usually exiting admittedly at
+trade long because I had all those
+trade long because I had all those
+trade long because I had all those
+noticed that I'm doing I'm exiting early
+all my trades were exiting early and 90%
+all my trades were exiting early and 90%
+all my trades were exiting early and 90%
+of them were impulsively exiting meaning
+of them were impulsively exiting meaning
+of them were impulsively exiting meaning
+to It's not the buy the sell here's the
+to It's not the buy the sell here's the
+to It's not the buy the sell here's the
+started seeing things in my exits when I
+started seeing things in my exits when I
+started seeing things in my exits when I
+applicable to New Day opening gaps too
+applicable to New Day opening gaps too
+applicable to New Day opening gaps too
+... and 502 more lines
+
+================================================================================
+
+VIDEO: NQ December 05, 2024 Seek & Destroy Review
+Lines: 88 | Method: enhanced
+--------------------------------------------------------------------------------
+there was a volume imbalance you can
+there was a volume imbalance you can
+there was a volume imbalance you can
+simple cut and dry draw on liquidity or
+simple cut and dry draw on liquidity or
+simple cut and dry draw on liquidity or
+a range in here on the daily chart that
+a range in here on the daily chart that
+a range in here on the daily chart that
+see a trade down to that have a breaker
+see a trade down to that have a breaker
+see a trade down to that have a breaker
+here was high low higher high down close
+here was high low higher high down close
+here was high low higher high down close
+the market does in fact trade
+the market does in fact trade
+the market does in fact trade
+it looks like we've taken the buy side
+it looks like we've taken the buy side
+it looks like we've taken the buy side
+you that is a minor buy
+you that is a minor buy
+you that is a minor buy
+side meaning buy stops Above This high
+side meaning buy stops Above This high
+side meaning buy stops Above This high
+sell stops above this I'm sorry below
+sell stops above this I'm sorry below
+sell stops above this I'm sorry below
+primary this is primary buy side this is
+primary this is primary buy side this is
+primary this is primary buy side this is
+primary sell
+primary sell
+primary sell
+side minor sell
+side minor buy side okay so I indicated
+side minor buy side okay so I indicated
+side minor buy side okay so I indicated
+structure there so as the market trades
+structure there so as the market trades
+structure there so as the market trades
+right down to the price but the spread
+right down to the price but the spread
+right down to the price but the spread
+filled there either so the market
+filled there either so the market
+filled there either so the market
+okay so we have high higher high higher
+okay so we have high higher high higher
+okay so we have high higher high higher
+had high High higher high higher high so
+had high High higher high higher high so
+had high High higher high higher high so
+buy and sell buttons up here which is
+buy and sell buttons up here which is
+buy and sell buttons up here which is
+then the market trades lower comes back
+then the market trades lower comes back
+then the market trades lower comes back
+up in and I'm treating this as a premium
+up in and I'm treating this as a premium
+up in and I'm treating this as a premium
+reclaimed sell side and balance buy side
+reclaimed sell side and balance buy side
+reclaimed sell side and balance buy side
+price action in here whereas it's back
+price action in here whereas it's back
+price action in here whereas it's back
+aggressively sells off into
+aggressively sells off into
+aggressively sells off into
+was the limit order being filled so I
+was the limit order being filled so I
+was the limit order being filled so I
+lower low lower low so all these lows
+lower low lower low so all these lows
+lower low lower low so all these lows
+good candidate for sell side liquidity
+good candidate for sell side liquidity
+good candidate for sell side liquidity
+I will resume doing Forex market reviews
+I will resume doing Forex market reviews
+I will resume doing Forex market reviews
+also do a continuation of index Futures
+also do a continuation of index Futures
+also do a continuation of index Futures
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship September 11, 2024
+Lines: 322 | Method: enhanced
+--------------------------------------------------------------------------------
+driver we have a huge premium
+and with the order block right there on
+and with the order block right there on
+and with the order block right there on
+discount array be interesting to see if
+discount array be interesting to see if
+discount array be interesting to see if
+new day opening gap on the 11th today's
+new day opening gap on the 11th today's
+new day opening gap on the 11th today's
+new day opening Gap draw liquidity
+becomes now a balanced price range it
+becomes now a balanced price range it
+becomes now a balanced price range it
+little segment of price action which is
+little segment of price action which is
+little segment of price action which is
+okay 15 minutes trading so
+low buy side would be on the other side
+low buy side would be on the other side
+low buy side would be on the other side
+be your minor buy side and your minor
+be your minor buy side and your minor
+be your minor buy side and your minor
+sell side that's the cool liquidity that
+sell side that's the cool liquidity that
+sell side that's the cool liquidity that
+short-term sell side and buy side you
+short-term sell side and buy side you
+short-term sell side and buy side you
+trading algorithms are doing they're
+trading algorithms are doing they're
+trading algorithms are doing they're
+they're doing these things all day long
+they're doing these things all day long
+they're doing these things all day long
+liquidity always it's not just above old
+liquidity always it's not just above old
+liquidity always it's not just above old
+algorithm can operate without having a
+algorithm can operate without having a
+algorithm can operate without having a
+new day opening gap of September 11 and
+new day opening gap of September 11 and
+new day opening gap of September 11 and
+cell side liquidity so it's
+cell side liquidity so it's
+cell side liquidity so it's
+entirety of the daily range it doesn't
+entirety of the daily range it doesn't
+entirety of the daily range it doesn't
+done on micro Market structure like this
+done on micro Market structure like this
+done on micro Market structure like this
+leverage but you can do a lot of these
+leverage but you can do a lot of these
+leverage but you can do a lot of these
+ugly price action you can use a
+ugly price action you can use a
+ugly price action you can use a
+optimal trade entry every fair value Gap
+optimal trade entry every fair value Gap
+optimal trade entry every fair value Gap
+every potential inversion fair value Gap
+every potential inversion fair value Gap
+every potential inversion fair value Gap
+every order block and then because you
+every order block and then because you
+every order block and then because you
+that would promote a discount array to
+that would promote a discount array to
+that would promote a discount array to
+sideways allowing and affording uh buy
+sideways allowing and affording uh buy
+sideways allowing and affording uh buy
+in price or identify a premium array
+in price or identify a premium array
+in price or identify a premium array
+opportunity for sell-side
+opportunity for sell-side
+opportunity for sell-side
+high frequency trading algorithm is
+high frequency trading algorithm is
+high frequency trading algorithm is
+there are there are algorithms that try
+there are there are algorithms that try
+there are there are algorithms that try
+vilify algorithms algorithms are messing
+vilify algorithms algorithms are messing
+vilify algorithms algorithms are messing
+up everything algorithms are actually
+up everything algorithms are actually
+up everything algorithms are actually
+liquidity and that should be smiled upon
+liquidity and that should be smiled upon
+liquidity and that should be smiled upon
+liquidity in the marketplace because of
+liquidity in the marketplace because of
+liquidity in the marketplace because of
+buying and selling it's not just they're
+... and 222 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Premarket Tape Reading NQ Futures October 21, 2024
+Lines: 193 | Method: enhanced
+--------------------------------------------------------------------------------
+pre-market tape reading session with you
+pre-market tape reading session with you
+pre-market tape reading session with you
+probabilities of moving from a discount
+probabilities of moving from a discount
+probabilities of moving from a discount
+to a premium array or a premium array to
+to a premium array or a premium array to
+to a premium array or a premium array to
+a discount array in other words
+a discount array in other words
+a discount array in other words
+obvious level to take profits lower or
+obvious level to take profits lower or
+obvious level to take profits lower or
+obvious level to take profit and
+obvious level to take profit and
+obvious level to take profit and
+sell so I have stripped this thing down
+sell so I have stripped this thing down
+sell so I have stripped this thing down
+and Asian session liquidity pools now
+and Asian session liquidity pools now
+and Asian session liquidity pools now
+trades until 5 o' then has the 1 hour uh
+trades until 5 o' then has the 1 hour uh
+trades until 5 o' then has the 1 hour uh
+such a discount relative to that and
+such a discount relative to that and
+such a discount relative to that and
+liquidity sitting under this
+liquidity sitting under this
+liquidity sitting under this
+block of price action it's just a little
+block of price action it's just a little
+block of price action it's just a little
+session sell side liquidity now I'm
+session sell side liquidity now I'm
+session sell side liquidity now I'm
+liquidity was St below that time of day
+liquidity was St below that time of day
+liquidity was St below that time of day
+premium or discount array will form and
+premium or discount array will form and
+premium or discount array will form and
+you can trade the pre-market session
+you can trade the pre-market session
+you can trade the pre-market session
+liquidity run days these reference
+liquidity run days these reference
+liquidity run days these reference
+for the market to draw to now taking buy
+for the market to draw to now taking buy
+for the market to draw to now taking buy
+side liquidity and sell-side liquidity
+side liquidity and sell-side liquidity
+side liquidity and sell-side liquidity
+nearby swing highs and lows and then
+nearby swing highs and lows and then
+nearby swing highs and lows and then
+framing on which swing highs and Swing
+framing on which swing highs and Swing
+framing on which swing highs and Swing
+Swing lows which are they well in London
+Swing lows which are they well in London
+Swing lows which are they well in London
+a.m. Now where's the liquidity in that
+a.m. Now where's the liquidity in that
+a.m. Now where's the liquidity in that
+understanding where certain liquidity
+understanding where certain liquidity
+understanding where certain liquidity
+what will we be resting above that buy
+what will we be resting above that buy
+what will we be resting above that buy
+side liquidity but in in reference to
+side liquidity but in in reference to
+side liquidity but in in reference to
+would be buy side above both this area
+would be buy side above both this area
+would be buy side above both this area
+likely to be a draw on liquidity why
+likely to be a draw on liquidity why
+likely to be a draw on liquidity why
+was targeting liquidity if it was doing
+was targeting liquidity if it was doing
+was targeting liquidity if it was doing
+algorithm will be looking for liquidity
+algorithm will be looking for liquidity
+algorithm will be looking for liquidity
+um currency Futures not just Forex like
+um currency Futures not just Forex like
+um currency Futures not just Forex like
+questions in the comment section asking
+questions in the comment section asking
+questions in the comment section asking
+the usual protocol for a discount gap
+the usual protocol for a discount gap
+the usual protocol for a discount gap
+buy side liquidity there so you can
+... and 93 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship September 12, 2024
+Lines: 474 | Method: enhanced
+--------------------------------------------------------------------------------
+to fill and here it is essentially done
+to fill and here it is essentially done
+to fill and here it is essentially done
+the new day opening Gap so it's it's a
+the new day opening Gap so it's it's a
+the new day opening Gap so it's it's a
+range Gap today it was a premium Gap so
+range Gap today it was a premium Gap so
+range Gap today it was a premium Gap so
+seek more of a premium or try to explore
+seek more of a premium or try to explore
+seek more of a premium or try to explore
+here so now we have a minor buy side
+here so now we have a minor buy side
+here so now we have a minor buy side
+into that they have minor buyid sitting
+into that they have minor buyid sitting
+into that they have minor buyid sitting
+lower into that 5 minute bid bance C
+lower into that 5 minute bid bance C
+lower into that 5 minute bid bance C
+efficiency which upsets this liquidity
+efficiency which upsets this liquidity
+efficiency which upsets this liquidity
+down it dropped down and into a discount
+down it dropped down and into a discount
+down it dropped down and into a discount
+array which is this buyid balance Sid
+for that and then the B the minor buy
+for that and then the B the minor buy
+for that and then the B the minor buy
+liquidity was the next
+liquidity was the next
+liquidity was the next
+of uh destroying any short sellers
+of uh destroying any short sellers
+of uh destroying any short sellers
+leverage but your trade frequency can if
+leverage but your trade frequency can if
+leverage but your trade frequency can if
+that uh new day opening Gap and previous
+that uh new day opening Gap and previous
+that uh new day opening Gap and previous
+initial buy side and sell side to be
+initial buy side and sell side to be
+initial buy side and sell side to be
+break or any significant uh imbalance B
+break or any significant uh imbalance B
+break or any significant uh imbalance B
+imbalance cell efficiency sell imbalance
+imbalance cell efficiency sell imbalance
+imbalance cell efficiency sell imbalance
+B efficiency buy sisy either
+buy side and sell side that has a range
+buy side and sell side that has a range
+buy side and sell side that has a range
+and those buy slide are sside liquidity
+and those buy slide are sside liquidity
+and those buy slide are sside liquidity
+range 15 minutes is not enough
+range 15 minutes is not enough
+range 15 minutes is not enough
+a 30 minute algorithmic period between
+a 30 minute algorithmic period between
+a 30 minute algorithmic period between
+algorithm's opening range it sets up
+algorithm's opening range it sets up
+algorithm's opening range it sets up
+initial buy side and cell side and then
+initial buy side and cell side and then
+initial buy side and cell side and then
+and long-term daily intercession highs
+and long-term daily intercession highs
+and long-term daily intercession highs
+algorithm all right so here we are back
+algorithm all right so here we are back
+algorithm all right so here we are back
+there's liquidity resting below into
+there's liquidity resting below into
+there's liquidity resting below into
+yesterday right on your daily chart so
+yesterday right on your daily chart so
+yesterday right on your daily chart so
+that new day opening Gap over here for
+that new day opening Gap over here for
+that new day opening Gap over here for
+lower low not for the sake of expanding
+lower low not for the sake of expanding
+lower low not for the sake of expanding
+buyid and balance side efficiency there
+buyid and balance side efficiency there
+buyid and balance side efficiency there
+so they're going to take buys on
+so they're going to take buys on
+so they're going to take buys on
+long and in the first 30 minutes of the
+long and in the first 30 minutes of the
+long and in the first 30 minutes of the
+and dig into that buy side imbalance on
+and dig into that buy side imbalance on
+... and 374 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Limit Orders & Volatility Pinball Drills October 01, 2024
+Lines: 1070 | Method: enhanced
+--------------------------------------------------------------------------------
+your price action study and a proper use
+your price action study and a proper use
+your price action study and a proper use
+um I'm going to teach you a price action
+um I'm going to teach you a price action
+um I'm going to teach you a price action
+for so having a a market order I I do
+for so having a a market order I I do
+for so having a a market order I I do
+that market order entry mainly to
+that market order entry mainly to
+that market order entry mainly to
+U the market order that I use to enter
+U the market order that I use to enter
+U the market order that I use to enter
+so I don't generally use Market orders
+so I don't generally use Market orders
+so I don't generally use Market orders
+pushing today buying and selling buying
+pushing today buying and selling buying
+pushing today buying and selling buying
+and selling buying and selling you know
+and selling buying and selling you know
+and selling buying and selling you know
+fear of selling
+fear of selling
+fear of selling
+short I had to desens I had to
+short I had to desens I had to
+short I had to desens I had to
+I was afraid to do it didn't make any
+I was afraid to do it didn't make any
+I was afraid to do it didn't make any
+sense for me to sell something I don't
+sense for me to sell something I don't
+sense for me to sell something I don't
+own and how can I buy it back when I
+own and how can I buy it back when I
+own and how can I buy it back when I
+what my hypothetical entry would be and
+what my hypothetical entry would be and
+what my hypothetical entry would be and
+hypothetical fill not factoring spread
+hypothetical fill not factoring spread
+hypothetical fill not factoring spread
+was using for like a bearish order block
+was using for like a bearish order block
+was using for like a bearish order block
+try to sell short at so for back testing
+try to sell short at so for back testing
+try to sell short at so for back testing
+the button you're just afraid and I had
+the button you're just afraid and I had
+the button you're just afraid and I had
+as a buyer because that's pretty what I
+as a buyer because that's pretty what I
+as a buyer because that's pretty what I
+buy because I didn't care I I thought
+buy because I didn't care I I thought
+buy because I didn't care I I thought
+it wasn't like I wasn't afraid I was
+it wasn't like I wasn't afraid I was
+it wasn't like I wasn't afraid I was
+afraid but it was so small in comparison
+afraid but it was so small in comparison
+afraid but it was so small in comparison
+want to start being a short seller and I
+want to start being a short seller and I
+want to start being a short seller and I
+buyer only and never try to be short
+buyer only and never try to be short
+buyer only and never try to be short
+selling either I'd have to sit on my
+selling either I'd have to sit on my
+selling either I'd have to sit on my
+your Longs and your shorts you're going
+your Longs and your shorts you're going
+your Longs and your shorts you're going
+are not Robin Robins Cup World cup entry
+are not Robin Robins Cup World cup entry
+are not Robin Robins Cup World cup entry
+how to practice engaging price action
+how to practice engaging price action
+how to practice engaging price action
+a longer time away from Price action
+a longer time away from Price action
+a longer time away from Price action
+where my stop loss would be and I did
+where my stop loss would be and I did
+where my stop loss would be and I did
+how to trade Asian session it's just a
+how to trade Asian session it's just a
+how to trade Asian session it's just a
+constant buying and selling constant
+constant buying and selling constant
+constant buying and selling constant
+buying and selling and executing with
+buying and selling and executing with
+buying and selling and executing with
+exit and you're not using a market order
+... and 970 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship NQ High Resistance Liquidity Conditions Tape Reading October 07, 2024
+Lines: 135 | Method: enhanced
+--------------------------------------------------------------------------------
+chart show you the PLL of liquidity
+chart show you the PLL of liquidity
+chart show you the PLL of liquidity
+side minor buy
+liquidity that I'm focusing on primarily
+liquidity that I'm focusing on primarily
+liquidity that I'm focusing on primarily
+first present the fair value gap on the
+first present the fair value gap on the
+first present the fair value gap on the
+using inversion fair value Gap here then
+using inversion fair value Gap here then
+using inversion fair value Gap here then
+rallying subsequent fair value Gap after
+rallying subsequent fair value Gap after
+rallying subsequent fair value Gap after
+that that would be the entry not just
+that that would be the entry not just
+that that would be the entry not just
+from it that's not the entry you all
+initial fair value Gap trade above it
+initial fair value Gap trade above it
+initial fair value Gap trade above it
+fair value Gap that's the trade being in
+fair value Gap that's the trade being in
+fair value Gap that's the trade being in
+here not the trade minor sell side has
+here not the trade minor sell side has
+here not the trade minor sell side has
+potential weakness I would not sell
+potential weakness I would not sell
+potential weakness I would not sell
+important than where the next entry is
+fair value Gap after running off of
+fair value Gap after running off of
+fair value Gap after running off of
+it first present the fair value Gap so
+it first present the fair value Gap so
+it first present the fair value Gap so
+seller if taken out here or they'd be
+seller if taken out here or they'd be
+seller if taken out here or they'd be
+the buy side above here has been tagged
+the buy side above here has been tagged
+the buy side above here has been tagged
+going to give it till 15 minutes after
+going to give it till 15 minutes after
+going to give it till 15 minutes after
+this price action right here that's
+this price action right here that's
+this price action right here that's
+consequent encroachment sells off in
+consequent encroachment sells off in
+consequent encroachment sells off in
+15 minute inversion fair value Gap it's
+15 minute inversion fair value Gap it's
+15 minute inversion fair value Gap it's
+bearish why because this is a buy side
+bearish why because this is a buy side
+bearish why because this is a buy side
+for liquidity
+for liquidity
+for liquidity
+see the entry right inside of the
+see the entry right inside of the
+see the entry right inside of the
+minor sides minor bides taken
+minor sides minor bides taken
+minor sides minor bides taken
+chart are we in low resistance liquidity
+chart are we in low resistance liquidity
+chart are we in low resistance liquidity
+resistance liquidity
+resistance liquidity
+resistance liquidity
+so we're in high resistance liquidity
+so we're in high resistance liquidity
+so we're in high resistance liquidity
+resistance you want to trade in these
+resistance you want to trade in these
+resistance you want to trade in these
+first presented fair value gap on the
+first presented fair value gap on the
+first presented fair value gap on the
+long or bullish I'm presently still
+long or bullish I'm presently still
+long or bullish I'm presently still
+we're in high resistance liquidity run
+we're in high resistance liquidity run
+we're in high resistance liquidity run
+first present a fair value Gap that's
+first present a fair value Gap that's
+first present a fair value Gap that's
+imbalance here inside of it now like to
+imbalance here inside of it now like to
+imbalance here inside of it now like to
+see it uh all there's a volume imbalance
+see it uh all there's a volume imbalance
+see it uh all there's a volume imbalance
+liquidity run
+... and 35 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #12 August 19, 2024
+Lines: 259 | Method: enhanced
+--------------------------------------------------------------------------------
+too long I promise a couple minutes uh
+too long I promise a couple minutes uh
+too long I promise a couple minutes uh
+said the liquidity resting above here
+said the liquidity resting above here
+said the liquidity resting above here
+both the buy side and the sell side
+both the buy side and the sell side
+both the buy side and the sell side
+and whatever one of those liquidity are
+and whatever one of those liquidity are
+and whatever one of those liquidity are
+here that's where the institutional or
+here that's where the institutional or
+here that's where the institutional or
+longer and what promotes the ideas of
+longer and what promotes the ideas of
+longer and what promotes the ideas of
+it um tape reading
+others that were asking questions such
+others that were asking questions such
+others that were asking questions such
+do initially we want to frame buy side
+do initially we want to frame buy side
+do initially we want to frame buy side
+and sell side and then if we have what I
+and sell side and then if we have what I
+and sell side and then if we have what I
+opposing liquidity and then get in sync
+opposing liquidity and then get in sync
+opposing liquidity and then get in sync
+him to be a buyer below the opening
+him to be a buyer below the opening
+him to be a buyer below the opening
+use buying on strength and to me that
+use buying on strength and to me that
+use buying on strength and to me that
+the buy was I told you how the day would
+the buy was I told you how the day would
+the buy was I told you how the day would
+to be inside of a fair value Gap and
+to be inside of a fair value Gap and
+to be inside of a fair value Gap and
+the daily cells balance buyid efficiency
+the daily cells balance buyid efficiency
+the daily cells balance buyid efficiency
+and this is that volume imbalance on the
+and this is that volume imbalance on the
+and this is that volume imbalance on the
+calling the buyas lower I'm looking for
+calling the buyas lower I'm looking for
+calling the buyas lower I'm looking for
+shorts I'm looking for Longs but I'm
+shorts I'm looking for Longs but I'm
+shorts I'm looking for Longs but I'm
+watching anticipating price action
+watching anticipating price action
+watching anticipating price action
+seeking liquidity opposing liquidity
+seeking liquidity opposing liquidity
+seeking liquidity opposing liquidity
+loss that's below old lows to buy and it
+loss that's below old lows to buy and it
+loss that's below old lows to buy and it
+represents one daily range and I wanted
+represents one daily range and I wanted
+represents one daily range and I wanted
+one-sided we were anticipating the buy
+one-sided we were anticipating the buy
+one-sided we were anticipating the buy
+side liquidity resting above these highs
+side liquidity resting above these highs
+side liquidity resting above these highs
+run up I was outlining how being a buyer
+run up I was outlining how being a buyer
+run up I was outlining how being a buyer
+longer term uh Target or it makes you a
+longer term uh Target or it makes you a
+longer term uh Target or it makes you a
+will buying at that opening
+will buying at that opening
+will buying at that opening
+here that point of entry right there is
+here that point of entry right there is
+here that point of entry right there is
+the institutional orry drill and we
+the institutional orry drill and we
+the institutional orry drill and we
+his price action and stuff I was going
+his price action and stuff I was going
+his price action and stuff I was going
+long in the es when he was saying it was
+long in the es when he was saying it was
+long in the es when he was saying it was
+not going to make a higher High and um
+not going to make a higher High and um
+not going to make a higher High and um
+that's perfect because I see a breaker
+that's perfect because I see a breaker
+that's perfect because I see a breaker
+... and 159 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #1 August 5, 2024
+Lines: 368 | Method: enhanced
+--------------------------------------------------------------------------------
+so seeing live price action watching
+so seeing live price action watching
+so seeing live price action watching
+action it's not the buying and selling
+action it's not the buying and selling
+action it's not the buying and selling
+of you don't believe in an algorithm I
+of you don't believe in an algorithm I
+of you don't believe in an algorithm I
+know you believe that you know buyers
+know you believe that you know buyers
+know you believe that you know buyers
+and sellers push price and that's fine
+and sellers push price and that's fine
+and sellers push price and that's fine
+should produce a displacement a run
+should produce a displacement a run
+should produce a displacement a run
+um I asked my son what his interest was
+um I asked my son what his interest was
+um I asked my son what his interest was
+Trader that focuses on long-term Trend
+Trader that focuses on long-term Trend
+Trader that focuses on long-term Trend
+longterm daily and weekly
+longterm daily and weekly
+longterm daily and weekly
+to set up a long-term Trend model entry
+to set up a long-term Trend model entry
+to set up a long-term Trend model entry
+everybody wants apparently wants to buy
+everybody wants apparently wants to buy
+everybody wants apparently wants to buy
+trade the Forex Market or I'm going to
+trade the Forex Market or I'm going to
+trade the Forex Market or I'm going to
+trade you know futures or whatever is
+trade you know futures or whatever is
+trade you know futures or whatever is
+assumptions are about the price action
+assumptions are about the price action
+assumptions are about the price action
+where your stop loss is and guess what
+where your stop loss is and guess what
+where your stop loss is and guess what
+as long as you're in in the states I
+as long as you're in in the states I
+as long as you're in in the states I
+buy something they're going to upsell to
+buy something they're going to upsell to
+buy something they're going to upsell to
+price action it will look completely
+price action it will look completely
+price action it will look completely
+stop loss I don't want to get stopped
+stop loss I don't want to get stopped
+stop loss I don't want to get stopped
+algorithm no now they have baggage they
+algorithm no now they have baggage they
+algorithm no now they have baggage they
+liquidity where's the market likely to
+liquidity where's the market likely to
+liquidity where's the market likely to
+liquidity but we don't need it to trade
+liquidity but we don't need it to trade
+liquidity but we don't need it to trade
+lowest leverage if it's tails you buy it
+lowest leverage if it's tails you buy it
+lowest leverage if it's tails you buy it
+if it's heads you sell short or vice
+if it's heads you sell short or vice
+if it's heads you sell short or vice
+any liquidity below that they disrupted
+any liquidity below that they disrupted
+any liquidity below that they disrupted
+short-term high and traded right inside
+short-term high and traded right inside
+short-term high and traded right inside
+trades in books between obvious price
+taking out the liquidity and then we
+taking out the liquidity and then we
+taking out the liquidity and then we
+have displacement here displacement is
+have displacement here displacement is
+have displacement here displacement is
+a pre session pre day pre Trend or Price
+a pre session pre day pre Trend or Price
+a pre session pre day pre Trend or Price
+Clos candle is a order block we have
+Clos candle is a order block we have
+Clos candle is a order block we have
+displacement it took liquidity and the
+displacement it took liquidity and the
+displacement it took liquidity and the
+makes that order block specifically is
+makes that order block specifically is
+makes that order block specifically is
+because 8:30 the algorithm will start
+because 8:30 the algorithm will start
+because 8:30 the algorithm will start
+... and 268 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship NQ Tape Reading October 15, 2024
+Lines: 494 | Method: enhanced
+--------------------------------------------------------------------------------
+this civy sell side and balance buy side
+this civy sell side and balance buy side
+this civy sell side and balance buy side
+okay it's a nice pool liquidity there it
+okay it's a nice pool liquidity there it
+okay it's a nice pool liquidity there it
+looking at the market on a daily chart
+looking at the market on a daily chart
+looking at the market on a daily chart
+lower respective to your buyas we'll say
+lower respective to your buyas we'll say
+lower respective to your buyas we'll say
+price action at uh 10 o'clock let the
+price action at uh 10 o'clock let the
+price action at uh 10 o'clock let the
+equilibrium which is halfway and then
+equilibrium which is halfway and then
+equilibrium which is halfway and then
+daily CBI or cellid balc bid
+daily CBI or cellid balc bid
+daily CBI or cellid balc bid
+price runs for liquidity you saw me do
+price runs for liquidity you saw me do
+price runs for liquidity you saw me do
+very long session today I'm trying to
+very long session today I'm trying to
+very long session today I'm trying to
+inside of the daily range of yesterday
+inside of the daily range of yesterday
+inside of the daily range of yesterday
+order block it would be mean
+order block it would be mean
+order block it would be mean
+a smart money Trader it has to do what
+a smart money Trader it has to do what
+a smart money Trader it has to do what
+that would be the algorithmic delivery
+that would be the algorithmic delivery
+that would be the algorithmic delivery
+smart money to buy it because
+smart money to buy it because
+smart money to buy it because
+to buy it that this has to be at least
+to buy it that this has to be at least
+to buy it that this has to be at least
+we're looking for Longs and it trades
+we're looking for Longs and it trades
+we're looking for Longs and it trades
+algorithmic price delivery right to the
+algorithmic price delivery right to the
+algorithmic price delivery right to the
+levels and cause displacement to the
+levels and cause displacement to the
+levels and cause displacement to the
+displacements moving away from them it's
+displacements moving away from them it's
+displacements moving away from them it's
+above that shortterm what minor buy side
+above that shortterm what minor buy side
+above that shortterm what minor buy side
+liquidity so the market rallies up above
+liquidity so the market rallies up above
+liquidity so the market rallies up above
+right there it creates a fair value Gap
+right there it creates a fair value Gap
+right there it creates a fair value Gap
+where is this fair value Gap in
+where is this fair value Gap in
+where is this fair value Gap in
+discount it's also in close proximity to
+discount it's also in close proximity to
+discount it's also in close proximity to
+market does what it delivers price
+market does what it delivers price
+market does what it delivers price
+equilibrium of the overnight range
+equilibrium of the overnight range
+equilibrium of the overnight range
+not trades down into your fair value Gap
+not trades down into your fair value Gap
+not trades down into your fair value Gap
+reclaimed bullish fair value Gap and
+reclaimed bullish fair value Gap and
+reclaimed bullish fair value Gap and
+minor buy side here above this buy side
+minor buy side here above this buy side
+minor buy side here above this buy side
+that oh I don't know probably some buy
+that oh I don't know probably some buy
+that oh I don't know probably some buy
+at this fair value Gap how do you pick
+at this fair value Gap how do you pick
+at this fair value Gap how do you pick
+the right fair value gaps all the time
+the right fair value gaps all the time
+the right fair value gaps all the time
+equilibrium okay just so happens there's
+equilibrium okay just so happens there's
+equilibrium okay just so happens there's
+there sell side liquidity why would that
+... and 394 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship How To Trade ICT FVGs Correctly September 16, 2024
+Lines: 612 | Method: enhanced
+--------------------------------------------------------------------------------
+corner so we have our discount opening
+corner so we have our discount opening
+corner so we have our discount opening
+see if we get a fair value Gap there
+see if we get a fair value Gap there
+see if we get a fair value Gap there
+expansion whatever reversal whatever is
+expansion whatever reversal whatever is
+expansion whatever reversal whatever is
+respecting this new day opening Gap this
+respecting this new day opening Gap this
+respecting this new day opening Gap this
+buy there you are so have still a very
+buy there you are so have still a very
+buy there you are so have still a very
+lower the sell side below here and that
+lower the sell side below here and that
+lower the sell side below here and that
+and we have a new day opening Gap
+and we have a new day opening Gap
+and we have a new day opening Gap
+present to you if the fair value Gap is
+present to you if the fair value Gap is
+present to you if the fair value Gap is
+you will not know how to buy and sell
+you will not know how to buy and sell
+you will not know how to buy and sell
+imbalance right here on the one minute
+imbalance right here on the one minute
+imbalance right here on the one minute
+then maybe get up into the buy side
+then maybe get up into the buy side
+then maybe get up into the buy side
+fail with this sell side and balance by
+fail with this sell side and balance by
+fail with this sell side and balance by
+should sell
+should sell
+should sell
+value Gap is that has the imbalance
+value Gap is that has the imbalance
+value Gap is that has the imbalance
+multiple fair value gaps okay or what
+multiple fair value gaps okay or what
+multiple fair value gaps okay or what
+representing a fair value Gap like he
+representing a fair value Gap like he
+representing a fair value Gap like he
+rules that a valid fair value Gap
+rules that a valid fair value Gap
+rules that a valid fair value Gap
+employees the stop loss would be above
+employees the stop loss would be above
+employees the stop loss would be above
+where your stop loss is that's your if
+where your stop loss is that's your if
+where your stop loss is that's your if
+leverage you're placing your stop loss
+leverage you're placing your stop loss
+leverage you're placing your stop loss
+where your stop loss is okay so right
+where your stop loss is okay so right
+where your stop loss is okay so right
+stop losses go and what Candlestick is
+stop losses go and what Candlestick is
+stop losses go and what Candlestick is
+market trades up
+market trades up
+market trades up
+entry that that candlesticks
+entry that that candlesticks
+entry that that candlesticks
+this is your ideal entry point right in
+this is your ideal entry point right in
+this is your ideal entry point right in
+short traded down once more to the
+short traded down once more to the
+short traded down once more to the
+UND do and got right here the liquidity
+UND do and got right here the liquidity
+UND do and got right here the liquidity
+that's your buy
+that fill in it doesn't mean if it goes
+that fill in it doesn't mean if it goes
+that fill in it doesn't mean if it goes
+down and fills and touches this
+down and fills and touches this
+down and fills and touches this
+the volume imbalance that's part of and
+the volume imbalance that's part of and
+the volume imbalance that's part of and
+spring from that up into the minor buy
+spring from that up into the minor buy
+spring from that up into the minor buy
+for fair value gaps we're not supplying
+for fair value gaps we're not supplying
+for fair value gaps we're not supplying
+number three candle that is your entry
+number three candle that is your entry
+number three candle that is your entry
+... and 512 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship September 04, 2024
+Lines: 268 | Method: enhanced
+--------------------------------------------------------------------------------
+August 13 2024 daily fair value Gap High
+August 13 2024 daily fair value Gap High
+August 13 2024 daily fair value Gap High
+August 13th's daily fair value Gap high
+August 13th's daily fair value Gap high
+August 13th's daily fair value Gap high
+large discount
+large discount
+large discount
+value Gap this is a buy sign bound sell
+value Gap this is a buy sign bound sell
+value Gap this is a buy sign bound sell
+into the August 13th fair value Gap
+into the August 13th fair value Gap
+into the August 13th fair value Gap
+imbalance there but that naturally gets
+imbalance there but that naturally gets
+imbalance there but that naturally gets
+presentation of the fair value gap
+presentation of the fair value gap
+presentation of the fair value gap
+this is what the algorithm refers to
+this is what the algorithm refers to
+this is what the algorithm refers to
+the daily chart yesterday so the morning
+the daily chart yesterday so the morning
+the daily chart yesterday so the morning
+liquidity to be ran on for for buy
+liquidity to be ran on for for buy
+liquidity to be ran on for for buy
+convictions to buy or sell so it's just
+convictions to buy or sell so it's just
+convictions to buy or sell so it's just
+to first presentation fair value Gap and
+to first presentation fair value Gap and
+to first presentation fair value Gap and
+have a discount Gap that means it's more
+have a discount Gap that means it's more
+have a discount Gap that means it's more
+they're changing the algorithm it
+they're changing the algorithm it
+they're changing the algorithm it
+they trying to get you to buy their
+they trying to get you to buy their
+they trying to get you to buy their
+but he can see fair value gaps so that's
+but he can see fair value gaps so that's
+but he can see fair value gaps so that's
+value Gap not because the fair value Gap
+value Gap not because the fair value Gap
+value Gap not because the fair value Gap
+the fair value Gap is the one that's
+the fair value Gap is the one that's
+the fair value Gap is the one that's
+is the real opening range the algorithm
+is the real opening range the algorithm
+is the real opening range the algorithm
+me longer than just today or yesterday
+me longer than just today or yesterday
+me longer than just today or yesterday
+going back and forth buying and selling
+going back and forth buying and selling
+going back and forth buying and selling
+buying and selling and that's usually
+buying and selling and that's usually
+buying and selling and that's usually
+this buy side of balance sell sign and
+this buy side of balance sell sign and
+this buy side of balance sell sign and
+that 70% of the time the algorithm will
+that 70% of the time the algorithm will
+that 70% of the time the algorithm will
+smart money's perspective when there's
+smart money's perspective when there's
+smart money's perspective when there's
+where my entry would have been and if
+where my entry would have been and if
+where my entry would have been and if
+entry for the morning session and then
+entry for the morning session and then
+entry for the morning session and then
+and you're really selling yourself short
+and you're really selling yourself short
+and you're really selling yourself short
+there is no algorithm it's you know it's
+there is no algorithm it's you know it's
+there is no algorithm it's you know it's
+buying and selling pressure um there's
+buying and selling pressure um there's
+buying and selling pressure um there's
+that's the smart money concept trap is
+that's the smart money concept trap is
+that's the smart money concept trap is
+first fair value Gap here shaded in
+first fair value Gap here shaded in
+first fair value Gap here shaded in
+to buy or purchase anything from them
+to buy or purchase anything from them
+to buy or purchase anything from them
+said I don't even I buy the biggest
+... and 168 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #13 August 20, 2024 Begins 915am ET
+Lines: 305 | Method: enhanced
+--------------------------------------------------------------------------------
+reading price action for the first few
+reading price action for the first few
+reading price action for the first few
+liquidity above here it's reasonable to
+liquidity above here it's reasonable to
+liquidity above here it's reasonable to
+so a buy side Bound sell sign efficiency
+so a buy side Bound sell sign efficiency
+so a buy side Bound sell sign efficiency
+run to a new day opening Gap or a new
+run to a new day opening Gap or a new
+run to a new day opening Gap or a new
+Sy me ideally the actual liquidity if if
+Sy me ideally the actual liquidity if if
+Sy me ideally the actual liquidity if if
+liquidity and then vice versa if he's
+liquidity and then vice versa if he's
+liquidity and then vice versa if he's
+a old new day opening gap or the present
+a old new day opening gap or the present
+a old new day opening gap or the present
+new day opening gap or new week opening
+new day opening gap or new week opening
+new day opening gap or new week opening
+for a new day opening gaps and that's
+for a new day opening gaps and that's
+for a new day opening gaps and that's
+that daily volume imbalance and I'll
+that daily volume imbalance and I'll
+that daily volume imbalance and I'll
+confusion of is it a buy or is it a sell
+confusion of is it a buy or is it a sell
+confusion of is it a buy or is it a sell
+imbalance that took your attention to
+imbalance that took your attention to
+imbalance that took your attention to
+into the low there's liquidity resting
+into the low there's liquidity resting
+into the low there's liquidity resting
+today's new day opening Gap
+today's new day opening Gap
+today's new day opening Gap
+into price action that you watch
+into price action that you watch
+into price action that you watch
+starts to sell off Works lower and then
+starts to sell off Works lower and then
+starts to sell off Works lower and then
+it's using the new day opening Gap as I
+it's using the new day opening Gap as I
+it's using the new day opening Gap as I
+volume imbalance we talked about
+volume imbalance we talked about
+volume imbalance we talked about
+this little segment of price action
+this little segment of price action
+this little segment of price action
+that that little segment of price action
+that that little segment of price action
+that that little segment of price action
+the equilibrium price point or midpoint
+the equilibrium price point or midpoint
+the equilibrium price point or midpoint
+of a gap whether it's a bid imbalance
+of a gap whether it's a bid imbalance
+of a gap whether it's a bid imbalance
+imbalance bid efficiency either or if
+imbalance bid efficiency either or if
+imbalance bid efficiency either or if
+it's up closed fair value Gap or down
+it's up closed fair value Gap or down
+it's up closed fair value Gap or down
+closed fair value Gap the midpoint of
+closed fair value Gap the midpoint of
+closed fair value Gap the midpoint of
+that candle's low this is a sells side
+that candle's low this is a sells side
+that candle's low this is a sells side
+imbalance by sign of efficiency we would
+imbalance by sign of efficiency we would
+imbalance by sign of efficiency we would
+here with Buy side delivery meaning all
+here with Buy side delivery meaning all
+here with Buy side delivery meaning all
+this fair value Gap here if it's going
+this fair value Gap here if it's going
+this fair value Gap here if it's going
+short of going any further or does it go
+short of going any further or does it go
+short of going any further or does it go
+nothing just watching price action it
+nothing just watching price action it
+nothing just watching price action it
+low of the new day opening Gap and
+low of the new day opening Gap and
+low of the new day opening Gap and
+rallies it gives you displacement with
+rallies it gives you displacement with
+rallies it gives you displacement with
+algorithm repricing back to these
+... and 205 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship NonFarm Payroll September 06, 2024
+Lines: 1178 | Method: enhanced
+--------------------------------------------------------------------------------
+13th daily fair value Gap High that's
+want to see what type of liquidity they
+want to see what type of liquidity they
+want to see what type of liquidity they
+algorithmic okay that is not algorithmic
+algorithmic okay that is not algorithmic
+algorithmic okay that is not algorithmic
+really really skilled 15 minutes after
+really really skilled 15 minutes after
+really really skilled 15 minutes after
+liquidity and we will do that
+liquidity and we will do that
+liquidity and we will do that
+term buy side especially with the
+term buy side especially with the
+term buy side especially with the
+relative equal highs buy side
+relative equal highs buy side
+relative equal highs buy side
+already hit this lower low and we've
+already hit this lower low and we've
+already hit this lower low and we've
+channel we were looking for lower prices
+channel we were looking for lower prices
+channel we were looking for lower prices
+that's right baby right to the buy side
+that's right baby right to the buy side
+that's right baby right to the buy side
+you that's not a lack of liquidity for
+you that's not a lack of liquidity for
+you that's not a lack of liquidity for
+the sake of buying and selling there's a
+the sake of buying and selling there's a
+the sake of buying and selling there's a
+lot of people want to buy and sell I
+lot of people want to buy and sell I
+lot of people want to buy and sell I
+promise you they all want to buy and
+promise you they all want to buy and
+promise you they all want to buy and
+sell but your Brokers collectively are
+sell but your Brokers collectively are
+sell but your Brokers collectively are
+illusion okay of lack of liquidity they
+illusion okay of lack of liquidity they
+illusion okay of lack of liquidity they
+call illiquidity ill liquidity okay or
+call illiquidity ill liquidity okay or
+call illiquidity ill liquidity okay or
+liquidity there but the Brokers are not
+liquidity there but the Brokers are not
+liquidity there but the Brokers are not
+around liquidity now because of the
+around liquidity now because of the
+around liquidity now because of the
+mystery around how liquidity is uh in
+mystery around how liquidity is uh in
+mystery around how liquidity is uh in
+how that liquidity is engaged helps you
+how that liquidity is engaged helps you
+how that liquidity is engaged helps you
+Clear Pools of liquidity that the
+Clear Pools of liquidity that the
+Clear Pools of liquidity that the
+algorithm will refer to for that
+algorithm will refer to for that
+algorithm will refer to for that
+liquidity like we did here we outlined
+liquidity like we did here we outlined
+liquidity like we did here we outlined
+didn't take long 15 minute relative
+didn't take long 15 minute relative
+didn't take long 15 minute relative
+wink to take a long trade when it
+wink to take a long trade when it
+wink to take a long trade when it
+obvious pools of liquidity for buy side
+obvious pools of liquidity for buy side
+obvious pools of liquidity for buy side
+and the sell side below relative equal
+and the sell side below relative equal
+and the sell side below relative equal
+section of your Journal log entry Caleb
+section of your Journal log entry Caleb
+section of your Journal log entry Caleb
+where the 15minute pools of liquidity
+where the 15minute pools of liquidity
+where the 15minute pools of liquidity
+frame the idea of buy side and sells
+frame the idea of buy side and sells
+frame the idea of buy side and sells
+Forex which I don't know I no longer
+Forex which I don't know I no longer
+Forex which I don't know I no longer
+Commodities and Futures Trading that's
+Commodities and Futures Trading that's
+Commodities and Futures Trading that's
+when you're trading Futures you're
+when you're trading Futures you're
+when you're trading Futures you're
+... and 1078 more lines
+
+================================================================================
+
+VIDEO: ICT NQ Live Execution September 6, 2024 100k
+Lines: 58 | Method: enhanced
+--------------------------------------------------------------------------------
+shot one kill so I'm selling short
+shot one kill so I'm selling short
+shot one kill so I'm selling short
+that bearish order block and annotating
+that bearish order block and annotating
+that bearish order block and annotating
+the sell side liquidity you're going to
+the sell side liquidity you're going to
+the sell side liquidity you're going to
+over Thursday trading into the L session
+over Thursday trading into the L session
+over Thursday trading into the L session
+sweep these
+sweep these
+sweep these
+2024's daily fair value Gap you know
+2024's daily fair value Gap you know
+2024's daily fair value Gap you know
+if if there's a smart money
+a market maker sell model that delivered
+a market maker sell model that delivered
+a market maker sell model that delivered
+it sweep it's
+knowing where the algorithm will
+knowing where the algorithm will
+knowing where the algorithm will
+it touches that you get add more as long
+it touches that you get add more as long
+it touches that you get add more as long
+way your your stop loss is in the right
+way your your stop loss is in the right
+way your your stop loss is in the right
+price action and when it resumed I
+price action and when it resumed I
+price action and when it resumed I
+session of Friday trading once more down
+session of Friday trading once more down
+session of Friday trading once more down
+and then the sell side is just below
+more touching that first fair value gap
+more touching that first fair value gap
+more touching that first fair value gap
+that old first fair value gap on the 4th
+that old first fair value gap on the 4th
+that old first fair value gap on the 4th
+T about and the algorithm will start to
+T about and the algorithm will start to
+T about and the algorithm will start to
+August 13th 2024 daily fair value Gap
+price action here every time it makes
+price action here every time it makes
+price action here every time it makes
+executions this is what a smart money
+executions this is what a smart money
+executions this is what a smart money
+exit man that's beautiful isn't
+exit man that's beautiful isn't
+exit man that's beautiful isn't
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Tape Reading September 25, 2024
+Lines: 149 | Method: enhanced
+--------------------------------------------------------------------------------
+for okay no fair value Gap has form yet
+for okay no fair value Gap has form yet
+for okay no fair value Gap has form yet
+fair value Gap that's outside of the 930
+fair value Gap that's outside of the 930
+fair value Gap that's outside of the 930
+is a fair value Gap so this would be
+is a fair value Gap so this would be
+is a fair value Gap so this would be
+first presented fair value Gap in the
+first presented fair value Gap in the
+first presented fair value Gap in the
+1475 as a run for buy side if that has a
+1475 as a run for buy side if that has a
+1475 as a run for buy side if that has a
+uh first presented fair value gap of
+for a premium level Something
+for a premium level Something
+for a premium level Something
+above always exit ahead of it always try
+above always exit ahead of it always try
+above always exit ahead of it always try
+inversion fair value Gap otherwise if we
+inversion fair value Gap otherwise if we
+inversion fair value Gap otherwise if we
+as an inversion fair value Gap to trade
+as an inversion fair value Gap to trade
+as an inversion fair value Gap to trade
+uh kind of along the lines that uh one
+uh kind of along the lines that uh one
+uh kind of along the lines that uh one
+correct bias of withdraw liquidity it's
+correct bias of withdraw liquidity it's
+correct bias of withdraw liquidity it's
+versus shorting with the highest
+versus shorting with the highest
+versus shorting with the highest
+overleveraged trade on the wrong side of
+overleveraged trade on the wrong side of
+overleveraged trade on the wrong side of
+what the first present of fair value Gap
+what the first present of fair value Gap
+what the first present of fair value Gap
+long drawn out Candlestick Wick to the
+long drawn out Candlestick Wick to the
+long drawn out Candlestick Wick to the
+imbalance the volume imbalance is one
+imbalance the volume imbalance is one
+imbalance the volume imbalance is one
+that's a volume imbalance uh they're the
+that's a volume imbalance uh they're the
+that's a volume imbalance uh they're the
+an entry model for instance we just went
+an entry model for instance we just went
+an entry model for instance we just went
+whereas an order Block it's pretty it's
+whereas an order Block it's pretty it's
+whereas an order Block it's pretty it's
+bullish order block that would be uh
+bullish order block that would be uh
+bullish order block that would be uh
+perfect delivery of bullish order block
+perfect delivery of bullish order block
+perfect delivery of bullish order block
+but for volume imbalances um they can
+but for volume imbalances um they can
+but for volume imbalances um they can
+just TR down into it's institutional oow
+just TR down into it's institutional oow
+just TR down into it's institutional oow
+entry Dr right
+employing it in price action if I don't
+employing it in price action if I don't
+employing it in price action if I don't
+you're not somehow not smart money or
+you're not somehow not smart money or
+you're not somehow not smart money or
+your segment of price action
+your segment of price action
+your segment of price action
+order entry drill which is a partial
+order entry drill which is a partial
+order entry drill which is a partial
+entry into the fair value Gap when there
+entry into the fair value Gap when there
+entry into the fair value Gap when there
+is relative equal highs and a buy side
+is relative equal highs and a buy side
+is relative equal highs and a buy side
+liquidity also just above it that's just
+liquidity also just above it that's just
+liquidity also just above it that's just
+candlestick's premium consequent apprach
+candlestick's premium consequent apprach
+candlestick's premium consequent apprach
+fair value Gap
+fair value Gap
+fair value Gap
+moment because smart money should
+moment because smart money should
+... and 49 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #20 August 29, 2024
+Lines: 378 | Method: enhanced
+--------------------------------------------------------------------------------
+have been basically just in a strong buy
+have been basically just in a strong buy
+have been basically just in a strong buy
+reaccumulate smart money
+reaccumulate smart money
+reaccumulate smart money
+order block
+order block
+order block
+here which is a small breaker in itself
+here which is a small breaker in itself
+here which is a small breaker in itself
+buying it I'm sorry I'm selling short as
+buying it I'm sorry I'm selling short as
+buying it I'm sorry I'm selling short as
+I'm selling short again adding more to
+I'm selling short again adding more to
+I'm selling short again adding more to
+sell-side liquidity run and then I'm
+sell-side liquidity run and then I'm
+sell-side liquidity run and then I'm
+using using this as the breaker I missed
+using using this as the breaker I missed
+using using this as the breaker I missed
+inversion fair value Gap this became an
+inversion fair value Gap this became an
+inversion fair value Gap this became an
+area to sell short in
+area to sell short in
+area to sell short in
+understand the market maker sale model
+understand the market maker sale model
+understand the market maker sale model
+redistribution to start
+redistribution to start
+redistribution to start
+fair value Gap so I went short there
+fair value Gap so I went short there
+fair value Gap so I went short there
+was on side I knew my market maker cell
+was on side I knew my market maker cell
+was on side I knew my market maker cell
+low so that's the draw on liquidity with
+low so that's the draw on liquidity with
+low so that's the draw on liquidity with
+the market maker Som so we're blending
+the market maker Som so we're blending
+the market maker Som so we're blending
+bearish order block and just like every
+bearish order block and just like every
+bearish order block and just like every
+premium it's going to take time for me
+game no fair value Gap is formed
+yet so you have buy side up here well
+yet so you have buy side up here well
+yet so you have buy side up here well
+so new day opening Gap at August
+so new day opening Gap at August
+so new day opening Gap at August
+question no fair value Gap yet no first
+also there's a huge pull of liquidity up
+also there's a huge pull of liquidity up
+also there's a huge pull of liquidity up
+it's that that there's huge buy side up
+it's that that there's huge buy side up
+it's that that there's huge buy side up
+partials you Trail the stop loss and it
+partials you Trail the stop loss and it
+partials you Trail the stop loss and it
+this liquidity and then see if it can
+this liquidity and then see if it can
+this liquidity and then see if it can
+this could be a draw on liquidity for
+this could be a draw on liquidity for
+this could be a draw on liquidity for
+lowrisk entry don't try to chase it the
+lowrisk entry don't try to chase it the
+lowrisk entry don't try to chase it the
+new day opening Gap high on August
+new day opening Gap high on August
+new day opening Gap high on August
+up to that old premium right you're
+up to that old premium right you're
+up to that old premium right you're
+presented fair value Gap other words
+presented fair value Gap other words
+presented fair value Gap other words
+new day opening Gap low because it's
+new day opening Gap low because it's
+new day opening Gap low because it's
+into that discount area the wick on this
+into that discount area the wick on this
+into that discount area the wick on this
+framing if we were to start the sell off
+framing if we were to start the sell off
+framing if we were to start the sell off
+a fair value Gap to drop into this first
+a fair value Gap to drop into this first
+a fair value Gap to drop into this first
+presented fair value Gap that's how I
+... and 278 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship September 09, 2024
+Lines: 288 | Method: enhanced
+--------------------------------------------------------------------------------
+premium premium uh gap opening here
+premium premium uh gap opening here
+premium premium uh gap opening here
+weekly inversion fair value Gap in here
+weekly inversion fair value Gap in here
+weekly inversion fair value Gap in here
+gap before selling off otherwise I'd
+gap before selling off otherwise I'd
+gap before selling off otherwise I'd
+watching the breaker here on the one
+watching the breaker here on the one
+watching the breaker here on the one
+minute chart the short-term High higher
+minute chart the short-term High higher
+minute chart the short-term High higher
+know what you're doing you then buy all
+know what you're doing you then buy all
+know what you're doing you then buy all
+people that don't how to reprice action
+people that don't how to reprice action
+people that don't how to reprice action
+that you're afraid you're going to miss
+that you're afraid you're going to miss
+that you're afraid you're going to miss
+body come down below the breaker which
+body come down below the breaker which
+body come down below the breaker which
+premium and we're taking it back to a
+premium and we're taking it back to a
+premium and we're taking it back to a
+uh price in whatever premium it wants to
+uh price in whatever premium it wants to
+uh price in whatever premium it wants to
+U when we have such a a premium opening
+U when we have such a a premium opening
+U when we have such a a premium opening
+price so I'm not willing to to buy that
+price so I'm not willing to to buy that
+price so I'm not willing to to buy that
+about earlier about the breaker because
+about earlier about the breaker because
+about earlier about the breaker because
+didn't show any kind of uh displacement
+didn't show any kind of uh displacement
+didn't show any kind of uh displacement
+that Weekly inversion fair value Gap
+that Weekly inversion fair value Gap
+that Weekly inversion fair value Gap
+inversion fair value Gap and if it runs
+inversion fair value Gap and if it runs
+inversion fair value Gap and if it runs
+here this swing low and we ran up into
+here this swing low and we ran up into
+here this swing low and we ran up into
+building a big premium for PPI and CPI
+building a big premium for PPI and CPI
+building a big premium for PPI and CPI
+here it's also a breaker have high low
+here it's also a breaker have high low
+here it's also a breaker have high low
+higher High inside the inversion for
+bit sloppier price action if there has
+bit sloppier price action if there has
+bit sloppier price action if there has
+must absolutely see clean price action
+must absolutely see clean price action
+must absolutely see clean price action
+you're going to have clean price action
+you're going to have clean price action
+you're going to have clean price action
+price action and if if that's the case
+price action and if if that's the case
+price action and if if that's the case
+indicative of them engineering liquidity
+indicative of them engineering liquidity
+indicative of them engineering liquidity
+by creating these little tiny short-term
+by creating these little tiny short-term
+by creating these little tiny short-term
+effect on price action but not all the
+effect on price action but not all the
+effect on price action but not all the
+forming in price action I start telling
+forming in price action I start telling
+forming in price action I start telling
+taking the the most recent swing High
+taking the the most recent swing High
+taking the the most recent swing High
+drop down because I don't want to sell
+drop down because I don't want to sell
+drop down because I don't want to sell
+what's left for liquidity or
+what's left for liquidity or
+what's left for liquidity or
+liquidity let's go
+liquidity let's go
+liquidity let's go
+fair value gap which you see
+fair value gap which you see
+fair value gap which you see
+... and 188 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship How To Avoid Seek & Destroy Tape Reading September 23, 2024
+Lines: 140 | Method: enhanced
+--------------------------------------------------------------------------------
+we're just going to study price action
+we're just going to study price action
+we're just going to study price action
+premium if it runs for the cell side
+premium if it runs for the cell side
+premium if it runs for the cell side
+imbalance I will I will be pushing the
+imbalance I will I will be pushing the
+imbalance I will I will be pushing the
+the volume imbalance and hit the bottom
+the volume imbalance and hit the bottom
+the volume imbalance and hit the bottom
+premium it it's repricing to here then
+premium it it's repricing to here then
+premium it it's repricing to here then
+low resistance liquidity runs uh set up
+low resistance liquidity runs uh set up
+low resistance liquidity runs uh set up
+to do it when the liquidity hasn't been
+to do it when the liquidity hasn't been
+to do it when the liquidity hasn't been
+to be a displacement off of that level
+to be a displacement off of that level
+to be a displacement off of that level
+of the price action there has to be
+of the price action there has to be
+of the price action there has to be
+you wait for the fair value Gap or you
+you wait for the fair value Gap or you
+you wait for the fair value Gap or you
+wait for an order block to trade back
+hours so we have a premium Gap
+discount array but it has to show
+discount array but it has to show
+discount array but it has to show
+displacement off of it not just simply
+displacement off of it not just simply
+displacement off of it not just simply
+unfilled portion of the opening range
+unfilled portion of the opening range
+unfilled portion of the opening range
+create a a fair value Gap in here and
+create a a fair value Gap in here and
+create a a fair value Gap in here and
+in with Market orders first to get used
+in with Market orders first to get used
+in with Market orders first to get used
+limit entry this morning
+sees a short-term High
+sees a short-term High
+sees a short-term High
+short-term low so it takes the buy side
+short-term low so it takes the buy side
+short-term low so it takes the buy side
+first then takes the sell
+first then takes the sell
+first then takes the sell
+side then rallies uses a fair value Gap
+side then rallies uses a fair value Gap
+side then rallies uses a fair value Gap
+entry I missed the opportunity to go in
+entry I missed the opportunity to go in
+entry I missed the opportunity to go in
+entry just a little bit above the
+entry just a little bit above the
+entry just a little bit above the
+inversion fair value Gap as I
+inversion fair value Gap as I
+inversion fair value Gap as I
+I finessed the exit with factoring in
+I finessed the exit with factoring in
+I finessed the exit with factoring in
+entry yet and what I'm looking for it
+entry yet and what I'm looking for it
+entry yet and what I'm looking for it
+22nd 2024 buy side liquidity it's an old
+22nd 2024 buy side liquidity it's an old
+22nd 2024 buy side liquidity it's an old
+fair value Gap so what you would want to
+fair value Gap so what you would want to
+fair value Gap so what you would want to
+that higher time frame daily buy side it
+that higher time frame daily buy side it
+that higher time frame daily buy side it
+this messy price action it's just
+this messy price action it's just
+this messy price action it's just
+you displacement after trades to the PD
+you displacement after trades to the PD
+you displacement after trades to the PD
+silver bullet for a run on the buy
+and you see today's price action right
+and you see today's price action right
+and you see today's price action right
+entry I've already assumed might be
+entry I've already assumed might be
+entry I've already assumed might be
+better the CLE uh the price action will
+better the CLE uh the price action will
+better the CLE uh the price action will
+... and 40 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship CFDs Vs. Futures September 20, 2024
+Lines: 395 | Method: enhanced
+--------------------------------------------------------------------------------
+teaching with the Futures Market how can
+teaching with the Futures Market how can
+teaching with the Futures Market how can
+broker I'm not trading Forex anymore I'm
+broker I'm not trading Forex anymore I'm
+broker I'm not trading Forex anymore I'm
+with the actual Futures Market you can
+with the actual Futures Market you can
+with the actual Futures Market you can
+studying price action I'm not trying to
+studying price action I'm not trying to
+studying price action I'm not trying to
+he's trading futures we don't trade
+he's trading futures we don't trade
+he's trading futures we don't trade
+Futures anymore cfds you can trade them
+Futures anymore cfds you can trade them
+Futures anymore cfds you can trade them
+I'm sorry four ticks below your entry in
+I'm sorry four ticks below your entry in
+I'm sorry four ticks below your entry in
+your long you would be debited Market to
+your long you would be debited Market to
+your long you would be debited Market to
+were overleveraged they were trading
+were overleveraged they were trading
+were overleveraged they were trading
+discount opening range Gap that means
+discount opening range Gap that means
+discount opening range Gap that means
+range which is algorithmic anything less
+range which is algorithmic anything less
+range which is algorithmic anything less
+trading okay the algorithm is going to
+trading okay the algorithm is going to
+trading okay the algorithm is going to
+to sell you a book I don't care if you
+to sell you a book I don't care if you
+to sell you a book I don't care if you
+never buy my books okay I don't care if
+never buy my books okay I don't care if
+never buy my books okay I don't care if
+need to buy them okay but I want to keep
+need to buy them okay but I want to keep
+need to buy them okay but I want to keep
+fair value Gap or first fair value Gap
+fair value Gap or first fair value Gap
+fair value Gap or first fair value Gap
+imbalance between these two candlesticks
+imbalance between these two candlesticks
+imbalance between these two candlesticks
+buying and selling it doesn't mean that
+buying and selling it doesn't mean that
+buying and selling it doesn't mean that
+there's nobody's willing to buy doesn't
+there's nobody's willing to buy doesn't
+there's nobody's willing to buy doesn't
+mean that there's a balance of buyers or
+mean that there's a balance of buyers or
+mean that there's a balance of buyers or
+sellers it has absolutely nothing to do
+sellers it has absolutely nothing to do
+sellers it has absolutely nothing to do
+is a algorithmic window of time where
+is a algorithmic window of time where
+is a algorithmic window of time where
+initial fair value Gap because we opened
+initial fair value Gap because we opened
+initial fair value Gap because we opened
+out a short-term buy side liquidity so
+out a short-term buy side liquidity so
+out a short-term buy side liquidity so
+be a buyer Above This Old higher here
+be a buyer Above This Old higher here
+be a buyer Above This Old higher here
+to this area of sell side so their sell
+to this area of sell side so their sell
+to this area of sell side so their sell
+weekly range whatever the highest high
+weekly range whatever the highest high
+weekly range whatever the highest high
+first presentation fair value gap
+first presentation fair value gap
+first presentation fair value gap
+Thursday's first fair value gap between
+Thursday's first fair value gap between
+Thursday's first fair value gap between
+stress about I don't trade Futures so I
+stress about I don't trade Futures so I
+stress about I don't trade Futures so I
+first presented fair value Gap aren't we
+first presented fair value Gap aren't we
+first presented fair value Gap aren't we
+morning because the algorithm's going to
+morning because the algorithm's going to
+morning because the algorithm's going to
+that's buying and selling pressure and
+that's buying and selling pressure and
+that's buying and selling pressure and
+level of buy side that was over here
+... and 295 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #14 August 22, 2024 Begins 9_00am ET
+Lines: 1354 | Method: enhanced
+--------------------------------------------------------------------------------
+to ask me questions but I want to ask
+to ask me questions but I want to ask
+to ask me questions but I want to ask
+entire daily volume imbalance okay so
+entire daily volume imbalance okay so
+entire daily volume imbalance okay so
+20,1 that is the rejection block from
+20,1 that is the rejection block from
+20,1 that is the rejection block from
+cover you know life price action as we
+cover you know life price action as we
+cover you know life price action as we
+free um if anybody's selling you these
+free um if anybody's selling you these
+free um if anybody's selling you these
+equal highs and lows draws on liquidity
+equal highs and lows draws on liquidity
+equal highs and lows draws on liquidity
+influence of what liquidity and
+influence of what liquidity and
+influence of what liquidity and
+passes in in price that's a buy side
+passes in in price that's a buy side
+passes in in price that's a buy side
+as an entry or Target them as your your
+as an entry or Target them as your your
+as an entry or Target them as your your
+to the buy side just above it or
+to the buy side just above it or
+to the buy side just above it or
+down just to you engage liquidity below
+down just to you engage liquidity below
+down just to you engage liquidity below
+inefficiency or entering on liquidity
+inefficiency or entering on liquidity
+inefficiency or entering on liquidity
+liquidity is below old lows or a
+liquidity is below old lows or a
+liquidity is below old lows or a
+range and that smaller short-term low or
+range and that smaller short-term low or
+range and that smaller short-term low or
+you for instance like uh institutional
+you for instance like uh institutional
+you for instance like uh institutional
+enter on Fair Value gaps and Target Fair
+enter on Fair Value gaps and Target Fair
+enter on Fair Value gaps and Target Fair
+Value gaps as my exiting strategy and
+Value gaps as my exiting strategy and
+Value gaps as my exiting strategy and
+understand the principles of liquidity
+understand the principles of liquidity
+understand the principles of liquidity
+only holding for the best case exit
+only holding for the best case exit
+only holding for the best case exit
+screwed up and they got I got to buy
+screwed up and they got I got to buy
+screwed up and they got I got to buy
+so it's tapping that uh rejection block
+so it's tapping that uh rejection block
+so it's tapping that uh rejection block
+it changes the volume imbalance many of
+it changes the volume imbalance many of
+it changes the volume imbalance many of
+you probably had your volume imbalance
+you probably had your volume imbalance
+you probably had your volume imbalance
+on your daily chart candles or not and
+on your daily chart candles or not and
+on your daily chart candles or not and
+so if there's a fair value Gap one
+so if there's a fair value Gap one
+so if there's a fair value Gap one
+imbalances are what inefficiencies and
+imbalances are what inefficiencies and
+imbalances are what inefficiencies and
+algorithm's changed because I'm going to
+algorithm's changed because I'm going to
+algorithm's changed because I'm going to
+I see this rejection block
+I see this rejection block
+I see this rejection block
+rejection block because it's the it's
+rejection block because it's the it's
+rejection block because it's the it's
+premium arrays when price was below this
+premium arrays when price was below this
+premium arrays when price was below this
+a premium array we want to see it dig
+a premium array we want to see it dig
+a premium array we want to see it dig
+rejection block was in there next then
+rejection block was in there next then
+rejection block was in there next then
+and then we have the High where the buy
+and then we have the High where the buy
+and then we have the High where the buy
+the rejection block that you toggle here
+... and 1254 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Micro Vs. Mini September 19, 2024
+Lines: 322 | Method: enhanced
+--------------------------------------------------------------------------------
+nqbe one minute charts respectively on
+nqbe one minute charts respectively on
+nqbe one minute charts respectively on
+longer trading or watching the September
+longer trading or watching the September
+longer trading or watching the September
+institutional or entry drill so I would
+institutional or entry drill so I would
+institutional or entry drill so I would
+trade the Futures market and you're kind
+trade the Futures market and you're kind
+trade the Futures market and you're kind
+trades the uh the cftd markets but as
+trades the uh the cftd markets but as
+trades the uh the cftd markets but as
+entry for me but because it's like this
+entry for me but because it's like this
+entry for me but because it's like this
+want to be a buyer
+want to be a buyer
+want to be a buyer
+use breakouts and you know buying about
+use breakouts and you know buying about
+use breakouts and you know buying about
+buying something that's already been
+buying something that's already been
+buying something that's already been
+a reasonable stop loss when you're
+a reasonable stop loss when you're
+a reasonable stop loss when you're
+buying at the highest high at the time
+buying at the highest high at the time
+buying at the highest high at the time
+plenty of fair value gaps to trade off
+plenty of fair value gaps to trade off
+plenty of fair value gaps to trade off
+takes out short-term highs you don't
+takes out short-term highs you don't
+takes out short-term highs you don't
+Gap Traders are caught long buying Above
+Gap Traders are caught long buying Above
+Gap Traders are caught long buying Above
+buying that
+buying that
+buying that
+not going to be comfortable selling it
+not going to be comfortable selling it
+not going to be comfortable selling it
+nothing to be afraid of if you get
+nothing to be afraid of if you get
+nothing to be afraid of if you get
+traders that want to be long on a break
+traders that want to be long on a break
+traders that want to be long on a break
+buy on a breakout those actually become
+buy on a breakout those actually become
+buy on a breakout those actually become
+slower and we had two fair value gaps so
+slower and we had two fair value gaps so
+slower and we had two fair value gaps so
+if you have a fair value Gap here but
+if you have a fair value Gap here but
+if you have a fair value Gap here but
+the lowest entry in this first fair
+the lowest entry in this first fair
+the lowest entry in this first fair
+loss or your entry do you feel any kind
+loss or your entry do you feel any kind
+loss or your entry do you feel any kind
+hits the stop loss it's not it's not a
+hits the stop loss it's not it's not a
+hits the stop loss it's not it's not a
+the logic was there poor execution entry
+the logic was there poor execution entry
+the logic was there poor execution entry
+front of the price action if you're
+front of the price action if you're
+front of the price action if you're
+with price action and you have to use
+with price action and you have to use
+with price action and you have to use
+discounts so that's going to be this
+discounts so that's going to be this
+discounts so that's going to be this
+looking for is where a fair value Gap
+looking for is where a fair value Gap
+looking for is where a fair value Gap
+and this could be used for order blocks
+and this could be used for order blocks
+and this could be used for order blocks
+not just just the uh fair value Gap but
+not just just the uh fair value Gap but
+not just just the uh fair value Gap but
+institutional I'm sorry the immediate
+institutional I'm sorry the immediate
+institutional I'm sorry the immediate
+fair value gap or does it break below
+fair value gap or does it break below
+fair value gap or does it break below
+won't be you won't be afraid to takeing
+... and 222 more lines
+
+================================================================================
+
+VIDEO: October 03, 2024 NQ Market Review
+Lines: 75 | Method: enhanced
+--------------------------------------------------------------------------------
+into this premium side and balance by
+into this premium side and balance by
+into this premium side and balance by
+something that they see in price action
+something that they see in price action
+something that they see in price action
+sell side resting below here I think
+sell side resting below here I think
+sell side resting below here I think
+the buy side here relative equal highs
+the buy side here relative equal highs
+the buy side here relative equal highs
+price action for today as you can see
+price action for today as you can see
+price action for today as you can see
+another fair value Gap rallies up and
+another fair value Gap rallies up and
+another fair value Gap rallies up and
+clears the buy side spends a little bit
+clears the buy side spends a little bit
+clears the buy side spends a little bit
+want to see because this is accumulation
+want to see because this is accumulation
+want to see because this is accumulation
+of buy stops smart money is accumulating
+of buy stops smart money is accumulating
+of buy stops smart money is accumulating
+it short the market breaks lower comes
+it short the market breaks lower comes
+it short the market breaks lower comes
+back into this sell side and balance buy
+back into this sell side and balance buy
+back into this sell side and balance buy
+consequent encouragment of that sell
+consequent encouragment of that sell
+consequent encouragment of that sell
+can see that sell sign and balance buy
+can see that sell sign and balance buy
+can see that sell sign and balance buy
+traded up to the buy side breaks lower
+traded up to the buy side breaks lower
+traded up to the buy side breaks lower
+lower we have a nice pull of liquidity
+lower we have a nice pull of liquidity
+lower we have a nice pull of liquidity
+that sell side balance bid efficiency
+that sell side balance bid efficiency
+that sell side balance bid efficiency
+lower so after displacement lower we
+lower so after displacement lower we
+lower so after displacement lower we
+encouragement of the weekly buyid
+encouragement of the weekly buyid
+encouragement of the weekly buyid
+balance sell efficiency which is this
+balance sell efficiency which is this
+balance sell efficiency which is this
+down analysis on the weekly chart after
+down analysis on the weekly chart after
+down analysis on the weekly chart after
+this Candlestick right there that buy
+this Candlestick right there that buy
+this Candlestick right there that buy
+side B sell side efficiency once we
+side B sell side efficiency once we
+side B sell side efficiency once we
+institutional orow entry drill there
+institutional orow entry drill there
+institutional orow entry drill there
+a fair value Gap here sold off down and
+a fair value Gap here sold off down and
+a fair value Gap here sold off down and
+stop loss on the balance of the two
+stop loss on the balance of the two
+stop loss on the balance of the two
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Tape Reading NQ October 02, 2024
+Lines: 633 | Method: enhanced
+--------------------------------------------------------------------------------
+so we have sell side
+Target individual specific liquidity now
+Target individual specific liquidity now
+Target individual specific liquidity now
+Above This liquidity we have this civy
+Above This liquidity we have this civy
+Above This liquidity we have this civy
+buy B sell efficiency and that's the
+buy B sell efficiency and that's the
+buy B sell efficiency and that's the
+entry this drive down
+entry this drive down
+entry this drive down
+student in price action it's not going
+student in price action it's not going
+student in price action it's not going
+chart sell sides below there and we just
+chart sell sides below there and we just
+chart sell sides below there and we just
+traded to the top of that Weekly buy
+traded to the top of that Weekly buy
+traded to the top of that Weekly buy
+only because of the long-term Trend
+only because of the long-term Trend
+only because of the long-term Trend
+side imbalance by
+minor buy side Li pool there
+get to the point here's that the buy
+get to the point here's that the buy
+get to the point here's that the buy
+side and balance sell sign efficiency
+side and balance sell sign efficiency
+side and balance sell sign efficiency
+do when you're watching price action
+do when you're watching price action
+do when you're watching price action
+little fair value Gap ahead of that
+little fair value Gap ahead of that
+little fair value Gap ahead of that
+minor buy side and then we have the B
+minor buy side and then we have the B
+minor buy side and then we have the B
+price action why should they
+price action why should they
+price action why should they
+trades in these small little tiny ranges
+trades in these small little tiny ranges
+trades in these small little tiny ranges
+and by defining where the closest buy
+and by defining where the closest buy
+and by defining where the closest buy
+side or buy stops or the closest sell
+side or buy stops or the closest sell
+side or buy stops or the closest sell
+side or sell stops where they're at you
+side or sell stops where they're at you
+side or sell stops where they're at you
+attack and usually whatever initial sell
+attack and usually whatever initial sell
+attack and usually whatever initial sell
+side or buy side's
+side or buy side's
+side or buy side's
+liquidity and I want to see them engaged
+liquidity and I want to see them engaged
+liquidity and I want to see them engaged
+it I would expect it to trade to the buy
+it I would expect it to trade to the buy
+it I would expect it to trade to the buy
+the buy side here because we're in this
+the buy side here because we're in this
+the buy side here because we're in this
+here at the top of that Weekly buy side
+here at the top of that Weekly buy side
+here at the top of that Weekly buy side
+imbalance cellid efficiency and we
+imbalance cellid efficiency and we
+imbalance cellid efficiency and we
+traded down into this volume imbalance
+traded down into this volume imbalance
+traded down into this volume imbalance
+here and run to the buy
+kind of liquidity taken and in this
+kind of liquidity taken and in this
+kind of liquidity taken and in this
+so if it goes down to take sell stops
+so if it goes down to take sell stops
+so if it goes down to take sell stops
+easier to trust any discount array if it
+easier to trust any discount array if it
+easier to trust any discount array if it
+near-term buy side and sell side is and
+near-term buy side and sell side is and
+near-term buy side and sell side is and
+liquidity but because we're just still
+liquidity but because we're just still
+liquidity but because we're just still
+buying and selling they are absolutely
+buying and selling they are absolutely
+buying and selling they are absolutely
+... and 533 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #3 August 7, 2024
+Lines: 602 | Method: enhanced
+--------------------------------------------------------------------------------
+Paypal payment I'm not going to ask you
+Paypal payment I'm not going to ask you
+Paypal payment I'm not going to ask you
+entry mechanisms they are partial
+entry mechanisms they are partial
+entry mechanisms they are partial
+it's something that's in price action
+it's something that's in price action
+it's something that's in price action
+Silver Bullet optimal trade entry um
+Silver Bullet optimal trade entry um
+Silver Bullet optimal trade entry um
+about short-term trading day trading
+about short-term trading day trading
+about short-term trading day trading
+swing trading Ultra short-term scalping
+swing trading Ultra short-term scalping
+swing trading Ultra short-term scalping
+you could see the new day opening Gap
+you could see the new day opening Gap
+you could see the new day opening Gap
+to a new day opening Gap and or new week
+to a new day opening Gap and or new week
+to a new day opening Gap and or new week
+like an order block or a fair value Gap
+like an order block or a fair value Gap
+like an order block or a fair value Gap
+an inversion fair value Gap is not just
+an inversion fair value Gap is not just
+an inversion fair value Gap is not just
+a fair value Gap there there's two
+a fair value Gap there there's two
+a fair value Gap there there's two
+the design the engineering of liquidity
+the design the engineering of liquidity
+the design the engineering of liquidity
+financial markets so the algorithm likes
+financial markets so the algorithm likes
+financial markets so the algorithm likes
+to for the purposes of liquidity or
+to for the purposes of liquidity or
+to for the purposes of liquidity or
+and or New Day opening gap which is what
+and or New Day opening gap which is what
+and or New Day opening gap which is what
+longterm effect on price action it'll
+longterm effect on price action it'll
+longterm effect on price action it'll
+as the new day opening Gap High now why
+as the new day opening Gap High now why
+as the new day opening Gap High now why
+is that it's the new day opening Gap
+is that it's the new day opening Gap
+is that it's the new day opening Gap
+way above that new day opening Gap see
+way above that new day opening Gap see
+way above that new day opening Gap see
+new day opening Gap high and then the
+new day opening Gap high and then the
+new day opening Gap high and then the
+liquidity cide delivery okay so if you
+liquidity cide delivery okay so if you
+liquidity cide delivery okay so if you
+because they're real algorithmic arrays
+because they're real algorithmic arrays
+because they're real algorithmic arrays
+notes new day opening gaps have a life
+notes new day opening gaps have a life
+notes new day opening gaps have a life
+have a uh new day opening Gap say for I
+have a uh new day opening Gap say for I
+have a uh new day opening Gap say for I
+down every single new day opening Gap
+down every single new day opening Gap
+down every single new day opening Gap
+cycle for New Day opening gaps new week
+cycle for New Day opening gaps new week
+cycle for New Day opening gaps new week
+the only new day opening gaps or new
+the only new day opening gaps or new
+the only new day opening gaps or new
+ever watching price action or if you
+ever watching price action or if you
+ever watching price action or if you
+that's not equilibrium it's consequent
+that's not equilibrium it's consequent
+that's not equilibrium it's consequent
+encroachment and not equilibrium because
+encroachment and not equilibrium because
+encroachment and not equilibrium because
+equilibrium is a range that has been
+equilibrium is a range that has been
+equilibrium is a range that has been
+has a missing level of buying and
+has a missing level of buying and
+has a missing level of buying and
+selling there's really no buying and
+selling there's really no buying and
+selling there's really no buying and
+selling yet because we stopped trading
+... and 502 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #11 August 19, 2024 Begins 915am ET
+Lines: 1094 | Method: enhanced
+--------------------------------------------------------------------------------
+kind of like the segue into uh entry
+kind of like the segue into uh entry
+kind of like the segue into uh entry
+entry entry patterns and uh how to enter
+entry entry patterns and uh how to enter
+entry entry patterns and uh how to enter
+going to be watching price action so
+going to be watching price action so
+going to be watching price action so
+liquidity that's the part he's working
+liquidity that's the part he's working
+liquidity that's the part he's working
+how we look at Price action uh the the
+how we look at Price action uh the the
+how we look at Price action uh the the
+being influenced over price action it's
+being influenced over price action it's
+being influenced over price action it's
+not the buying and selling pressure it's
+not the buying and selling pressure it's
+not the buying and selling pressure it's
+advanced how they'll use the entry
+advanced how they'll use the entry
+advanced how they'll use the entry
+now we have a little bit of sell side
+now we have a little bit of sell side
+now we have a little bit of sell side
+swing low so don't look at this area
+swing low so don't look at this area
+swing low so don't look at this area
+again and the buy side is
+again and the buy side is
+again and the buy side is
+chart these are the lows where sell side
+chart these are the lows where sell side
+chart these are the lows where sell side
+the that's your range for liquidity on
+the that's your range for liquidity on
+the that's your range for liquidity on
+both extremes you have buy side and cell
+both extremes you have buy side and cell
+both extremes you have buy side and cell
+it and do we want to sweep down to
+it and do we want to sweep down to
+it and do we want to sweep down to
+engage this liquidity here here and
+engage this liquidity here here and
+engage this liquidity here here and
+retap into that new day opening gap on
+retap into that new day opening gap on
+retap into that new day opening gap on
+breaker um a shift in Market structure
+breaker um a shift in Market structure
+breaker um a shift in Market structure
+some kind of a fair value Gap that you
+some kind of a fair value Gap that you
+some kind of a fair value Gap that you
+reach below the sell side
+reach below the sell side
+reach below the sell side
+liquidity so what you want to do is for
+liquidity so what you want to do is for
+liquidity so what you want to do is for
+how far can it trade below the sells
+how far can it trade below the sells
+how far can it trade below the sells
+side liquidity uh initially it can touch
+side liquidity uh initially it can touch
+side liquidity uh initially it can touch
+the new day opening Gap here as we just
+the new day opening Gap here as we just
+the new day opening Gap here as we just
+or this is what my entry model looks
+or this is what my entry model looks
+or this is what my entry model looks
+the sell off down into the liquidity
+the sell off down into the liquidity
+the sell off down into the liquidity
+shorts so the initial opening range is
+shorts so the initial opening range is
+shorts so the initial opening range is
+30 minutes long it's not 15 minutes I
+30 minutes long it's not 15 minutes I
+30 minutes long it's not 15 minutes I
+trying to sell then he's wrong he's
+trying to sell then he's wrong he's
+trying to sell then he's wrong he's
+delivered buy side a little bit more buy
+delivered buy side a little bit more buy
+delivered buy side a little bit more buy
+here and challenge that b side liquidity
+here and challenge that b side liquidity
+here and challenge that b side liquidity
+you're short and you have a stop loss
+you're short and you have a stop loss
+you're short and you have a stop loss
+the the entry mechanism of the fair
+the the entry mechanism of the fair
+the the entry mechanism of the fair
+Gap as an entry mechanism initially it
+... and 994 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #21 August 30, 2024
+Lines: 377 | Method: enhanced
+--------------------------------------------------------------------------------
+huge premium Gap
+huge premium Gap
+huge premium Gap
+there an enormous tool of liquidity up
+there an enormous tool of liquidity up
+there an enormous tool of liquidity up
+over came back and filled in yesterday's
+over came back and filled in yesterday's
+over came back and filled in yesterday's
+sell off which was very very awesome it
+sell off which was very very awesome it
+sell off which was very very awesome it
+touches this candle is the expansion and
+touches this candle is the expansion and
+touches this candle is the expansion and
+price action to occur going into noon
+price action to occur going into noon
+price action to occur going into noon
+participate and that liquidity will draw
+participate and that liquidity will draw
+participate and that liquidity will draw
+therefore the algorithm won't be able to
+therefore the algorithm won't be able to
+therefore the algorithm won't be able to
+spool and then use those buying and
+spool and then use those buying and
+spool and then use those buying and
+paired up buyers and sellers ma matching
+paired up buyers and sellers ma matching
+paired up buyers and sellers ma matching
+presented fair value Gap isn't that
+presented fair value Gap isn't that
+presented fair value Gap isn't that
+morons so we have short-term sell side
+morons so we have short-term sell side
+morons so we have short-term sell side
+short-term buy
+This minor buy side liquidity so it's
+This minor buy side liquidity so it's
+This minor buy side liquidity so it's
+us and we have the new day opening Gap
+us and we have the new day opening Gap
+us and we have the new day opening Gap
+candlesticks and and price charts and
+candlesticks and and price charts and
+candlesticks and and price charts and
+previous day's first fair value Gap
+previous day's first fair value Gap
+previous day's first fair value Gap
+buy side liquidity here and it's at
+buy side liquidity here and it's at
+buy side liquidity here and it's at
+higher high
+higher high
+higher high
+here back into that first fair value Gap
+here back into that first fair value Gap
+here back into that first fair value Gap
+liquidity you're learning how to
+liquidity you're learning how to
+liquidity you're learning how to
+or they have something to sell they'll
+or they have something to sell they'll
+or they have something to sell they'll
+a a premium level does it repel price
+a a premium level does it repel price
+a a premium level does it repel price
+discount is it able to hold price up or
+discount is it able to hold price up or
+discount is it able to hold price up or
+new day opening gaps new week opening
+new day opening gaps new week opening
+new day opening gaps new week opening
+when we're watching how the algorithm is
+when we're watching how the algorithm is
+when we're watching how the algorithm is
+lack of buyers and it's not an imbalance
+lack of buyers and it's not an imbalance
+lack of buyers and it's not an imbalance
+sellers that's nonsensical so what we're
+sellers that's nonsensical so what we're
+sellers that's nonsensical so what we're
+to these premium arrays all of these new
+to these premium arrays all of these new
+to these premium arrays all of these new
+their stop loss above th those four
+their stop loss above th those four
+their stop loss above th those four
+weekend clearly the easier price action
+weekend clearly the easier price action
+weekend clearly the easier price action
+time so tapped the new day opening Gap
+time so tapped the new day opening Gap
+time so tapped the new day opening Gap
+price runs to have much more elongation
+price runs to have much more elongation
+price runs to have much more elongation
+algorithm because the algorithm is
+algorithm because the algorithm is
+algorithm because the algorithm is
+... and 277 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship How To Manage Missed Entries September 17, 2024
+Lines: 422 | Method: enhanced
+--------------------------------------------------------------------------------
+Gap premium opum
+okay sweeping Friday's high once
+be what you miss your your entry so
+be what you miss your your entry so
+be what you miss your your entry so
+premium gap opening range Gap higher
+premium gap opening range Gap higher
+premium gap opening range Gap higher
+minutes before 10 o'clock we buy 10
+minutes before 10 o'clock we buy 10
+minutes before 10 o'clock we buy 10
+also pool liquidity resting on this
+also pool liquidity resting on this
+also pool liquidity resting on this
+little base of price action
+so first presentation fair value Gap is
+so first presentation fair value Gap is
+so first presentation fair value Gap is
+very long session which is my intend
+trading and yesterday's settlement price
+trading and yesterday's settlement price
+trading and yesterday's settlement price
+of buying and selling pressure who in
+of buying and selling pressure who in
+of buying and selling pressure who in
+and then it trades down to that sweeps
+and then it trades down to that sweeps
+and then it trades down to that sweeps
+Buy sell Equity you want to write this
+Buy sell Equity you want to write this
+Buy sell Equity you want to write this
+f1c getting in that entry price there
+f1c getting in that entry price there
+f1c getting in that entry price there
+fair value Gap a PD array it might work
+fair value Gap a PD array it might work
+fair value Gap a PD array it might work
+or one minute buy side or sells side
+liquidity using
+for a price run that takes out shortterm
+for a price run that takes out shortterm
+for a price run that takes out shortterm
+with a civy sells side and balance by
+with a civy sells side and balance by
+with a civy sells side and balance by
+use my entry technique it would have
+use my entry technique it would have
+use my entry technique it would have
+75 you may elect to trade a limit order
+75 you may elect to trade a limit order
+75 you may elect to trade a limit order
+lowest entry
+lowest entry
+lowest entry
+you'll get really good premium pricing
+you'll get really good premium pricing
+you'll get really good premium pricing
+fair value Gap that forms at 9:31 that's
+fair value Gap that forms at 9:31 that's
+fair value Gap that forms at 9:31 that's
+very first fair value Gap that forms and
+very first fair value Gap that forms and
+very first fair value Gap that forms and
+first fair value Gap price which is this
+first fair value Gap price which is this
+first fair value Gap price which is this
+in this first fair value Gap the the Gap
+in this first fair value Gap the the Gap
+in this first fair value Gap the the Gap
+long or short so think like an algorithm
+long or short so think like an algorithm
+long or short so think like an algorithm
+okay an algorithm is just the recipe so
+okay an algorithm is just the recipe so
+okay an algorithm is just the recipe so
+machines the recipe or algorithm is
+machines the recipe or algorithm is
+machines the recipe or algorithm is
+another I got another entry don't worry
+another I got another entry don't worry
+another I got another entry don't worry
+that's that big pocket of buy side
+that's that big pocket of buy side
+that's that big pocket of buy side
+liquidity um if we don't go there today
+liquidity um if we don't go there today
+liquidity um if we don't go there today
+the algorithm because it knows every
+the algorithm because it knows every
+the algorithm because it knows every
+old lows for support and resistance I'm
+old lows for support and resistance I'm
+old lows for support and resistance I'm
+Matrix of where prices at the market and
+Matrix of where prices at the market and
+Matrix of where prices at the market and
+be looking for Discount a raise I'm not
+be looking for Discount a raise I'm not
+be looking for Discount a raise I'm not
+flurry of price action redelivering
+... and 322 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #4 August 8, 2024
+Lines: 584 | Method: enhanced
+--------------------------------------------------------------------------------
+probably all going to be buying a
+probably all going to be buying a
+probably all going to be buying a
+that that's the day everybody should buy
+that that's the day everybody should buy
+that that's the day everybody should buy
+discount their stuff on that day I just
+discount their stuff on that day I just
+discount their stuff on that day I just
+the algorithm is going to just walk
+the algorithm is going to just walk
+the algorithm is going to just walk
+public because at 8:30 the algorithm is
+public because at 8:30 the algorithm is
+public because at 8:30 the algorithm is
+teaching Forex and and price action
+teaching Forex and and price action
+teaching Forex and and price action
+buyer maybe Above This high or that
+buyer maybe Above This high or that
+buyer maybe Above This high or that
+high short sellers going to want to sell
+high short sellers going to want to sell
+high short sellers going to want to sell
+Wednesday's new day opening Gap High
+Wednesday's new day opening Gap High
+Wednesday's new day opening Gap High
+midpoint Point New Day opening Gap low
+midpoint Point New Day opening Gap low
+midpoint Point New Day opening Gap low
+new day opening Gap low and then you put
+new day opening Gap low and then you put
+new day opening Gap low and then you put
+the new day opening Gap is like you know
+the new day opening Gap is like you know
+the new day opening Gap is like you know
+new day opening Gap and if you don't
+new day opening Gap and if you don't
+new day opening Gap and if you don't
+Tuesdays new day opening Gap there
+Tuesdays new day opening Gap there
+Tuesdays new day opening Gap there
+today's new day opening gap which is
+today's new day opening gap which is
+today's new day opening gap which is
+of new day opening gaps and a new week
+of new day opening gaps and a new week
+of new day opening gaps and a new week
+liquidity relative equal
+liquidity relative equal
+liquidity relative equal
+lows inside of a buy C cell signed
+lows inside of a buy C cell signed
+lows inside of a buy C cell signed
+that's buying pressure there guys don't
+that's buying pressure there guys don't
+that's buying pressure there guys don't
+you understand it's buying pressure that
+you understand it's buying pressure that
+you understand it's buying pressure that
+buy at that price so anyway the price
+buy at that price so anyway the price
+buy at that price so anyway the price
+today's uh new day opening Gap again
+today's uh new day opening Gap again
+today's uh new day opening Gap again
+Market structure that's bullish um time
+Market structure that's bullish um time
+Market structure that's bullish um time
+it but their stop losses above that and
+it but their stop losses above that and
+it but their stop losses above that and
+wanted to sell short because I was
+wanted to sell short because I was
+wanted to sell short because I was
+afraid to sell short I was only trying
+afraid to sell short I was only trying
+afraid to sell short I was only trying
+to buy if I was trying to trade so when
+to buy if I was trying to trade so when
+to buy if I was trying to trade so when
+trade to them and fill them in everybody
+trade to them and fill them in everybody
+trade to them and fill them in everybody
+at Price action and I'm trying to tell
+at Price action and I'm trying to tell
+at Price action and I'm trying to tell
+student new day opening gaps you want to
+student new day opening gaps you want to
+student new day opening gaps you want to
+and say well it's a so and so entry
+and say well it's a so and so entry
+and say well it's a so and so entry
+the algorithm the price engine that
+the algorithm the price engine that
+the algorithm the price engine that
+points so what the algorithm does is it
+points so what the algorithm does is it
+points so what the algorithm does is it
+a very deep discount relative to the
+... and 484 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship September 02, 2024
+Lines: 15 | Method: enhanced
+--------------------------------------------------------------------------------
+presentation here I got asked what's the
+presentation here I got asked what's the
+presentation here I got asked what's the
+do the buy and selling buttons are down
+do the buy and selling buttons are down
+do the buy and selling buttons are down
+entry that's me taking
+entry that's me taking
+entry that's me taking
+you can see that when I'm buying and
+you can see that when I'm buying and
+you can see that when I'm buying and
+selling entering with the hot buttons
+selling entering with the hot buttons
+selling entering with the hot buttons
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #19 August 28, 2024
+Lines: 525 | Method: enhanced
+--------------------------------------------------------------------------------
+days the liquidity above or below those
+days the liquidity above or below those
+days the liquidity above or below those
+price points because well let me ask you
+price points because well let me ask you
+price points because well let me ask you
+a liquidity
+a liquidity
+a liquidity
+pole algorithmic reference point a PD
+pole algorithmic reference point a PD
+pole algorithmic reference point a PD
+from the The Stance of the algorithm the
+from the The Stance of the algorithm the
+from the The Stance of the algorithm the
+algorithm does not know how many stops
+algorithm does not know how many stops
+algorithm does not know how many stops
+on an Institutional level very large
+on an Institutional level very large
+on an Institutional level very large
+they'll have buying and selling
+they'll have buying and selling
+they'll have buying and selling
+the algorithm doesn't have to know and
+the algorithm doesn't have to know and
+the algorithm doesn't have to know and
+and interest to be buying and selling
+and interest to be buying and selling
+and interest to be buying and selling
+those Levels by the algorithm
+those Levels by the algorithm
+those Levels by the algorithm
+will be buying and selling resting below
+will be buying and selling resting below
+will be buying and selling resting below
+higher what low the stop losses will be
+higher what low the stop losses will be
+higher what low the stop losses will be
+algorithm doesn't need to know how many
+algorithm doesn't need to know how many
+algorithm doesn't need to know how many
+liquidity they also can be catalysts for
+liquidity they also can be catalysts for
+liquidity they also can be catalysts for
+wonderful area to get short on a daily
+wonderful area to get short on a daily
+wonderful area to get short on a daily
+chart and a weekly chart and a monthly
+chart and a weekly chart and a monthly
+chart and a weekly chart and a monthly
+micro Market structure that you can
+micro Market structure that you can
+micro Market structure that you can
+liquidity or
+liquidity or
+liquidity or
+we have an order block this entire
+we have an order block this entire
+we have an order block this entire
+order block which is the up closed
+order block which is the up closed
+order block which is the up closed
+has not made a lower low on the day but
+has not made a lower low on the day but
+has not made a lower low on the day but
+going to be sell side below that so if
+going to be sell side below that so if
+going to be sell side below that so if
+previous days low you could sell
+previous days low you could sell
+previous days low you could sell
+closed candle that creates an imbalance
+closed candle that creates an imbalance
+closed candle that creates an imbalance
+this candle's low you take a buy stop
+this candle's low you take a buy stop
+this candle's low you take a buy stop
+stop loss and you're waiting for it to
+stop loss and you're waiting for it to
+stop loss and you're waiting for it to
+entry or something back here or if you
+entry or something back here or if you
+entry or something back here or if you
+wonderful exit on a trailed Dynamic
+wonderful exit on a trailed Dynamic
+wonderful exit on a trailed Dynamic
+for another lower low and the same
+for another lower low and the same
+for another lower low and the same
+price dive down and make a lower low on
+price dive down and make a lower low on
+price dive down and make a lower low on
+stop loss would be up here now you don't
+stop loss would be up here now you don't
+stop loss would be up here now you don't
+targeting for liquidity or inefficiency
+targeting for liquidity or inefficiency
+targeting for liquidity or inefficiency
+on to it for a longer term price run now
+... and 425 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #17 August 26, 2024 Impeding Barriers
+Lines: 498 | Method: enhanced
+--------------------------------------------------------------------------------
+little discount Gap
+little discount Gap
+little discount Gap
+Market's going to trade on Wednesday and
+Market's going to trade on Wednesday and
+Market's going to trade on Wednesday and
+so sell side's been Disturbed it's it's
+so sell side's been Disturbed it's it's
+so sell side's been Disturbed it's it's
+seeking buy side which is already done
+seeking buy side which is already done
+seeking buy side which is already done
+shortterm minor buy side liquidity
+shortterm minor buy side liquidity
+shortterm minor buy side liquidity
+fair value Gap studying it
+offered some selling here to entice
+offered some selling here to entice
+offered some selling here to entice
+sell short I'm not all that terribly
+sell short I'm not all that terribly
+sell short I'm not all that terribly
+which is the buy side I want to see if
+which is the buy side I want to see if
+which is the buy side I want to see if
+me a a market structure to work with him
+me a a market structure to work with him
+me a a market structure to work with him
+new day opening gap of the 21st so it's
+new day opening gap of the 21st so it's
+new day opening gap of the 21st so it's
+long I'm short whatever and
+long I'm short whatever and
+long I'm short whatever and
+maybe at this new day opening Gap or a
+maybe at this new day opening Gap or a
+maybe at this new day opening Gap or a
+along up into this buy side here
+along up into this buy side here
+along up into this buy side here
+weak discount Gap that means it's a
+weak discount Gap that means it's a
+weak discount Gap that means it's a
+students ask me what does a 20 handle
+students ask me what does a 20 handle
+students ask me what does a 20 handle
+minutes to get in there the algorithm is
+minutes to get in there the algorithm is
+minutes to get in there the algorithm is
+trade or if I try to elect a liquidity I
+trade or if I try to elect a liquidity I
+trade or if I try to elect a liquidity I
+has a lot of porous price action in it
+has a lot of porous price action in it
+has a lot of porous price action in it
+here we had a volume imbalance there
+here we had a volume imbalance there
+here we had a volume imbalance there
+the fair value Gap that I was annotating
+the fair value Gap that I was annotating
+the fair value Gap that I was annotating
+uh fair value Gap that's why if you saw
+uh fair value Gap that's why if you saw
+uh fair value Gap that's why if you saw
+higher made a higher high and then I was
+higher made a higher high and then I was
+higher made a higher high and then I was
+resistance premium array and leave the
+resistance premium array and leave the
+resistance premium array and leave the
+as an inversion fair value Gap so no I
+as an inversion fair value Gap so no I
+as an inversion fair value Gap so no I
+inversion fair value gaps or fair value
+inversion fair value gaps or fair value
+inversion fair value gaps or fair value
+does not make it a fair value Gap in the
+does not make it a fair value Gap in the
+does not make it a fair value Gap in the
+the narrative and price action is go
+the narrative and price action is go
+the narrative and price action is go
+be watching price action to get a feel
+be watching price action to get a feel
+be watching price action to get a feel
+value Gap and where your stop loss need
+value Gap and where your stop loss need
+value Gap and where your stop loss need
+a premium right half of that Wick if you
+a premium right half of that Wick if you
+a premium right half of that Wick if you
+when you're watching price action for
+when you're watching price action for
+when you're watching price action for
+completely redelivered with buy side so
+completely redelivered with buy side so
+completely redelivered with buy side so
+trade imbalances where it completely
+trade imbalances where it completely
+trade imbalances where it completely
+... and 398 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #16 August 24, 2024
+Lines: 333 | Method: enhanced
+--------------------------------------------------------------------------------
+of price action uh in full disclosure
+of price action uh in full disclosure
+of price action uh in full disclosure
+understanding of price action so this is
+understanding of price action so this is
+understanding of price action so this is
+in price action because you're doing
+in price action because you're doing
+in price action because you're doing
+logging charts and then filling in the
+logging charts and then filling in the
+logging charts and then filling in the
+but I didn't want to fill the chart up
+but I didn't want to fill the chart up
+but I didn't want to fill the chart up
+order block mean threshold so half of an
+order block mean threshold so half of an
+order block mean threshold so half of an
+order block is mean threshold and then I
+order block is mean threshold and then I
+order block is mean threshold and then I
+said we had the rejection block then we
+said we had the rejection block then we
+said we had the rejection block then we
+all this price action in here then we
+all this price action in here then we
+all this price action in here then we
+because we have a volume imbalance you
+because we have a volume imbalance you
+because we have a volume imbalance you
+mean threshold the bearish order block
+mean threshold the bearish order block
+mean threshold the bearish order block
+daily civy volume imbalance high on July
+daily civy volume imbalance high on July
+daily civy volume imbalance high on July
+candle is a sells side balance buy side
+candle is a sells side balance buy side
+candle is a sells side balance buy side
+price action and then we hammered into
+price action and then we hammered into
+price action and then we hammered into
+the rejection block we were looking for
+the rejection block we were looking for
+the rejection block we were looking for
+threshold of that bearish order block
+threshold of that bearish order block
+threshold of that bearish order block
+the short trading down into low of day
+the short trading down into low of day
+the short trading down into low of day
+algorithm price delivery is that it
+algorithm price delivery is that it
+algorithm price delivery is that it
+imbalance upper half or the premium side
+imbalance upper half or the premium side
+imbalance upper half or the premium side
+that the new day opening gap on
+that the new day opening gap on
+that the new day opening gap on
+daily chart becomes a bearish order
+daily chart becomes a bearish order
+daily chart becomes a bearish order
+frame daily chart bearish order block to
+frame daily chart bearish order block to
+frame daily chart bearish order block to
+segment of price action and I mentioned
+segment of price action and I mentioned
+segment of price action and I mentioned
+little sell sign and balance buyid
+little sell sign and balance buyid
+little sell sign and balance buyid
+we have a bearish order block changing
+we have a bearish order block changing
+we have a bearish order block changing
+candle is another order block but it's
+candle is another order block but it's
+candle is another order block but it's
+sells off one more goes to a lower low
+sells off one more goes to a lower low
+sells off one more goes to a lower low
+this price action in here back and forth
+this price action in here back and forth
+this price action in here back and forth
+up buy side delivering down sell side
+up buy side delivering down sell side
+up buy side delivering down sell side
+all of this back and forth price action
+all of this back and forth price action
+all of this back and forth price action
+chart so this is a balanc price range
+chart so this is a balanc price range
+chart so this is a balanc price range
+balance price ranges are very difficult
+balance price ranges are very difficult
+balance price ranges are very difficult
+to get through buy side or stops Above
+to get through buy side or stops Above
+to get through buy side or stops Above
+resistance liquidity meaning that it's
+... and 233 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Premarket Concepts September 30, 2024
+Lines: 685 | Method: enhanced
+--------------------------------------------------------------------------------
+because the the price action tends to be
+because the the price action tends to be
+because the the price action tends to be
+destroy or a high resistance liquidity
+destroy or a high resistance liquidity
+destroy or a high resistance liquidity
+first 15 minutes pass okay so that's
+first 15 minutes pass okay so that's
+first 15 minutes pass okay so that's
+impact news driver wait 15 minutes if
+impact news driver wait 15 minutes if
+impact news driver wait 15 minutes if
+that especially your trading view charts
+that especially your trading view charts
+that especially your trading view charts
+about the volume imbalance here in the
+about the volume imbalance here in the
+about the volume imbalance here in the
+see in price action formulate some kind
+see in price action formulate some kind
+see in price action formulate some kind
+stop loss how will I take a first
+stop loss how will I take a first
+stop loss how will I take a first
+partial when will I move my stop loss
+partial when will I move my stop loss
+partial when will I move my stop loss
+traded to a premium we I'll to the
+traded to a premium we I'll to the
+traded to a premium we I'll to the
+Candlestick only has buy side delivery
+Candlestick only has buy side delivery
+Candlestick only has buy side delivery
+on a lower time frames for entries exits
+on a lower time frames for entries exits
+on a lower time frames for entries exits
+consecutive volume imbalances it's just
+consecutive volume imbalances it's just
+consecutive volume imbalances it's just
+this and since it's a premium array you
+this and since it's a premium array you
+this and since it's a premium array you
+body and that's a volume imbalance but
+body and that's a volume imbalance but
+body and that's a volume imbalance but
+discount like this would be here
+discount like this would be here
+discount like this would be here
+a discount Wick whereas something like
+a discount Wick whereas something like
+a discount Wick whereas something like
+like this Wick would be a premium Wick
+like this Wick would be a premium Wick
+like this Wick would be a premium Wick
+in relative terms to premium to Discount
+in relative terms to premium to Discount
+in relative terms to premium to Discount
+worked it's because it was in a premium
+worked it's because it was in a premium
+worked it's because it was in a premium
+and it's moved to a discount every
+and it's moved to a discount every
+and it's moved to a discount every
+time a long trade that was profitable in
+time a long trade that was profitable in
+time a long trade that was profitable in
+because it left a discount and traded to
+because it left a discount and traded to
+because it left a discount and traded to
+a premium absolutely 100% it never
+a premium absolutely 100% it never
+a premium absolutely 100% it never
+premium to Discount they're a
+premium to Discount they're a
+premium to Discount they're a
+inside of a premium you're you're
+inside of a premium you're you're
+inside of a premium you're you're
+hopeless if you can't frame your long on
+hopeless if you can't frame your long on
+hopeless if you can't frame your long on
+the basis of a discount you're hopeless
+the basis of a discount you're hopeless
+the basis of a discount you're hopeless
+it's discount so it's 60
+it's discount so it's 60
+it's discount so it's 60
+discount Wick c e that's your definition
+discount Wick c e that's your definition
+discount Wick c e that's your definition
+inefficiency here this is sell side and
+inefficiency here this is sell side and
+inefficiency here this is sell side and
+balance buy side efficiency I love the
+balance buy side efficiency I love the
+balance buy side efficiency I love the
+charts is like a daily range for me I
+charts is like a daily range for me I
+charts is like a daily range for me I
+that lower low to the right of it and
+... and 585 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship How To Identify High Resistance Liquidity Conditions September 27, 2024
+Lines: 645 | Method: enhanced
+--------------------------------------------------------------------------------
+premium gap
+that 30 minute interval the algorithms
+that 30 minute interval the algorithms
+that 30 minute interval the algorithms
+lows that's your draw for sell side
+the price action over here but this
+the price action over here but this
+the price action over here but this
+had a premium gap opening because we
+had a premium gap opening because we
+had a premium gap opening because we
+fair value Gap in other words if it
+fair value Gap in other words if it
+fair value Gap in other words if it
+subsequent fair value Gap um a very
+subsequent fair value Gap um a very
+subsequent fair value Gap um a very
+small short-term swing High to be rated
+small short-term swing High to be rated
+small short-term swing High to be rated
+goes and gets a short-term liquidity and
+goes and gets a short-term liquidity and
+goes and gets a short-term liquidity and
+fair value Gap
+fair value Gap
+fair value Gap
+gap down to the liquidity that's been
+gap down to the liquidity that's been
+gap down to the liquidity that's been
+opened here which is a premium it sold
+opened here which is a premium it sold
+opened here which is a premium it sold
+can buy from someone that wants to sell
+can buy from someone that wants to sell
+can buy from someone that wants to sell
+to them at a cheap discount
+to them at a cheap discount
+to them at a cheap discount
+scoop up sell stops or short buy stops
+scoop up sell stops or short buy stops
+scoop up sell stops or short buy stops
+usually um the algorithms will start
+usually um the algorithms will start
+usually um the algorithms will start
+marketplace or it's running to liquidity
+marketplace or it's running to liquidity
+marketplace or it's running to liquidity
+hours where is the liquidity why should
+hours where is the liquidity why should
+hours where is the liquidity why should
+go lower what liquidity is there is it
+go lower what liquidity is there is it
+go lower what liquidity is there is it
+below the market price so these are all
+below the market price so these are all
+below the market price so these are all
+questions that I ask myself um
+questions that I ask myself um
+questions that I ask myself um
+you the position from a buyer's
+you the position from a buyer's
+you the position from a buyer's
+perspective or a short seller's
+perspective or a short seller's
+perspective or a short seller's
+being a buyer or seller that's not high
+being a buyer or seller that's not high
+being a buyer or seller that's not high
+Concepts like support and resistance if
+Concepts like support and resistance if
+Concepts like support and resistance if
+of support or resistance diagonal
+of support or resistance diagonal
+of support or resistance diagonal
+support diagonal resistance with with
+support diagonal resistance with with
+support diagonal resistance with with
+trend lines or some kind of pattern and
+trend lines or some kind of pattern and
+trend lines or some kind of pattern and
+these classic chart patterns while we
+these classic chart patterns while we
+these classic chart patterns while we
+liquidity up there and it's already done
+liquidity up there and it's already done
+liquidity up there and it's already done
+flag in price action somewhere in close
+flag in price action somewhere in close
+flag in price action somewhere in close
+for the liquidity it's not running
+for the liquidity it's not running
+for the liquidity it's not running
+that Hey look it's time to buy it's time
+that Hey look it's time to buy it's time
+that Hey look it's time to buy it's time
+to sell and they just now okay now
+to sell and they just now okay now
+to sell and they just now okay now
+this fair value Gap
+weekly range so the highest high of the
+... and 545 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #9 August 15, 2024
+Lines: 216 | Method: enhanced
+--------------------------------------------------------------------------------
+Thursday trading session for uh indices
+Thursday trading session for uh indices
+Thursday trading session for uh indices
+large premium opening so is a lot
+large premium opening so is a lot
+large premium opening so is a lot
+buy side liquidity
+buy side liquidity
+buy side liquidity
+liquidity there
+liquidity they're going they're going to
+liquidity they're going they're going to
+liquidity they're going they're going to
+volume imbalance between these two
+volume imbalance between these two
+volume imbalance between these two
+point of entry because you have
+point of entry because you have
+point of entry because you have
+breaker that could have been used as
+breaker that could have been used as
+breaker that could have been used as
+a more or less the fair value Gap does
+a more or less the fair value Gap does
+a more or less the fair value Gap does
+close and then the liquidity was here so
+close and then the liquidity was here so
+close and then the liquidity was here so
+liquidity that's your
+liquidity so now because we've had this
+liquidity so now because we've had this
+liquidity so now because we've had this
+opened 930 ran to buy side
+opened 930 ran to buy side
+opened 930 ran to buy side
+here a premium
+here a premium
+here a premium
+Wick we're studying the buy side in here
+Wick we're studying the buy side in here
+Wick we're studying the buy side in here
+they're going to Trail their stop losses
+they're going to Trail their stop losses
+they're going to Trail their stop losses
+going to put their stop loss right below
+going to put their stop loss right below
+going to put their stop loss right below
+Gap rallied institutional orall entry
+Gap rallied institutional orall entry
+Gap rallied institutional orall entry
+the liquidity my focus is here I'm not
+the liquidity my focus is here I'm not
+the liquidity my focus is here I'm not
+inversion fair value Gap that sends us
+inversion fair value Gap that sends us
+inversion fair value Gap that sends us
+into the liquidity here and into this
+into the liquidity here and into this
+into the liquidity here and into this
+right now to want to buy it we have a
+right now to want to buy it we have a
+right now to want to buy it we have a
+it Tuesday so I will not buy premium
+it Tuesday so I will not buy premium
+it Tuesday so I will not buy premium
+low breaker breaker inside of the new
+low breaker breaker inside of the new
+low breaker breaker inside of the new
+that fair value Gap and the that
+that fair value Gap and the that
+that fair value Gap and the that
+consolidation run to the liquidity come
+consolidation run to the liquidity come
+consolidation run to the liquidity come
+are going to wait for a discount and
+are going to wait for a discount and
+are going to wait for a discount and
+they're not interested in trying to buy
+they're not interested in trying to buy
+they're not interested in trying to buy
+money uh they'll they'll buy it every
+money uh they'll they'll buy it every
+money uh they'll they'll buy it every
+they're buying momentum or they're
+they're buying momentum or they're
+they're buying momentum or they're
+shorting weakness so they're they're cha
+shorting weakness so they're they're cha
+shorting weakness so they're they're cha
+looking for cheap discounted prices to
+looking for cheap discounted prices to
+looking for cheap discounted prices to
+buy and you want to sell expensive
+buy and you want to sell expensive
+buy and you want to sell expensive
+premium priced instruments so it's very
+premium priced instruments so it's very
+premium priced instruments so it's very
+pattern higher inside liquidity all of
+pattern higher inside liquidity all of
+... and 116 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #2 August 6, 2024
+Lines: 683 | Method: enhanced
+--------------------------------------------------------------------------------
+it won't be a long session okay
+it won't be a long session okay
+it won't be a long session okay
+reaccumulation I called it miscalled it
+reaccumulation I called it miscalled it
+reaccumulation I called it miscalled it
+second stage redistribution well that's
+second stage redistribution well that's
+second stage redistribution well that's
+for Market maker sale model but because
+for Market maker sale model but because
+for Market maker sale model but because
+to see it take the swing low
+to see it take the swing low
+to see it take the swing low
+back into yesterday's price action and
+back into yesterday's price action and
+back into yesterday's price action and
+because your boss is over your shoulder
+because your boss is over your shoulder
+because your boss is over your shoulder
+intraday trading you don't need a daily
+intraday trading you don't need a daily
+intraday trading you don't need a daily
+entry technique that you live buy and
+entry technique that you live buy and
+entry technique that you live buy and
+into we're only going to use Breakers
+into we're only going to use Breakers
+into we're only going to use Breakers
+we're only going to use order blocks
+we're only going to use order blocks
+we're only going to use order blocks
+we're only going to use fair value gaps
+we're only going to use fair value gaps
+we're only going to use fair value gaps
+markets are not trading unless you trade
+markets are not trading unless you trade
+markets are not trading unless you trade
+money I'm not asking for payments you're
+money I'm not asking for payments you're
+money I'm not asking for payments you're
+daily chart weekly chart whatnot U that
+daily chart weekly chart whatnot U that
+daily chart weekly chart whatnot U that
+because I was watching price action live
+because I was watching price action live
+because I was watching price action live
+entry the 15 second allows me to get
+entry the 15 second allows me to get
+entry the 15 second allows me to get
+goes up and touches the limit order but
+goes up and touches the limit order but
+goes up and touches the limit order but
+doesn't go above it for the spread and
+doesn't go above it for the spread and
+doesn't go above it for the spread and
+did not fill me guess what that means
+did not fill me guess what that means
+did not fill me guess what that means
+excuse me very very small stop loss it
+excuse me very very small stop loss it
+excuse me very very small stop loss it
+away so I didn't get my best fill we
+away so I didn't get my best fill we
+away so I didn't get my best fill we
+fill okay that is an expression you
+fill okay that is an expression you
+fill okay that is an expression you
+your fills and your entries um and you
+your fills and your entries um and you
+your fills and your entries um and you
+chart a f minute chart or a 15 minute uh
+chart a f minute chart or a 15 minute uh
+chart a f minute chart or a 15 minute uh
+ask me questions about any other time
+ask me questions about any other time
+ask me questions about any other time
+price action is all you need you don't
+price action is all you need you don't
+price action is all you need you don't
+stop losses because if you don't know
+stop losses because if you don't know
+stop losses because if you don't know
+how to reprice action and if you don't
+how to reprice action and if you don't
+how to reprice action and if you don't
+liquidity whether it be relative equal
+liquidity whether it be relative equal
+liquidity whether it be relative equal
+Futures chart I don't know what the time
+Futures chart I don't know what the time
+Futures chart I don't know what the time
+Dad managing a real stop loss managing
+Dad managing a real stop loss managing
+Dad managing a real stop loss managing
+the stop loss throughout and then
+the stop loss throughout and then
+the stop loss throughout and then
+loss that prematurely exits the trade he
+... and 583 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship October NFP NQ October 04, 2024
+Lines: 474 | Method: enhanced
+--------------------------------------------------------------------------------
+now and then we like to sell it as uh
+now and then we like to sell it as uh
+now and then we like to sell it as uh
+marketplace 15 minutes minimum after non
+marketplace 15 minutes minimum after non
+marketplace 15 minutes minimum after non
+they what do they Crush in terms of buy
+they what do they Crush in terms of buy
+they what do they Crush in terms of buy
+side and sell side what inefficiencies
+side and sell side what inefficiencies
+side and sell side what inefficiencies
+a minor buy side and sell side and what
+a minor buy side and sell side and what
+a minor buy side and sell side and what
+is the primary buy side and sell side so
+is the primary buy side and sell side so
+is the primary buy side and sell side so
+liquidity pools are and then we watch
+liquidity pools are and then we watch
+liquidity pools are and then we watch
+have 15 minutes or so we have plenty of
+have 15 minutes or so we have plenty of
+have 15 minutes or so we have plenty of
+long-term interest rate trends for
+long-term interest rate trends for
+long-term interest rate trends for
+intraday trading is useless because you
+intraday trading is useless because you
+intraday trading is useless because you
+that I wouldn't sell short that that
+that I wouldn't sell short that that
+that I wouldn't sell short that that
+Forex pair if I was trading it so these
+Forex pair if I was trading it so these
+Forex pair if I was trading it so these
+fundamental long-term perspectives these
+fundamental long-term perspectives these
+fundamental long-term perspectives these
+it so now let's go through the liquidity
+it so now let's go through the liquidity
+it so now let's go through the liquidity
+this high so that's not a liquidity pool
+this high so that's not a liquidity pool
+this high so that's not a liquidity pool
+there and this is a close proximity buy
+there and this is a close proximity buy
+there and this is a close proximity buy
+side liquidity pool meaning this is
+side liquidity pool meaning this is
+side liquidity pool meaning this is
+liquidity pool so you can do
+liquidity pool so you can do
+liquidity pool so you can do
+they have minor sell side liquidity and
+they have minor sell side liquidity and
+they have minor sell side liquidity and
+there ask somebody that doesn't know how
+there ask somebody that doesn't know how
+there ask somebody that doesn't know how
+the minor cell side liquidity pool but
+the minor cell side liquidity pool but
+the minor cell side liquidity pool but
+level of liquidity below your near close
+level of liquidity below your near close
+level of liquidity below your near close
+proximity minor cell side liquidity
+proximity minor cell side liquidity
+proximity minor cell side liquidity
+bide liquidity because it's close
+bide liquidity because it's close
+bide liquidity because it's close
+is the primary buy side you think it's
+is the primary buy side you think it's
+is the primary buy side you think it's
+primary buy side
+primary buy side
+primary buy side
+liquidity okay so now the next question
+liquidity okay so now the next question
+liquidity okay so now the next question
+15 minutes of Monday's live stream if
+15 minutes of Monday's live stream if
+15 minutes of Monday's live stream if
+pools of liquidity and I'm wrong and
+pools of liquidity and I'm wrong and
+pools of liquidity and I'm wrong and
+liquidity they've taken is the minor buy
+liquidity they've taken is the minor buy
+liquidity they've taken is the minor buy
+zo down I want to see fair value gaps
+zo down I want to see fair value gaps
+zo down I want to see fair value gaps
+here you're looking for the liquidity
+here you're looking for the liquidity
+here you're looking for the liquidity
+for the first 15 minutes you want to see
+for the first 15 minutes you want to see
+for the first 15 minutes you want to see
+already engaged the buy
+... and 374 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #10 August 16, 2024
+Lines: 579 | Method: enhanced
+--------------------------------------------------------------------------------
+so yesterday we had a a short
+so yesterday we had a a short
+so yesterday we had a a short
+higher high on the week I'm just saying
+higher high on the week I'm just saying
+higher high on the week I'm just saying
+explored tested traded to repriced
+explored tested traded to repriced
+explored tested traded to repriced
+the the cleaner price action will start
+the the cleaner price action will start
+the the cleaner price action will start
+probably maybe 15 minutes going into
+probably maybe 15 minutes going into
+probably maybe 15 minutes going into
+is New Day opening Gap those levels are
+is New Day opening Gap those levels are
+is New Day opening Gap those levels are
+watching price action if you're only
+watching price action if you're only
+watching price action if you're only
+I did take a short yesterday I will
+I did take a short yesterday I will
+I did take a short yesterday I will
+below this low here the liquidity
+below this low here the liquidity
+below this low here the liquidity
+range if it opens at 9:30 and trades
+range if it opens at 9:30 and trades
+range if it opens at 9:30 and trades
+time and the market structure what it's
+time and the market structure what it's
+time and the market structure what it's
+but just keeps making lower lows into
+but just keeps making lower lows into
+but just keeps making lower lows into
+demo entry not to inspire him to trade
+demo entry not to inspire him to trade
+demo entry not to inspire him to trade
+price action and and determine whether
+price action and and determine whether
+price action and and determine whether
+liquidity so it'll help you frame this
+liquidity so it'll help you frame this
+liquidity so it'll help you frame this
+doing it very long or if you're trading
+doing it very long or if you're trading
+doing it very long or if you're trading
+price action those are the things you
+price action those are the things you
+price action those are the things you
+then we can go into actual um entry like
+then we can go into actual um entry like
+then we can go into actual um entry like
+liquidity it means the thing that's so
+liquidity it means the thing that's so
+liquidity it means the thing that's so
+into New Day opening Gap because it's
+into New Day opening Gap because it's
+into New Day opening Gap because it's
+me say this is really clean price action
+me say this is really clean price action
+me say this is really clean price action
+Price action that's
+Price action that's
+Price action that's
+price action not that there is that
+price action not that there is that
+price action not that there is that
+weekly range when we traded here which
+weekly range when we traded here which
+weekly range when we traded here which
+reading and and tape reading reading
+reading and and tape reading reading
+reading and and tape reading reading
+day opening gap which it can sweep
+day opening gap which it can sweep
+day opening gap which it can sweep
+engage the liquidity right there so you
+engage the liquidity right there so you
+engage the liquidity right there so you
+terms of buying and selling what
+terms of buying and selling what
+terms of buying and selling what
+indicators buy and sell none of that
+indicators buy and sell none of that
+indicators buy and sell none of that
+distribution and then down here would be
+distribution and then down here would be
+distribution and then down here would be
+smart money reversal then something low
+smart money reversal then something low
+smart money reversal then something low
+risk buy accumulation reaccumulation and
+risk buy accumulation reaccumulation and
+risk buy accumulation reaccumulation and
+market maker buy model but we had this
+market maker buy model but we had this
+market maker buy model but we had this
+back into New Day opening gap for
+... and 479 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship How ICT Picks Winning FVG's & Orderblocks October 25, 2024
+Lines: 740 | Method: enhanced
+--------------------------------------------------------------------------------
+afraid that a high was forming when I
+afraid that a high was forming when I
+afraid that a high was forming when I
+scenario 15 minutes um we'll see what we
+scenario 15 minutes um we'll see what we
+scenario 15 minutes um we'll see what we
+buying and selling pressure and it's
+buying and selling pressure and it's
+buying and selling pressure and it's
+mitigation of those two losses so The
+mitigation of those two losses so The
+mitigation of those two losses so The
+expansion day inside those last three
+expansion day inside those last three
+expansion day inside those last three
+where he talked about short-term trading
+where he talked about short-term trading
+where he talked about short-term trading
+cleared that the initial buy side there
+cleared that the initial buy side there
+cleared that the initial buy side there
+create these expansion moves um it
+create these expansion moves um it
+create these expansion moves um it
+or as I teach it the draw on liquidity
+or as I teach it the draw on liquidity
+or as I teach it the draw on liquidity
+fuzzy price action and the only reason
+fuzzy price action and the only reason
+fuzzy price action and the only reason
+because we already had the sell off
+because we already had the sell off
+because we already had the sell off
+that buy side both both levels of buy
+that buy side both both levels of buy
+that buy side both both levels of buy
+a daily chart that compression that
+a daily chart that compression that
+a daily chart that compression that
+all this buy side up here that has not
+all this buy side up here that has not
+all this buy side up here that has not
+range day expansion to occur the
+range day expansion to occur the
+range day expansion to occur the
+market up here who is they the algorithm
+market up here who is they the algorithm
+market up here who is they the algorithm
+holding short looking for Wednesday's
+holding short looking for Wednesday's
+holding short looking for Wednesday's
+run is going after that liquidity so
+run is going after that liquidity so
+run is going after that liquidity so
+manipulation that's the drop down
+manipulation that's the drop down
+manipulation that's the drop down
+swing that's manipulation and then the
+swing that's manipulation and then the
+swing that's manipulation and then the
+accumulation below the opening price or
+accumulation below the opening price or
+accumulation below the opening price or
+that's all part of the accumulation
+that's all part of the accumulation
+that's all part of the accumulation
+liquidity or some higher time
+liquidity or some higher time
+liquidity or some higher time
+here so the market trades up into them
+here so the market trades up into them
+here so the market trades up into them
+and then the market trades higher it can
+and then the market trades higher it can
+and then the market trades higher it can
+money's going to buy I spent my first
+money's going to buy I spent my first
+money's going to buy I spent my first
+knew how to buy below the opening price
+knew how to buy below the opening price
+knew how to buy below the opening price
+would always do what he would be buying
+would always do what he would be buying
+would always do what he would be buying
+opening price and then he'd be buying up
+opening price and then he'd be buying up
+opening price and then he'd be buying up
+would be afraid to take the next trade
+would be afraid to take the next trade
+would be afraid to take the next trade
+couldn't figure out how to be buying
+couldn't figure out how to be buying
+couldn't figure out how to be buying
+he would buy on a breakout above or sell
+he would buy on a breakout above or sell
+he would buy on a breakout above or sell
+1992 so because it hurt me bu buying
+1992 so because it hurt me bu buying
+1992 so because it hurt me bu buying
+facilitate a model that would be buying
+... and 640 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #5 August 9, 2024
+Lines: 547 | Method: enhanced
+--------------------------------------------------------------------------------
+like a discount market and vice
+like a discount market and vice
+like a discount market and vice
+to interpret price action around certain
+to interpret price action around certain
+to interpret price action around certain
+to buy a breakout above the 20-day High
+to buy a breakout above the 20-day High
+to buy a breakout above the 20-day High
+trading in a London session I will be
+trading in a London session I will be
+trading in a London session I will be
+Asian session around when the market
+Asian session around when the market
+Asian session around when the market
+which goes along with what I said when I
+which goes along with what I said when I
+which goes along with what I said when I
+see how to use this new day opening Gap
+see how to use this new day opening Gap
+see how to use this new day opening Gap
+heard me Mis call a market maker buy
+heard me Mis call a market maker buy
+heard me Mis call a market maker buy
+model as a market maker sell model when
+model as a market maker sell model when
+model as a market maker sell model when
+I said redistribution when it should
+I said redistribution when it should
+I said redistribution when it should
+have been reaccumulation so that's an
+have been reaccumulation so that's an
+have been reaccumulation so that's an
+bearish order block as an entry if we
+bearish order block as an entry if we
+bearish order block as an entry if we
+get a um a fair value Gap after that one
+get a um a fair value Gap after that one
+get a um a fair value Gap after that one
+for a short and they can't even fill in
+for a short and they can't even fill in
+for a short and they can't even fill in
+sell side liquidity but I just want to
+sell side liquidity but I just want to
+sell side liquidity but I just want to
+absolutely an algorithm and anyone that
+absolutely an algorithm and anyone that
+absolutely an algorithm and anyone that
+new day opening Gap and whichever that
+new day opening Gap and whichever that
+new day opening Gap and whichever that
+going to be your new day opening Gap low
+going to be your new day opening Gap low
+going to be your new day opening Gap low
+and you find the equilibrium or not equ
+and you find the equilibrium or not equ
+and you find the equilibrium or not equ
+quadrant inside that new day opening Gap
+quadrant inside that new day opening Gap
+quadrant inside that new day opening Gap
+influence other people with price action
+influence other people with price action
+influence other people with price action
+what that's your new day opening Gap and
+what that's your new day opening Gap and
+what that's your new day opening Gap and
+closed that means we have a a discount
+closed that means we have a a discount
+closed that means we have a a discount
+algorithmic
+algorithmic
+algorithmic
+liquidity so what does that mean
+liquidity so what does that mean
+liquidity so what does that mean
+so Above This High there's liquidity and
+so Above This High there's liquidity and
+so Above This High there's liquidity and
+it's the form of buy side you want to be
+it's the form of buy side you want to be
+it's the form of buy side you want to be
+that as a minor buy side liquidity pool
+that as a minor buy side liquidity pool
+that as a minor buy side liquidity pool
+annotate that as a minor sell side
+annotate that as a minor sell side
+annotate that as a minor sell side
+liquidity pool but what you're waiting
+liquidity pool but what you're waiting
+liquidity pool but what you're waiting
+see a short-term low taken it does that
+see a short-term low taken it does that
+see a short-term low taken it does that
+engineer liquidity you don't even need
+engineer liquidity you don't even need
+engineer liquidity you don't even need
+Asian session trading uh this stuff
+Asian session trading uh this stuff
+Asian session trading uh this stuff
+a shortterm sell-side liquidity pool
+... and 447 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #6 August 12, 2024 Begins 915am ET
+Lines: 209 | Method: enhanced
+--------------------------------------------------------------------------------
+we have the run here creating the initial buy&nbsp;
+side liquidity and the low taking that out here&nbsp;&nbsp;
+so we have a minor cell side liquidity pool&nbsp;
+we're working the initial cell side liquidity&nbsp;
+that initial liquidity is an interest to me&nbsp;&nbsp;
+so that disrupted all that price action over
+the minor cell side liquidity it's inside the&nbsp;&nbsp;
+highlighted as a layered cells side liquidity pool&nbsp;&nbsp;
+which is initial buy side we've already ran that&nbsp;&nbsp;
+and started to sell off so on the on the buy side&nbsp;
+to tell me for a buy or sell it's not giving&nbsp;
+like supposed diagonal support and resistance&nbsp;&nbsp;
+price action and they're they're hinting to the&nbsp;
+about last week where we have Smart money Concepts&nbsp;
+time and price and liquidity and inefficiencies if&nbsp;&nbsp;
+Central tenants that go along with retail trading&nbsp;&nbsp;
+um you can just trade the just the price action&nbsp;&nbsp;
+when we have opportunities to see the price action&nbsp;
+what you're looking for if you're if you're afraid&nbsp;&nbsp;
+see a limit order was filled you see they a stop&nbsp;&nbsp;
+me the opportunity and displacement and and it&nbsp;
+ran to obvious levels of liquidity it took out&nbsp;&nbsp;
+this shortterm low I wasn't interested in having&nbsp;
+idea and then I see a displacement I might in&nbsp;&nbsp;
+a short with a fair value Gap a institutional&nbsp;&nbsp;
+order flow entry drill um I don't know maybe a&nbsp;
+bearish order block something something to that&nbsp;&nbsp;
+and this one here has a lot of liquidity in it&nbsp;&nbsp;
+liquidity big big players in the marketplace are&nbsp;
+the market will go just above a short-term High&nbsp;
+and Wednesday I would go back in and short up&nbsp;
+above it it rallied up it took liquidity and&nbsp;&nbsp;
+have an old new day opening Gap here we'll have&nbsp;
+last week that the new day opening gaps have a&nbsp;&nbsp;
+back into new day opening gap of the 9th okay&nbsp;&nbsp;
+so that's Friday new day opening Gap that would&nbsp;
+algorithmic so it has to refer back to those same&nbsp;&nbsp;
+of the layered liquidity here upper quadrant&nbsp;
+it works and smart money concepts are nonsense and&nbsp;
+there's no algorithm but here you again I told you&nbsp;&nbsp;
+I would not be interested in trying to buy it&nbsp;&nbsp;
+nice displacement lower it just really just tore&nbsp;
+following along and went short take your profits&nbsp;&nbsp;
+as the initial point of buy side liquidity&nbsp;&nbsp;
+fizzling out and they are no no longer supporting&nbsp;&nbsp;
+buying and being profitable or you're selling and&nbsp;&nbsp;
+being profitable and all the losses in between and&nbsp;
+and you understand the effects of manipulation&nbsp;&nbsp;
+going to go up to this level buy it at this&nbsp;&nbsp;
+it's almost like uh reading price action isn't it&nbsp;
+so the buy side is taken and just for good measure&nbsp;
+Gap okay and the market trades up into the fair&nbsp;&nbsp;
+lower and then we have displacement in here so&nbsp;
+if we go back through all this price action here&nbsp;&nbsp;
+and say okay I can see the fair value gaps I can&nbsp;
+see the inversion fair value gaps he's talking&nbsp;&nbsp;
+about I can see um I can see the order blocks okay&nbsp;
+trying to trade and get short I'm going to use&nbsp;
+fill but it doesn't do it and it runs the other&nbsp;
+and the pawns will fall so if I share my stop loss&nbsp;&nbsp;
+creating liquidity and even a larger Bullseye so&nbsp;
+think they understand fair value gaps and whatnot&nbsp;
+sell off not if you don't have the information&nbsp;
+idea of my order block and because they tried to&nbsp;
+named ICT and these smart money Concepts and they&nbsp;&nbsp;
+that movie well the same thing in price action if&nbsp;&nbsp;
+in the London session or trading the afternoon&nbsp;
+time determining where the liquidity is and then&nbsp;
+bearish order block why because it's going above&nbsp;&nbsp;
+listen folks this is for order block fans okay&nbsp;
+my order block does not require the trade below&nbsp;&nbsp;
+my interest was being short I wanted to be short&nbsp;
+trade or maybe it didn't give me a fill and or it&nbsp;
+uh weekly previous week's range to be profitable&nbsp;&nbsp;
+probabilities are better in the short than going&nbsp;&nbsp;
+week determine what your initial high for buy side&nbsp;
+is and what your initial low is for your sell side&nbsp;&nbsp;
+bias that bias doesn't have to be the daily range&nbsp;
+and and we have new day opening gaps below the&nbsp;
+Market's going to discover probe into discount&nbsp;
+chart that closing price right there validates&nbsp;&nbsp;
+this is a bearish order block all I need to do is&nbsp;
+open below this and then trade up where's my fill&nbsp;&nbsp;
+and trades up I'm selling short when the Market's&nbsp;
+going up okay stop loss goes to rejection block&nbsp;&nbsp;
+which is the close on the order block so we have a&nbsp;
+to the initial buy side liquidity that's these&nbsp;
+back there because there is an algorithm I know&nbsp;
+it to you every day and the market trades again&nbsp;
+there's a volume imbalance there so you have to&nbsp;
+this is probably boring you but long story short&nbsp;
+here that justifies that fill except for I pushed&nbsp;&nbsp;
+my inefficiencies and fair value gaps whether&nbsp;&nbsp;
+how you know the algorithm is doing exactly what&nbsp;&nbsp;
+and price and what the algorithm is doing what the&nbsp;&nbsp;
+algorithm is doing this and when the algorithm is&nbsp;
+to believe there's an algorithm but then when you&nbsp;
+algorithm I'm enjoying the fact that I'm rubbing&nbsp;
+fair value Gap that should act as resistance&nbsp;&nbsp;
+or if you are using a reclaimed fair value Gap&nbsp;
+... and 109 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship How To Navigate Decoupled Markets October 16, 2024
+Lines: 301 | Method: enhanced
+--------------------------------------------------------------------------------
+to yes is making a a lower low let's
+to yes is making a a lower low let's
+to yes is making a a lower low let's
+unless you're really really short term
+unless you're really really short term
+unless you're really really short term
+first percent of fair value Gap that's
+first percent of fair value Gap that's
+first percent of fair value Gap that's
+fine we have bearish order block trades
+fine we have bearish order block trades
+fine we have bearish order block trades
+deliver where we're looking for sell
+deliver where we're looking for sell
+deliver where we're looking for sell
+movements in price action that I'm
+movements in price action that I'm
+movements in price action that I'm
+that no real expansion on the downside
+that no real expansion on the downside
+that no real expansion on the downside
+them volume imbalance right here I'm
+them volume imbalance right here I'm
+them volume imbalance right here I'm
+same type of delivery for its sell side
+same type of delivery for its sell side
+same type of delivery for its sell side
+it's going to run for the buy side here
+it's going to run for the buy side here
+it's going to run for the buy side here
+where the the buy side was
+where the the buy side was
+where the the buy side was
+First of fair value Gap and back into
+First of fair value Gap and back into
+First of fair value Gap and back into
+delivered to downside and sell side it
+delivered to downside and sell side it
+delivered to downside and sell side it
+this and go down and attack its sell
+this and go down and attack its sell
+this and go down and attack its sell
+side liquidity
+side liquidity
+side liquidity
+frame any kind of stop loss and all
+frame any kind of stop loss and all
+frame any kind of stop loss and all
+entry or an entry at all despite knowing
+entry or an entry at all despite knowing
+entry or an entry at all despite knowing
+student of price action especially
+student of price action especially
+student of price action especially
+liquidity and that's not enough you have
+liquidity and that's not enough you have
+liquidity and that's not enough you have
+entry on so the only thing we're really
+entry on so the only thing we're really
+entry on so the only thing we're really
+enough to Warrant an entry because just
+enough to Warrant an entry because just
+enough to Warrant an entry because just
+there's a liquidity pool so let's couple
+there's a liquidity pool so let's couple
+there's a liquidity pool so let's couple
+first presented fair value Gap when then
+first presented fair value Gap when then
+first presented fair value Gap when then
+it showed displacement after that then
+it showed displacement after that then
+it showed displacement after that then
+long ones I generally skip over them
+long ones I generally skip over them
+long ones I generally skip over them
+morning and look at this price action
+morning and look at this price action
+morning and look at this price action
+value Gap but the liquidity rests here
+value Gap but the liquidity rests here
+value Gap but the liquidity rests here
+willing to make lower lows here
+willing to make lower lows here
+willing to make lower lows here
+NASDAQ was able to make lower lows and
+NASDAQ was able to make lower lows and
+NASDAQ was able to make lower lows and
+sell side if the es fails to shrug off
+sell side if the es fails to shrug off
+sell side if the es fails to shrug off
+create lower low but then the es failed
+create lower low but then the es failed
+create lower low but then the es failed
+to make a lower low at the same
+to make a lower low at the same
+to make a lower low at the same
+time that the NASDAQ did that lower low
+time that the NASDAQ did that lower low
+time that the NASDAQ did that lower low
+lower low and that's what we've seen so
+... and 201 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #18 August 27, 2024
+Lines: 1094 | Method: enhanced
+--------------------------------------------------------------------------------
+prices in electronic trading
+prices in electronic trading
+prices in electronic trading
+inside the new day opening gap of August
+inside the new day opening gap of August
+inside the new day opening gap of August
+discounted opening range
+discounted opening range
+discounted opening range
+discount opening range got you can see
+discount opening range got you can see
+discount opening range got you can see
+o'cl it is not 15 minutes
+o'cl it is not 15 minutes
+o'cl it is not 15 minutes
+initial fair value Gap formed
+that you're studying in price action
+that you're studying in price action
+that you're studying in price action
+support discount rally took about
+support discount rally took about
+support discount rally took about
+relative equal highs in here and any buy
+relative equal highs in here and any buy
+relative equal highs in here and any buy
+uh like um tape reading it you're not
+uh like um tape reading it you're not
+uh like um tape reading it you're not
+in the form of sell
+in the form of sell
+in the form of sell
+initially if you have no fair value Gap
+initially if you have no fair value Gap
+initially if you have no fair value Gap
+reading or hypothetical demo entry or if
+reading or hypothetical demo entry or if
+reading or hypothetical demo entry or if
+entry you would have
+long as it doesn't come back up here
+long as it doesn't come back up here
+long as it doesn't come back up here
+as something to look as a discount when
+as something to look as a discount when
+as something to look as a discount when
+presentation here this fair value Gap is
+presentation here this fair value Gap is
+presentation here this fair value Gap is
+commodity Futures Trading commission and
+commodity Futures Trading commission and
+commodity Futures Trading commission and
+financial markets for futures and Forex
+financial markets for futures and Forex
+financial markets for futures and Forex
+into the Gap here buy side is here and
+into the Gap here buy side is here and
+into the Gap here buy side is here and
+it hits it bang run to short-term buy
+it hits it bang run to short-term buy
+it hits it bang run to short-term buy
+breakouts back into New Day opening gap
+breakouts back into New Day opening gap
+breakouts back into New Day opening gap
+as a selloff okay or you were going
+as a selloff okay or you were going
+as a selloff okay or you were going
+short-term buy side why because we've
+short-term buy side why because we've
+short-term buy side why because we've
+long and short in the same day and I'm
+long and short in the same day and I'm
+long and short in the same day and I'm
+over real-time price action giving you
+over real-time price action giving you
+over real-time price action giving you
+every entry point but while you're
+every entry point but while you're
+every entry point but while you're
+algorithm delivering
+algorithm delivering
+algorithm delivering
+price well look you're telling me buy
+price well look you're telling me buy
+price well look you're telling me buy
+and selling pressure where your garbage
+and selling pressure where your garbage
+and selling pressure where your garbage
+it wasn't an algorithm and I didn't know
+it wasn't an algorithm and I didn't know
+it wasn't an algorithm and I didn't know
+what that algorithm's doing I could not
+what that algorithm's doing I could not
+what that algorithm's doing I could not
+15 minutes if it's 60 it's one hour
+15 minutes if it's 60 it's one hour
+15 minutes if it's 60 it's one hour
+there is no algorithm and you're you're
+there is no algorithm and you're you're
+there is no algorithm and you're you're
+you cannot Escape it it is algorithmic
+you cannot Escape it it is algorithmic
+... and 994 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship News Release Tape Reading October 17, 2024
+Lines: 263 | Method: enhanced
+--------------------------------------------------------------------------------
+you in about 15 minutes or so when that
+you in about 15 minutes or so when that
+you in about 15 minutes or so when that
+in terms of uh runs on liquidity or
+liquidity polls and all that stuff um
+liquidity polls and all that stuff um
+liquidity polls and all that stuff um
+nice sell side still building underneath
+nice sell side still building underneath
+nice sell side still building underneath
+that uh buy side is here uh we
+that uh buy side is here uh we
+that uh buy side is here uh we
+the sell bounce b side efficiency and to
+the sell bounce b side efficiency and to
+the sell bounce b side efficiency and to
+market and hold for a long time not that
+market and hold for a long time not that
+market and hold for a long time not that
+itself so focusing on the buy side is
+itself so focusing on the buy side is
+itself so focusing on the buy side is
+lay an area or a layer of liquidity like
+lay an area or a layer of liquidity like
+lay an area or a layer of liquidity like
+after having a run on liquidity below
+after having a run on liquidity below
+after having a run on liquidity below
+breakout is going to be long Above This
+breakout is going to be long Above This
+breakout is going to be long Above This
+a breakout Trader would get in long or
+a breakout Trader would get in long or
+a breakout Trader would get in long or
+short because the Market's predisposed
+short because the Market's predisposed
+short because the Market's predisposed
+traders in Long ripping their guts out
+traders in Long ripping their guts out
+traders in Long ripping their guts out
+discount array we have this in Balance
+discount array we have this in Balance
+discount array we have this in Balance
+accumulation so looking at it like that
+accumulation so looking at it like that
+accumulation so looking at it like that
+we trade down into the fair value Gap
+we trade down into the fair value Gap
+we trade down into the fair value Gap
+won't include the volume imbalance I'm
+won't include the volume imbalance I'm
+won't include the volume imbalance I'm
+fair value Gap here which is a bid bound
+fair value Gap here which is a bid bound
+fair value Gap here which is a bid bound
+order block that means this is what this
+order block that means this is what this
+order block that means this is what this
+there and then exiting
+there and then exiting
+there and then exiting
+down and comes back for my initial entry
+down and comes back for my initial entry
+down and comes back for my initial entry
+um how did I get this exit where did
+um how did I get this exit where did
+um how did I get this exit where did
+term or shortterm buy side
+term or shortterm buy side
+term or shortterm buy side
+sorry we have a fair value Gap and then
+sorry we have a fair value Gap and then
+sorry we have a fair value Gap and then
+imbalance so if we go below the lows
+imbalance so if we go below the lows
+imbalance so if we go below the lows
+and buying the up itself it it's not
+and buying the up itself it it's not
+and buying the up itself it it's not
+efficiencies like volume imbalances are
+efficiencies like volume imbalances are
+efficiencies like volume imbalances are
+these in volume imbalances in and of
+these in volume imbalances in and of
+these in volume imbalances in and of
+the typical standard fair value Gap that
+the typical standard fair value Gap that
+the typical standard fair value Gap that
+significant higher high here now it can
+significant higher high here now it can
+significant higher high here now it can
+Discount arrays like bull shoulder
+Discount arrays like bull shoulder
+Discount arrays like bull shoulder
+blocks fair value gaps to support price
+blocks fair value gaps to support price
+blocks fair value gaps to support price
+or did I uh manipulation in the
+or did I uh manipulation in the
+or did I uh manipulation in the
+... and 163 more lines
+
+================================================================================
+
+VIDEO: ICT 2024 Mentorship Lecture #8 August 14, 2024
+Lines: 1308 | Method: enhanced
+--------------------------------------------------------------------------------
+that we had some daily short-term High
+that we had some daily short-term High
+that we had some daily short-term High
+sweep through it come back and revisit
+sweep through it come back and revisit
+sweep through it come back and revisit
+entry you know the easiest entry points
+entry you know the easiest entry points
+entry you know the easiest entry points
+getting filled on some of your trades or
+getting filled on some of your trades or
+getting filled on some of your trades or
+swing high or a swing low has my
+swing high or a swing low has my
+swing high or a swing low has my
+wick and it's part of a a swing high or
+wick and it's part of a a swing high or
+wick and it's part of a a swing high or
+swing low that has any importance to me
+swing low that has any importance to me
+swing low that has any importance to me
+there would be these long Wicks now this
+there would be these long Wicks now this
+there would be these long Wicks now this
+reversal patterns or short-term trading
+reversal patterns or short-term trading
+reversal patterns or short-term trading
+because you have a fair value Gap but
+because you have a fair value Gap but
+because you have a fair value Gap but
+going to tell me that that's buying and
+going to tell me that that's buying and
+going to tell me that that's buying and
+for entry patterns when you're looking
+for entry patterns when you're looking
+for entry patterns when you're looking
+the fair value Gap it's reasonable for
+the fair value Gap it's reasonable for
+the fair value Gap it's reasonable for
+it to go up to the fair value Gap High
+it to go up to the fair value Gap High
+it to go up to the fair value Gap High
+Wick that's a it's a premium array
+Wick that's a it's a premium array
+Wick that's a it's a premium array
+it there we have this fair value Gap
+it there we have this fair value Gap
+it there we have this fair value Gap
+resistance the support and resistance
+resistance the support and resistance
+resistance the support and resistance
+support and resistance folks don't have
+support and resistance folks don't have
+support and resistance folks don't have
+fulfills the role of buy side delivery
+fulfills the role of buy side delivery
+fulfills the role of buy side delivery
+pass to the downside so this is sells
+pass to the downside so this is sells
+pass to the downside so this is sells
+delivery to the upside so buy side
+delivery to the upside so buy side
+delivery to the upside so buy side
+you're looking for swing highs and swing
+you're looking for swing highs and swing
+you're looking for swing highs and swing
+that's a Cy sell side and balance buy
+that's a Cy sell side and balance buy
+that's a Cy sell side and balance buy
+price action a lot of the things I'm
+price action a lot of the things I'm
+price action a lot of the things I'm
+in price action that otherwise you're
+in price action that otherwise you're
+in price action that otherwise you're
+impressed with the NASA spread out of
+impressed with the NASA spread out of
+impressed with the NASA spread out of
+when I learned about swing highs and
+when I learned about swing highs and
+when I learned about swing highs and
+swing highs and swing lows and the
+swing highs and swing lows and the
+swing highs and swing lows and the
+you look for swing highs and swing lows
+you look for swing highs and swing lows
+you look for swing highs and swing lows
+Market structure I could see where we
+Market structure I could see where we
+Market structure I could see where we
+swing highs and swing lows and if I
+swing highs and swing lows and if I
+swing highs and swing lows and if I
+start seeing swing highs that are
+start seeing swing highs that are
+start seeing swing highs that are
+Swing highs further back then I know I'm
+Swing highs further back then I know I'm
+Swing highs further back then I know I'm
+failed you using an entry you would not
+... and 1208 more lines
+
+================================================================================
+

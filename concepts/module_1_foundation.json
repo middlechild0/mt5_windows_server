@@ -1,0 +1,81 @@
+{
+  "name": "Foundation - Market Structure Mastery",
+  "description": "Essential market structure concepts that form the foundation of ICT methodology",
+  "difficulty_level": 1,
+  "max_session_time": 30,
+  "completion_criteria": {
+    "understanding_score": 0.9,
+    "validation_score": 0.85,
+    "practical_application": 0.8
+  },
+  "rules": [
+    {
+      "id": "MS001",
+      "title": "Market Structure Identification",
+      "when_condition": "Before entering any trade",
+      "rule_text": "Market structure is defined by higher highs and higher lows for uptrend, or lower highs and lower lows for downtrend. Always identify current market structure on higher timeframes before trading.",
+      "risk_level": "HIGH",
+      "category": "market_structure",
+      "difficulty_level": 1,
+      "prerequisites": [],
+      "validation_questions": [
+        "What defines an uptrend in market structure?",
+        "What defines a downtrend?",
+        "Why must you check higher timeframes first?"
+      ],
+      "examples": [
+        "EURUSD Daily: HH at 1.1200, HL at 1.1150, HH at 1.1250 = Uptrend",
+        "GBPUSD 4H: LH at 1.2800, LL at 1.2750, LH at 1.2770 = Downtrend"
+      ]
+    },
+    {
+      "id": "MS002",
+      "title": "Break of Structure (BOS)",
+      "when_condition": "Price breaks previous swing high/low",
+      "rule_text": "A break of structure occurs when price takes out the previous swing high in an uptrend or swing low in a downtrend. Wait for confirmation before trading the new direction.",
+      "risk_level": "HIGH",
+      "category": "market_structure",
+      "difficulty_level": 1,
+      "prerequisites": [
+        "MS001"
+      ],
+      "validation_questions": [
+        "What constitutes a break of structure?",
+        "Should you trade immediately on BOS?",
+        "What confirmation should you wait for?"
+      ],
+      "examples": [
+        "Uptrend BOS: Price closes above previous swing high",
+        "Downtrend BOS: Price closes below previous swing low"
+      ]
+    },
+    {
+      "id": "MS003",
+      "title": "Change of Character (CHOCH)",
+      "when_condition": "Market structure changes direction",
+      "rule_text": "Change of character happens when an uptrend creates a lower low or downtrend creates a higher high. This signals potential trend reversal.",
+      "risk_level": "HIGH",
+      "category": "market_structure",
+      "difficulty_level": 1,
+      "prerequisites": [
+        "MS001",
+        "MS002"
+      ],
+      "validation_questions": [
+        "What is change of character?",
+        "How does CHOCH differ from BOS?",
+        "What does CHOCH signal?"
+      ],
+      "examples": [
+        "Uptrend CHOCH: Makes lower low instead of higher low",
+        "Downtrend CHOCH: Makes higher high instead of lower high"
+      ]
+    }
+  ],
+  "learning_objectives": [
+    "Identify market structure accurately",
+    "Recognize trend changes and continuations",
+    "Apply higher timeframe analysis",
+    "Understand break of structure vs change of character"
+  ]
+}

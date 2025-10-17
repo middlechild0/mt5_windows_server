@@ -1,0 +1,36 @@
+{
+  "total_modules": 4,
+  "total_rules": 12,
+  "learning_progression": [
+    "module_1_foundation",
+    "module_2_basic",
+    "module_3_intermediate",
+    "module_4_advanced"
+  ],
+  "module_overview": {
+    "module_1_foundation": {
+      "difficulty": 1,
+      "rules_count": 3,
+      "session_time": 30,
+      "name": "Foundation - Market Structure Mastery"
+    },
+    "module_2_basic": {
+      "difficulty": 2,
+      "rules_count": 3,
+      "session_time": 45,
+      "name": "Basic Concepts - Core ICT Elements"
+    },
+    "module_3_intermediate": {
+      "difficulty": 3,
+      "rules_count": 3,
+      "session_time": 60,
+      "name": "Intermediate - Trading Applications"
+    },
+    "module_4_advanced": {
+      "difficulty": 4,
+      "rules_count": 3,
+      "session_time": 75,
+      "name": "Advanced - Risk Management & Precision"
+    }
+  }
+}

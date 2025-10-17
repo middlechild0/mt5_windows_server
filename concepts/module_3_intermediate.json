@@ -1,0 +1,86 @@
+{
+  "name": "Intermediate - Trading Applications",
+  "description": "Practical application of ICT concepts for trade entries and management",
+  "difficulty_level": 3,
+  "max_session_time": 60,
+  "completion_criteria": {
+    "understanding_score": 0.8,
+    "validation_score": 0.75,
+    "practical_application": 0.7
+  },
+  "rules": [
+    {
+      "id": "OB002",
+      "title": "Order Block Entry",
+      "when_condition": "Price returns to order block level",
+      "rule_text": "Enter trades when price returns to an order block with confirmation from lower timeframe. Look for rejection at the level, not just arrival.",
+      "risk_level": "HIGH",
+      "category": "order_blocks",
+      "difficulty_level": 3,
+      "prerequisites": [
+        "OB001",
+        "MS001",
+        "MS002"
+      ],
+      "validation_questions": [
+        "When should you enter an order block trade?",
+        "What confirmation do you need?",
+        "Why not enter on arrival alone?"
+      ],
+      "examples": [
+        "15min rejection candle at 1H bullish order block",
+        "5min engulfing pattern at 15min order block"
+      ]
+    },
+    {
+      "id": "FVG002",
+      "title": "FVG Trading Direction",
+      "when_condition": "Trading fair value gaps",
+      "rule_text": "Trade in the direction of the displacement that created the fair value gap. Bearish FVGs are resistance, bullish FVGs are support.",
+      "risk_level": "HIGH",
+      "category": "fair_value_gaps",
+      "difficulty_level": 3,
+      "prerequisites": [
+        "FVG001",
+        "MS002"
+      ],
+      "validation_questions": [
+        "Which direction should you trade an FVG?",
+        "What is a bearish FVG's function?",
+        "What is a bullish FVG's function?"
+      ],
+      "examples": [
+        "Bullish displacement creates bullish FVG - trade long on return",
+        "Bearish displacement creates bearish FVG - trade short on return"
+      ]
+    },
+    {
+      "id": "LIQ002",
+      "title": "Liquidity Sweep Entry",
+      "when_condition": "Price takes out highs/lows",
+      "rule_text": "Enter opposite to the sweep direction after liquidity is taken. If buy stops are hit above highs, look for short opportunities as price reverses.",
+      "risk_level": "HIGH",
+      "category": "liquidity",
+      "difficulty_level": 3,
+      "prerequisites": [
+        "LIQ001",
+        "MS002"
+      ],
+      "validation_questions": [
+        "How do you trade a liquidity sweep?",
+        "What happens after buy stops are taken?",
+        "Why trade opposite to the sweep?"
+      ],
+      "examples": [
+        "Price sweeps above highs, then reverses down - go short",
+        "Price sweeps below lows, then reverses up - go long"
+      ]
+    }
+  ],
+  "learning_objectives": [
+    "Execute order block entries with confirmation",
+    "Trade fair value gaps in correct direction",
+    "Use liquidity sweeps for entry timing",
+    "Apply multi-timeframe confirmation"
+  ]
+}

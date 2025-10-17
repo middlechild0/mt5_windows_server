@@ -1,0 +1,248 @@
+ICT TRADING AI - SAFE TRAINING DATA (MANUALLY CURATED)
+========================================================
+
+CRITICAL NOTICE: This document contains manually curated ICT trading rules 
+extracted from actual teachings. Use ONLY this document for AI training.
+The automated extractions contain dangerous incomplete fragments.
+
+TRAINING SAFETY PROTOCOL:
+- Each rule is complete and actionable
+- Risk levels assigned for safety prioritization  
+- Verified against original ICT teachings
+- No incomplete sentences or fragments
+- Context preserved for accurate interpretation
+
+============================================================
+
+MARKET STRUCTURE ANALYSIS:
+
+Rule: Market structure is defined by higher highs and higher lows for uptrend, or lower highs and lower lows for downtrend. Always identify current market structure on higher timeframes before trading.
+Priority: CRITICAL - Trading against structure leads to losses
+Application: Before entering any trade
+
+Rule: A break of structure occurs when price takes out the previous swing high in an uptrend or swing low in a downtrend. Wait for confirmation before trading the new direction.
+Priority: CRITICAL - False breaks are common
+Application: When price breaks previous swing high/low
+
+Rule: Change of character happens when an uptrend creates a lower low or downtrend creates a higher high. This signals potential trend reversal.
+Priority: CRITICAL - Trend changes can be costly if missed
+Application: When market structure changes direction
+
+============================================================
+
+ORDER BLOCK METHODOLOGY:
+
+Rule: An order block is the last opposing candle before a strong directional move. Bullish order blocks are the last down-closing candle before upward displacement.
+Priority: HIGH - Entry timing critical
+Application: When identifying institutional order flow
+
+Rule: Enter trades when price returns to an order block with confirmation from lower timeframe. Look for rejection at the level, not just arrival.
+Priority: CRITICAL - Entry timing affects risk/reward
+Application: When price returns to order block level
+
+Rule: An order block becomes invalid when price closes below a bullish order block or above a bearish order block. Exit trades immediately upon invalidation.
+Priority: CRITICAL - Invalidated blocks often lead to major moves against position
+Application: When price closes through order block
+
+============================================================
+
+FAIR VALUE GAP TRADING:
+
+Rule: A fair value gap is a three-candle pattern where the first candle's high/low doesn't overlap with the third candle's low/high, creating an imbalance.
+Priority: HIGH - Must distinguish from regular gaps
+Application: When analyzing price inefficiencies
+
+Rule: Trade in the direction of the displacement that created the fair value gap. Bearish FVGs are resistance, bullish FVGs are support.
+Priority: CRITICAL - Wrong direction leads to immediate losses
+Application: When trading fair value gaps
+
+Rule: Fair value gaps don't always fill completely. A partial fill (50-75%) may provide optimal entry, especially in strong trending moves.
+Priority: HIGH - Waiting for full fill may miss entry
+Application: When price approaches fair value gap
+
+============================================================
+
+LIQUIDITY CONCEPTS:
+
+Rule: Liquidity rests above old highs (buy stops) and below old lows (sell stops). Equal highs and lows create strong liquidity pools.
+Priority: MEDIUM - Identification skill affects targeting
+Application: When analyzing potential price targets
+
+Rule: Enter opposite to the sweep direction after liquidity is taken. If buy stops are hit above highs, look for short opportunities as price reverses.
+Priority: CRITICAL - Timing critical, false sweeps possible
+Application: When price takes out highs/lows
+
+Rule: Target external liquidity (outside current range) for higher probability moves. Internal liquidity may cause price to consolidate.
+Priority: HIGH - Affects profit potential
+Application: When choosing trade targets
+
+============================================================
+
+SESSION CHARACTERISTICS:
+
+Rule: London session often creates the daily range. Look for initial displacement and potential reversals during this session.
+Priority: HIGH - High volatility session
+Application: Trading 2:00-5:00 AM EST
+
+Rule: New York session tends to continue or reverse London's move. First hour is crucial for determining daily bias.
+Priority: CRITICAL - Major reversals common
+Application: Trading 8:00-11:00 AM EST
+
+Rule: Asian session is typically range-bound. Use this time to identify key levels for London/NY sessions.
+Priority: MEDIUM - Lower volatility, good for analysis
+Application: Trading 6:00 PM - 2:00 AM EST
+
+============================================================
+
+RISK MANAGEMENT PROTOCOL:
+
+Rule: Never risk more than 1-2% of account balance per trade. Calculate position size based on stop loss distance, not desired profit.
+Priority: CRITICAL - Account survival depends on this
+Application: Before every trade
+
+Rule: Place stop losses beyond structural invalidation points, not at round numbers or arbitrary distances. Use order block highs/lows as reference.
+Priority: CRITICAL - Wrong stop placement equals guaranteed losses
+Application: When entering trades
+
+Rule: Minimum 1:2 risk-to-reward ratio required. Only take trades where profit target is at least twice the stop loss distance.
+Priority: CRITICAL - Poor R:R leads to long-term losses
+Application: When evaluating trade setups
+
+Rule: Limit daily risk to 6% of account. Stop trading for the day if this limit is reached to prevent emotional revenge trading.
+Priority: CRITICAL - Prevents catastrophic drawdown
+Application: When managing multiple trades
+
+============================================================
+
+ENTRY AND EXIT MANAGEMENT:
+
+Rule: Always wait for lower timeframe confirmation before entering. Don't enter solely based on higher timeframe analysis.
+Priority: CRITICAL - Reduces false signals
+Application: When taking trade entries
+
+Rule: Take 25-50% profits at first target, move stop to breakeven, let remainder run to final target or trailing stop.
+Priority: HIGH - Balances profit security with potential
+Application: When trade moves in your favor
+
+Rule: Move stop loss to breakeven when trade reaches 1:1 risk-reward ratio. This ensures minimum breakeven on winning trades.
+Priority: HIGH - Protects capital
+Application: When trade is profitable
+
+Rule: Trail stops based on market structure, not arbitrary distances. Use swing lows in uptrends, swing highs in downtrends.
+Priority: HIGH - Structure-based trailing is safer
+Application: When managing winning trades
+
+============================================================
+
+TIMEFRAME ANALYSIS HIERARCHY:
+
+Rule: Start analysis on higher timeframes (Daily, 4H) for bias, then use lower timeframes (1H, 15M) for precise entries.
+Priority: CRITICAL - Wrong timeframe analysis equals wrong bias
+Application: When analyzing markets
+
+Rule: Best setups have confluence across multiple timeframes. Daily bias plus 4H structure plus 1H entry equals high probability.
+Priority: HIGH - More confluence equals higher probability
+Application: When validating setups
+
+============================================================
+
+FORBIDDEN PRACTICES (NEVER DO):
+
+Rule: NEVER move stop loss against your position to give the trade more room. This is the fastest way to destroy an account.
+Priority: CRITICAL - Account killer
+Application: When trade goes against you
+
+Rule: Never immediately re-enter after a loss to get money back. Take a break, reassess, wait for proper setup.
+Priority: CRITICAL - Emotional trading destroys accounts
+Application: After losses
+
+Rule: Avoid trading 30 minutes before and after major news unless you're an expert at news trading. Spreads widen and volatility spikes.
+Priority: CRITICAL - Unpredictable price action
+Application: During high-impact news releases
+
+Rule: Never place stops at obvious round numbers. Everyone else does this, making them obvious targets for manipulation.
+Priority: CRITICAL - Obvious stops get hunted
+Application: When placing stop losses
+
+Rule: Quality over quantity. Better to take 2-3 high-probability trades per week than 20 mediocre ones.
+Priority: HIGH - Overtrading increases costs and errors
+Application: When looking for trades
+
+============================================================
+
+ADVANCED CONCEPTS:
+
+Rule: Buy at discount (below 50% of range), sell at premium (above 50% of range). Use daily/weekly ranges to determine premium/discount areas.
+Priority: HIGH - Improves entry timing
+Application: When entering trades
+
+Rule: Price is delivered algorithmically to liquidity and inefficiencies. Markets aren't random - they seek specific levels for specific reasons.
+Priority: MEDIUM - Conceptual understanding
+Application: When understanding market mechanics
+
+Rule: Follow smart money (institutions), fade dumb money (retail). Smart money creates displacement, dumb money creates consolidation.
+Priority: HIGH - Helps identify trade direction
+Application: When analyzing market moves
+
+============================================================
+
+AI DECISION FRAMEWORK:
+
+STEP 1 - MARKET STRUCTURE ANALYSIS:
+- Identify trend on Daily and 4H timeframes
+- Determine if bullish (HH, HL) or bearish (LH, LL)
+- Look for break of structure or change of character
+
+STEP 2 - CONCEPT IDENTIFICATION:
+- Locate order blocks from recent displacement
+- Identify fair value gaps that may act as support/resistance  
+- Mark liquidity levels above/below significant highs/lows
+
+STEP 3 - SESSION TIMING:
+- Consider current trading session characteristics
+- Align trade direction with session tendencies
+- Avoid major news events unless expert
+
+STEP 4 - RISK ASSESSMENT:
+- Calculate 1-2% position size based on stop distance
+- Ensure minimum 1:2 risk-reward ratio
+- Place stops beyond structural invalidation points
+
+STEP 5 - ENTRY EXECUTION:
+- Wait for lower timeframe confirmation
+- Enter on rejection at key levels, not just arrival
+- Confirm multiple timeframe confluence
+
+STEP 6 - TRADE MANAGEMENT:
+- Move to breakeven at 1:1 R:R
+- Take partial profits at targets
+- Trail stops using market structure
+- Exit immediately if structure invalidates
+
+============================================================
+
+SAFETY VALIDATION CHECKLIST FOR AI:
+
+Before executing any trade, verify:
+[ ] Market structure direction identified correctly
+[ ] ICT concept (OB, FVG, Liquidity) properly located
+[ ] Position size calculated at 1-2% risk maximum
+[ ] Stop loss placed beyond structural invalidation
+[ ] Risk-reward ratio minimum 1:2 achieved
+[ ] Entry has lower timeframe confirmation
+[ ] No major news events in next 30 minutes
+[ ] Session timing aligns with strategy
+[ ] Multiple timeframe confluence present
+[ ] Trade plan includes exit strategy
+
+CRITICAL: If ANY item fails validation, DO NOT EXECUTE TRADE
+
+============================================================
+
+This training data represents authentic ICT methodology manually extracted 
+from verified teachings. Each rule is complete, actionable, and safe for 
+AI implementation when combined with proper risk management protocols.
+
+Quality Assured: October 2, 2025
+Source: ICT 2024 Mentorship Series (Manual Curation)
+Risk Level: SAFE FOR AI TRAINING

@@ -1,0 +1,88 @@
+{
+  "name": "Advanced - Risk Management & Precision",
+  "description": "Advanced concepts including invalidation, risk management, and session characteristics",
+  "difficulty_level": 4,
+  "max_session_time": 75,
+  "completion_criteria": {
+    "understanding_score": 0.75,
+    "validation_score": 0.7,
+    "practical_application": 0.65
+  },
+  "rules": [
+    {
+      "id": "OB003",
+      "title": "Order Block Invalidation",
+      "when_condition": "Price closes through order block",
+      "rule_text": "An order block becomes invalid when price closes below a bullish order block or above a bearish order block. Exit trades immediately upon invalidation.",
+      "risk_level": "CRITICAL",
+      "category": "order_blocks",
+      "difficulty_level": 4,
+      "prerequisites": [
+        "OB001",
+        "OB002"
+      ],
+      "validation_questions": [
+        "When is an order block invalidated?",
+        "What should you do upon invalidation?",
+        "Why is this rule critical?"
+      ],
+      "examples": [
+        "Bullish OB at 1.1200 - close below = invalid, exit long",
+        "Bearish OB at 1.2800 - close above = invalid, exit short"
+      ]
+    },
+    {
+      "id": "RISK001",
+      "title": "Position Size Management",
+      "when_condition": "Before entering any trade",
+      "rule_text": "Risk only 1-2% of account per trade. Position size must be calculated based on stop loss distance, not arbitrary lot sizes.",
+      "risk_level": "CRITICAL",
+      "category": "risk_management",
+      "difficulty_level": 4,
+      "prerequisites": [
+        "OB003",
+        "FVG002",
+        "LIQ002"
+      ],
+      "validation_questions": [
+        "What percentage should you risk per trade?",
+        "How do you calculate position size?",
+        "Why not use arbitrary lot sizes?"
+      ],
+      "examples": [
+        "$10k account, 2% risk = $200 max loss per trade",
+        "50 pip stop = 0.4 lots on EURUSD for $200 risk"
+      ]
+    },
+    {
+      "id": "SESSION001",
+      "title": "London Session Trading",
+      "when_condition": "Trading 2:00-5:00 AM EST",
+      "rule_text": "London session often creates the daily range. Look for initial displacement and potential reversals during this session.",
+      "risk_level": "MEDIUM",
+      "category": "sessions",
+      "difficulty_level": 4,
+      "prerequisites": [
+        "MS001",
+        "OB001",
+        "FVG001",
+        "LIQ001"
+      ],
+      "validation_questions": [
+        "What characterizes London session?",
+        "What should you look for in London?",
+        "Why is London session important?"
+      ],
+      "examples": [
+        "London open creates 100 pip range on GBPUSD",
+        "Initial selloff then reversal during London session"
+      ]
+    }
+  ],
+  "learning_objectives": [
+    "Implement proper risk management",
+    "Handle invalidation scenarios correctly",
+    "Utilize session characteristics",
+    "Integrate all concepts systematically"
+  ]
+}
