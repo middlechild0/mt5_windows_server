@@ -1,0 +1,7 @@
+# Core dependencies
+requests>=2.31.0  # For HTTP communication with MT5 server
+python-dotenv>=1.0.0  # For loading environment variables
+
+# Optional dependencies
+pandas>=2.1.0  # For data analysis
+numpy>=1.24.0  # For numerical operations
