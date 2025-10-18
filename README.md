@@ -1,111 +1,177 @@
-# Project Structure Overview
+# AI Trading System# The AI Trading Project
 
-## Directory Structure
 
-```
-project_root/
-├── data/
-│   ├── raw/           # Original unprocessed data files
-│   ├── processed/     # Cleaned and preprocessed data
-│   ├── backtest/      # Data organized for backtesting
-│   ├── live/          # Real-time trading data
-│   └── archive/       # Historical data archive
-│
-├── knowledge/
-│   ├── rules/         # Trading rules and strategy definitions
-│   ├── models/        # Model architecture definitions
-│   └── analytics/     # Analysis reports and insights
-│
-├── logs/
-│   ├── trades/        # Trading activity logs
-│   ├── system/        # System operation logs
-│   └── errors/        # Error and warning logs
-│
-├── models/
-│   ├── checkpoints/   # Model checkpoints during training
-│   └── archive/       # Historical model versions
-│
-├── signals/
-│   ├── backtest/      # Signals generated during backtesting
-│   ├── live/          # Real-time trading signals
-│   └── archive/       # Historical signals archive
-│
-├── src/
-│   ├── core/          # Core system components
-│   ├── utils/         # Utility functions and helpers
-│   ├── strategies/    # Trading strategy implementations
-│   └── config.py      # System configuration
-│
-└── sqlite_db/         # SQLite database files
 
-## Code Organization
+A professional trading system that combines artificial intelligence with MetaTrader 5 integration for automated trading.This project implements an AI-powered trading system with MetaTrader 5 integration.
 
-### Core Components (src/core/)
-- Data processing pipeline
-- Trading engine
+
+
+## Project Structure## Project Structure
+
+
+
+The project is organized into 5 main components:The project is organized into 5 main folders:
+
+
+
+### 1. Server `/server`### src/
+
+- MT5 integration and connectivityContains all source code files:
+
+- Trading execution engine- mt5/ - MetaTrader 5 server implementation
+
+- Network communication- utils/ - Core utilities and components
+
+- System utilities and core services  - backtest_engine.py - Backtesting functionality
+
+- Configuration management  - broker_config.py - Broker configuration
+
+- Security and authentication  - config.py - General configuration
+
+  - data_handler.py - Data management
+
+### 2. AI `/ai`  - live_trade_executor.py - Live trading execution
+
+- Machine learning models  - market_data_stream.py - Market data streaming
+
+- Training pipelines  - model_trainer.py - AI model training
+
+- Model evaluation  - mt5_client.py - MT5 client implementation
+
+- Feature engineering  - mt5_connector.py - MT5 connection management
+
+- Performance optimization  - performance_monitor.py - Performance tracking
+
+- Model versioning and tracking  - prediction_pipeline.py - AI prediction pipeline
+
+  - risk_manager.py - Risk management
+
+### 3. Signals `/signals`  - signal_generator.py - Trading signal generation
+
+- Trading strategy implementation  - signal_optimizer.py - Signal optimization
+
+- Signal generation  - strategy_base.py - Base strategy class
+
+- Market analysis  - trade_executor.py - Trade execution
+
+- Risk management  - trade_tracker.py - Trade tracking
+
+- Position sizing  - training_pipeline.py - AI training pipeline
+
+- Strategy backtesting
+
+### data/
+
+### 4. Data `/data`- raw/ - Raw market data
+
+- Market data storage- processed/ - Processed data for analysis
+
+- Historical price data- checkpoints/ - Model checkpoints
+
+- Trading performance logs- logs/ - System and trading logs
+
+- System metrics
+
+- Configuration files### docs/
+
+- Cached dataDocumentation files including:
+
+- Technical documentation
+
+### 5. Documentation `/documentation`- Trading strategies
+
+- System architecture- API references
+
+- API references- Setup guides
+
+- Trading strategies
+
+- Setup guides### tests/
+
+- Best practicesUnit tests and integration tests for all components
+
+- Contributing guidelines
+
+### scripts/
+
+## Key FeaturesUtility scripts for tasks like:
+
+- Database initialization
+
+- Real-time market data processing- Environment setup
+
+- AI-powered trading decisions- Data processing
+
+- Automated trade execution- Model training
+
 - Risk management system
-- Signal generation
-- Model training and inference
 
-### Utilities (src/utils/)
-- File operations
-- Data validation
-- Type checking
-- Logging utilities
-- Database operations
+- Performance monitoring## Setup
 
-### Strategies (src/strategies/)
-- ICT trading strategies
-- Custom indicator implementations
-- Signal filters and validation
+- Strategy backtesting1. Install dependencies: `pip install -r requirements.txt`
 
-## Data Flow
+2. Configure environment variables
 
-1. Raw Data Input
-   - Price data files → data/raw/
-   - Cleaning and validation
-   - Storage in processed format
+## Setup3. Run tests: `python -m pytest tests/`
 
-2. Strategy Processing
-   - Load processed data
-   - Apply trading rules
-   - Generate signals
-   - Store in signals directory
+4. Start trading system: `python src/main.py`
 
-3. Model Training
-   - Feature extraction
-   - Model training
-   - Checkpoint saving
-   - Version control
+1. Configure the server:
 
-4. Live Trading
-   - Real-time data processing
-   - Signal generation
-   - Risk management
-   - Trade execution
-   - Logging and monitoring
+```bash## Contributing
 
-## Safety Features
+cd serverPlease read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 
-- Automatic data backup
-- Version control for models
-- Error logging and monitoring
-- Data validation at each step
-- Risk management checks
+python setup.py install
 
-## Configuration Management
+```## License
 
-All system parameters are managed in src/config.py:
-- Database settings
-- Directory paths
-- Trading parameters
-- Safety limits
-- Logging configuration
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
-## Maintenance
+2. Prepare the data:- Trading parameters
 
-- Regular data archival
-- Log rotation
-- Database backup
-- Model versioning
-- Performance monitoring
+```bash- Safety limits
+
+cd data- Logging configuration
+
+python prepare_data.py
+
+```## Maintenance
+
+
+
+3. Train the AI models:- Regular data archival
+
+```bash- Log rotation
+
+cd ai- Database backup
+
+python train_models.py- Model versioning
+
+```- Performance monitoring
+
+4. Start the trading system:
+```bash
+cd server
+python start_trading.py
+```
+
+## Configuration
+
+The system can be configured through:
+- `server/config.py` - Server settings
+- `ai/config.py` - AI model parameters
+- `signals/config.py` - Trading parameters
+- Environment variables (see .env.example)
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Submit a pull request
+
+See `documentation/CONTRIBUTING.md` for detailed guidelines.
+
+## License
+
+This project is licensed under the MIT License - see `documentation/LICENSE.md`
