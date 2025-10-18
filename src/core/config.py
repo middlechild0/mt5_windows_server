@@ -2,15 +2,15 @@
 Configuration for MT5 Linux client
 """
 import os
-from dataclasses import dataclass
-from typing import Optional
+from dataclasses import dataclass, field
+from typing import Optional, List
 
 @dataclass
 class MT5Config:
     """MT5 client configuration"""
     
     # Windows MT5 server settings
-    SERVER_HOST: str = os.getenv('MT5_SERVER_HOST', '192.168.1.xxx')  # Replace with actual IP
+    SERVER_HOST: str = os.getenv('MT5_SERVER_HOST', '192.168.0.102')  # Windows MT5 server IP
     SERVER_PORT: int = int(os.getenv('MT5_SERVER_PORT', '5000'))
     API_KEY: Optional[str] = os.getenv('MT5_API_KEY')  # Optional API key for authentication
     
@@ -20,10 +20,10 @@ class MT5Config:
     DEFAULT_TAKE_PROFIT_PIPS: int = int(os.getenv('MT5_DEFAULT_TP_PIPS', '100'))
     
     # Symbols to trade
-    SYMBOLS: list = ['EURUSD', 'GBPUSD', 'USDJPY']  # Add/remove symbols as needed
+    SYMBOLS: List[str] = field(default_factory=lambda: ['EURUSD', 'GBPUSD', 'USDJPY'])
     
     # Timeframes for analysis
-    TIMEFRAMES: list = ['M1', 'M5', 'M15', 'H1', 'H4', 'D1']
+    TIMEFRAMES: List[str] = field(default_factory=lambda: ['M1', 'M5', 'M15', 'H1', 'H4', 'D1'])
     
     @property
     def server_url(self) -> str:

@@ -6,33 +6,56 @@ from flask import Flask, jsonify, request
 import pandas as pd
 from datetime import datetime
 import logging
+import os
 from logging.handlers import RotatingFileHandler
 import config
 
-# Setup logging
-handler = RotatingFileHandler('mt5_server.log', maxBytes=1024*1024, backupCount=5)
-handler.setFormatter(logging.Formatter(
-    '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-))
+# Create logs directory if it doesn't exist
+os.makedirs('logs', exist_ok=True)
+os.makedirs('logs/trades', exist_ok=True)
+os.makedirs('logs/errors', exist_ok=True)
+os.makedirs('logs/system', exist_ok=True)
 
-logger = logging.getLogger('mt5_server')
-logger.setLevel(logging.INFO)
-logger.addHandler(handler)
+# Setup different loggers for different purposes
+def setup_logger(name, log_file, level=logging.INFO):
+    handler = RotatingFileHandler(
+        log_file,
+        maxBytes=1024*1024,  # 1MB
+        backupCount=5
+    )
+    handler.setFormatter(logging.Formatter(
+        '%(asctime)s - %(levelname)s - %(message)s',
+        datefmt='%Y-%m-%d %H:%M:%S'
+    ))
+    
+    logger = logging.getLogger(name)
+    logger.setLevel(level)
+    logger.addHandler(handler)
+    return logger
+
+# Initialize different loggers
+system_logger = setup_logger('system', 'logs/system/mt5_system.log')
+trade_logger = setup_logger('trades', 'logs/trades/mt5_trades.log')
+error_logger = setup_logger('errors', 'logs/errors/mt5_errors.log', logging.ERROR)
 
 app = Flask(__name__)
 
 def connect_mt5():
     """Initialize MT5 connection"""
     if not mt5.initialize():
-        logger.error(f"MT5 initialization failed: {mt5.last_error()}")
+        error_msg = f"MT5 initialization failed: {mt5.last_error()}"
+        error_logger.error(error_msg)
+        system_logger.error(error_msg)
         return False
     
     # Connect to account
     if not mt5.login(config.MT5_ACCOUNT, config.MT5_PASSWORD, config.MT5_SERVER):
-        logger.error(f"MT5 login failed: {mt5.last_error()}")
+        error_msg = f"MT5 login failed: {mt5.last_error()}"
+        error_logger.error(error_msg)
+        system_logger.error(error_msg)
         return False
         
-    logger.info("MT5 connected successfully")
+    system_logger.info("MT5 connected successfully")
     return True
 
 def check_api_key():
@@ -86,16 +109,26 @@ def get_account_info():
 @app.route('/price/<symbol>')
 def get_price(symbol):
     """Get current price for a symbol"""
+    system_logger.info(f"Price request received for symbol: {symbol}")
+    
     if not mt5.initialize():
-        return jsonify({"error": "MT5 not initialized"}), 500
+        error_msg = "MT5 not initialized when requesting price"
+        error_logger.error(error_msg)
+        return jsonify({"error": error_msg}), 500
         
     # Select the symbol in Market Watch
     if not mt5.symbol_select(symbol, True):
-        return jsonify({"error": f"Symbol {symbol} not found"}), 404
+        error_msg = f"Symbol {symbol} not found or not selected in Market Watch"
+        error_logger.error(error_msg)
+        return jsonify({"error": error_msg}), 404
         
     tick = mt5.symbol_info_tick(symbol)
     if tick is None:
-        return jsonify({"error": f"Could not get price for {symbol}"}), 500
+        error_msg = f"Could not get price for {symbol}"
+        error_logger.error(error_msg)
+        return jsonify({"error": error_msg}), 500
+        
+    system_logger.info(f"Price retrieved for {symbol}: Bid={tick.bid}, Ask={tick.ask}")
         
     return jsonify({
         "symbol": symbol,
@@ -231,8 +264,12 @@ def close_position(ticket):
     })
 
 if __name__ == '__main__':
-    logger.info("Starting MT5 server...")
-    if connect_mt5():
-        app.run(host=config.HOST, port=config.PORT, debug=config.DEBUG)
-    else:
-        logger.error("Failed to start MT5 server")
+    system_logger.info(f"Starting MT5 server on {config.HOST}:{config.PORT}")
+    system_logger.info(f"Debug mode: {config.DEBUG}")
+    
+    if not connect_mt5():
+        error_logger.error("Failed to start MT5 server")
+        exit(1)
+        
+    system_logger.info("MT5 server started successfully")
+    app.run(host=config.HOST, port=config.PORT, debug=config.DEBUG)
